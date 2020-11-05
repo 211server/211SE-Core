@@ -4,9 +4,16 @@
     <Gas>
       <Id>
         <TypeId>MyObjectBuilder_GasProperties</TypeId>
+        <SubtypeId>Oxygen</SubtypeId>
+      </Id>
+      <EnergyDensity>0</EnergyDensity>
+    </Gas>
+    <Gas>
+      <Id>
+        <TypeId>MyObjectBuilder_GasProperties</TypeId>
         <SubtypeId>Hydrogen</SubtypeId>
       </Id>
-      <EnergyDensity>0.002</EnergyDensity>
+      <EnergyDensity>0.001556</EnergyDensity>
     </Gas>
     <Gas>
       <Id>
@@ -20,7 +27,7 @@
         <TypeId>MyObjectBuilder_GasProperties</TypeId>
         <SubtypeId>JetFuel</SubtypeId>
       </Id>
-      <EnergyDensity>0.00778</EnergyDensity>  <!-- MWh/litres -->
+      <EnergyDensity>0.00778</EnergyDensity>
     </Gas>
   </GasProperties>
 </Definitions>
