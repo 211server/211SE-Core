@@ -7,6 +7,7 @@
         <SubtypeId>BasicElectroncis</SubtypeId>
       </Id>
       <DisplayName>Basic Electronics</DisplayName>
+      <Description>基础电子零件</Description>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
@@ -17,6 +18,7 @@
         <SubtypeId>BscMassProdElect</SubtypeId>
       </Id>
       <DisplayName>Basic Electronics Mass Production</DisplayName>
+      <Description>基础电子零件批量生产</Description>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>

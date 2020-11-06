@@ -7,6 +7,7 @@
         <SubtypeId>Alloys</SubtypeId>
       </Id>
       <DisplayName>Alloys</DisplayName>
+      <Description>合金</Description>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
@@ -17,6 +18,7 @@
         <SubtypeId>MassProdAlloys</SubtypeId>
       </Id>
       <DisplayName>Alloy Mass Production</DisplayName>
+      <Description>合金批量生产</Description>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>

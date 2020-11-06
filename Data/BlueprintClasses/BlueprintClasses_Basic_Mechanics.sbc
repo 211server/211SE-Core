@@ -7,6 +7,7 @@
         <SubtypeId>BasicMechanics</SubtypeId>
       </Id>
       <DisplayName>Basic Mechanics</DisplayName>
+      <Description>基础机械零件</Description>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
@@ -17,6 +18,7 @@
         <SubtypeId>BscMassProdMech</SubtypeId>
       </Id>
       <DisplayName>Basic Mechanics Mass Production</DisplayName>
+      <Description>基础机械零件批量生产</Description>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
