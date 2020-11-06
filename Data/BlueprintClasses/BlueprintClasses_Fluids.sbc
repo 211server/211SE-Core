@@ -23,6 +23,31 @@
     </Class>
   </BlueprintClasses>
   <BlueprintClassEntries>
+   
+	<Entry Class="MassProdFluids" BlueprintSubtypeId="MineralSpiritsX100" />
+	<Entry Class="MassProdFluids" BlueprintSubtypeId="StearateX100" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="GreaseX100" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="OilX100" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="CoolantX100" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="ThermalPasteX100" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="LiquidGasolineX100" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="LiquidJetFuelX100" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="IngotToWaterX100" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="IngotToIceX100" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="WaterToIceX100" />
+	
+	<Entry Class="MassProdFluids" BlueprintSubtypeId="MineralSpiritsX10" />
+	<Entry Class="MassProdFluids" BlueprintSubtypeId="StearateX10" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="GreaseX10" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="OilX10" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="CoolantX10" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="ThermalPasteX10" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="LiquidGasolineX10" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="LiquidJetFuelX10" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="IngotToWaterX10" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="IngotToIceX10" />
+    <Entry Class="MassProdFluids" BlueprintSubtypeId="WaterToIceX10" />
+	
 	<Entry Class="MassProdFluids" BlueprintSubtypeId="MineralSpirits" />
 	<Entry Class="MassProdFluids" BlueprintSubtypeId="Stearate" />
     <Entry Class="MassProdFluids" BlueprintSubtypeId="Grease" />

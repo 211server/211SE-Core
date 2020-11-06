@@ -25,6 +25,91 @@
     </Class>
   </BlueprintClasses>
   <BlueprintClassEntries>
+   
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="DetectorX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="BreakerX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="SolenoidX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="StatorX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="ControlRodX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="CameraX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="SpeakerX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="DisplayX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="HardDriveX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="SolidStateDriveX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="QuantumDriveX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="MicroChipX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="SolderX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="QuantumProcessorX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="AIMainframeX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="NetworkingMainframeX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="TargetingMainframeX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="RectifierX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="AmplifierX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="PowerSupplyX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="TransformerX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="EnergyCouplerX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="SuperconductorX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="FluxCoilX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="FluxCapacitorX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="MagneticCouplerX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="ThermoCoupleX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="IgniterX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="ProjectorX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="BeamEmiterX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="IonProjectorX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="GravityGeneratorX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="ParticleAcceleratorX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="ShieldEmitterX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="HeatingElementX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="CatalyticConvertorX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="ReactorX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="FusionChamberX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="LithiumPowerCellX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="LeadPowerCellX100" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="FluoridePowerCellX100" />
+	
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="DetectorX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="BreakerX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="SolenoidX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="StatorX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="ControlRodX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="CameraX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="SpeakerX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="DisplayX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="HardDriveX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="SolidStateDriveX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="QuantumDriveX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="MicroChipX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="SolderX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="QuantumProcessorX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="AIMainframeX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="NetworkingMainframeX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="TargetingMainframeX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="RectifierX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="AmplifierX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="PowerSupplyX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="TransformerX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="EnergyCouplerX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="SuperconductorX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="FluxCoilX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="FluxCapacitorX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="MagneticCouplerX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="ThermoCoupleX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="IgniterX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="ProjectorX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="BeamEmiterX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="IonProjectorX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="GravityGeneratorX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="ParticleAcceleratorX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="ShieldEmitterX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="HeatingElementX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="CatalyticConvertorX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="ReactorX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="FusionChamberX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="LithiumPowerCellX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="LeadPowerCellX10" />
+    <Entry Class="AdvMassProdElect" BlueprintSubtypeId="FluoridePowerCellX10" />
+	
     <Entry Class="AdvMassProdElect" BlueprintSubtypeId="Detector" />
     <Entry Class="AdvMassProdElect" BlueprintSubtypeId="Breaker" />
     <Entry Class="AdvMassProdElect" BlueprintSubtypeId="Solenoid" />

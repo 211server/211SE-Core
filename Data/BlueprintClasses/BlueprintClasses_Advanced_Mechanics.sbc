@@ -25,6 +25,43 @@
     </Class>
   </BlueprintClasses>
   <BlueprintClassEntries>
+   
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="PneumaticMotorX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="PneumaticPumpX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="PressureRegulatorX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="PressurizedTubingX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="RadiatorX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="MotorX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="ArmatureX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="CompressorX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="TurbineX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="ThrustX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="MedicalComponentX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="MotorBlockX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="AluminumPistonAssemblyX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="TitaniumPistonAssemblyX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="SteelValveAssemblyX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="NitinolValveAssemblyX100" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="CoolingUnitX100" />
+	
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="PneumaticMotorX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="PneumaticPumpX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="PressureRegulatorX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="PressurizedTubingX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="RadiatorX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="MotorX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="ArmatureX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="CompressorX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="TurbineX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="ThrustX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="MedicalComponentX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="MotorBlockX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="AluminumPistonAssemblyX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="TitaniumPistonAssemblyX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="SteelValveAssemblyX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="NitinolValveAssemblyX10" />
+    <Entry Class="AdvMassProdMech" BlueprintSubtypeId="CoolingUnitX10" />
+	
     <Entry Class="AdvMassProdMech" BlueprintSubtypeId="PneumaticMotor" />
     <Entry Class="AdvMassProdMech" BlueprintSubtypeId="PneumaticPump" />
     <Entry Class="AdvMassProdMech" BlueprintSubtypeId="PressureRegulator" />

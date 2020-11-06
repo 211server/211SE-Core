@@ -1,6 +1,40 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Blueprints>
+    <Blueprint> <!-- ThoriumFuelRodX100 -->
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>ThoriumFuelRodX100</SubtypeId>
+      </Id>
+      <DisplayName>Thorium Fuel Rods X1000</DisplayName>
+      <Icon>Textures\GUI\Icons\component\FuelRods\ThoriumFuelRod_Icon.dds</Icon>
+      <Prerequisites>
+        <Item Amount="500" TypeId="Ingot" SubtypeId="Thorium" />
+        <Item Amount="100" TypeId="Component" SubtypeId="SmallCopperTube" />
+        <Item Amount="100" TypeId="Ingot" SubtypeId="Calcium" />
+        <Item Amount="100" TypeId="Ingot" SubtypeId="Zirconium" />
+        <Item Amount="100" TypeId="Ingot" SubtypeId="Palladium" />
+      </Prerequisites>
+      <Result Amount="1000" TypeId="Ingot" SubtypeId="ThoriumFuelRod" />
+      <BaseProductionTimeInSeconds>200</BaseProductionTimeInSeconds>
+    </Blueprint>
+    <Blueprint> <!-- ThoriumFuelRodX10 -->
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>ThoriumFuelRodX10</SubtypeId>
+      </Id>
+      <DisplayName>Thorium Fuel Rods X100</DisplayName>
+      <Icon>Textures\GUI\Icons\component\FuelRods\ThoriumFuelRod_Icon.dds</Icon>
+      <Prerequisites>
+        <Item Amount="50" TypeId="Ingot" SubtypeId="Thorium" />
+        <Item Amount="10" TypeId="Component" SubtypeId="SmallCopperTube" />
+        <Item Amount="10" TypeId="Ingot" SubtypeId="Calcium" />
+        <Item Amount="10" TypeId="Ingot" SubtypeId="Zirconium" />
+        <Item Amount="10" TypeId="Ingot" SubtypeId="Palladium" />
+      </Prerequisites>
+      <Result Amount="100" TypeId="Ingot" SubtypeId="ThoriumFuelRod" />
+      <BaseProductionTimeInSeconds>40</BaseProductionTimeInSeconds>
+    </Blueprint>
     <Blueprint> <!-- ThoriumFuelRod -->
       <Id>
         <TypeId>BlueprintDefinition</TypeId>
@@ -50,6 +84,40 @@
       <BaseProductionTimeInSeconds>30</BaseProductionTimeInSeconds>
     </Blueprint>
 
+    <Blueprint> <!-- UraniumFuelRodX100 -->
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>UraniumFuelRodX100</SubtypeId>
+      </Id>
+      <DisplayName>Uranium Fuel Rods X1000</DisplayName>
+      <Icon>Textures\GUI\Icons\component\FuelRods\UraniumFuelRod_Icon.dds</Icon>
+      <Prerequisites>
+        <Item Amount="500" TypeId="Ingot" SubtypeId="Refined_Uranium" />
+        <Item Amount="100" TypeId="Component" SubtypeId="SmallCopperTube" />
+        <Item Amount="100" TypeId="Ingot" SubtypeId="Calcium" />
+        <Item Amount="100" TypeId="Ingot" SubtypeId="Zirconium" />
+        <Item Amount="10" TypeId="Ingot" SubtypeId="Rhodium" />
+      </Prerequisites>
+      <Result Amount="1000" TypeId="Ingot" SubtypeId="Uranium" />
+      <BaseProductionTimeInSeconds>200</BaseProductionTimeInSeconds>
+    </Blueprint>
+    <Blueprint> <!-- UraniumFuelRodX10 -->
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>UraniumFuelRodX10</SubtypeId>
+      </Id>
+      <DisplayName>Uranium Fuel Rods X100</DisplayName>
+      <Icon>Textures\GUI\Icons\component\FuelRods\UraniumFuelRod_Icon.dds</Icon>
+      <Prerequisites>
+        <Item Amount="50" TypeId="Ingot" SubtypeId="Refined_Uranium" />
+        <Item Amount="10" TypeId="Component" SubtypeId="SmallCopperTube" />
+        <Item Amount="10" TypeId="Ingot" SubtypeId="Calcium" />
+        <Item Amount="10" TypeId="Ingot" SubtypeId="Zirconium" />
+        <Item Amount="1" TypeId="Ingot" SubtypeId="Rhodium" />
+      </Prerequisites>
+      <Result Amount="100" TypeId="Ingot" SubtypeId="Uranium" />
+      <BaseProductionTimeInSeconds>40</BaseProductionTimeInSeconds>
+    </Blueprint>
     <Blueprint> <!-- UraniumFuelRod -->
       <Id>
         <TypeId>BlueprintDefinition</TypeId>
@@ -85,6 +153,40 @@
       <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
     </Blueprint>
 	
+    <Blueprint> <!-- PlutoniumFuelRodX100 -->
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>PlutoniumFuelRodX100</SubtypeId>
+      </Id>
+      <DisplayName>Plutonium Fuel Rods X1000</DisplayName>
+      <Icon>Textures\GUI\Icons\component\FuelRods\PlutoniumFuelRod_Icon.dds</Icon>
+      <Prerequisites>
+        <Item Amount="500" TypeId="Ingot" SubtypeId="Plutonium" />
+        <Item Amount="100" TypeId="Component" SubtypeId="SmallCopperTube" />
+        <Item Amount="100" TypeId="Ingot" SubtypeId="Calcium" />
+        <Item Amount="100" TypeId="Ingot" SubtypeId="Zirconium" />
+        <Item Amount="100" TypeId="Ingot" SubtypeId="Ruthenium" />
+      </Prerequisites>
+      <Result Amount="1000" TypeId="Ingot" SubtypeId="PlutoniumFuelRod" />
+      <BaseProductionTimeInSeconds>250</BaseProductionTimeInSeconds>
+    </Blueprint>	
+    <Blueprint> <!-- PlutoniumFuelRodX10 -->
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>PlutoniumFuelRodX10</SubtypeId>
+      </Id>
+      <DisplayName>Plutonium Fuel Rods X100</DisplayName>
+      <Icon>Textures\GUI\Icons\component\FuelRods\PlutoniumFuelRod_Icon.dds</Icon>
+      <Prerequisites>
+        <Item Amount="50" TypeId="Ingot" SubtypeId="Plutonium" />
+        <Item Amount="10" TypeId="Component" SubtypeId="SmallCopperTube" />
+        <Item Amount="10" TypeId="Ingot" SubtypeId="Calcium" />
+        <Item Amount="10" TypeId="Ingot" SubtypeId="Zirconium" />
+        <Item Amount="10" TypeId="Ingot" SubtypeId="Ruthenium" />
+      </Prerequisites>
+      <Result Amount="10" TypeId="Ingot" SubtypeId="PlutoniumFuelRod" />
+      <BaseProductionTimeInSeconds>50</BaseProductionTimeInSeconds>
+    </Blueprint>	
     <Blueprint> <!-- PlutoniumFuelRod -->
       <Id>
         <TypeId>BlueprintDefinition</TypeId>
@@ -119,7 +221,41 @@
       <Result Amount="1" TypeId="Ingot" SubtypeId="PlutoniumFuelRod" />
       <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
     </Blueprint>
-
+	
+    <Blueprint> <!-- HydrogenFuelCellX100 -->
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>HydrogenFuelCellX100</SubtypeId>
+      </Id>
+      <DisplayName>Hydrogen Fuel Cells X1000</DisplayName>
+      <Icon>Textures\GUI\Icons\component\FuelRods\HydrogenFuelCell_Icon.dds</Icon>
+      <Prerequisites>
+        <Item Amount="500" TypeId="Ingot" SubtypeId="Hydrogen" />
+        <Item Amount="100" TypeId="Component" SubtypeId="SmallCopperTube" />
+        <Item Amount="100" TypeId="Ingot" SubtypeId="Calcium" />
+        <Item Amount="100" TypeId="Ingot" SubtypeId="Zirconium" />
+        <Item Amount="100" TypeId="Ingot" SubtypeId="Radium" />
+      </Prerequisites>
+      <Result Amount="1000" TypeId="Ingot" SubtypeId="HydrogenFuelCell" />
+      <BaseProductionTimeInSeconds>300</BaseProductionTimeInSeconds>
+    </Blueprint>
+    <Blueprint> <!-- HydrogenFuelCellX10 -->
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>HydrogenFuelCellX10</SubtypeId>
+      </Id>
+      <DisplayName>Hydrogen Fuel Cells X100</DisplayName>
+      <Icon>Textures\GUI\Icons\component\FuelRods\HydrogenFuelCell_Icon.dds</Icon>
+      <Prerequisites>
+        <Item Amount="50" TypeId="Ingot" SubtypeId="Hydrogen" />
+        <Item Amount="10" TypeId="Component" SubtypeId="SmallCopperTube" />
+        <Item Amount="10" TypeId="Ingot" SubtypeId="Calcium" />
+        <Item Amount="10" TypeId="Ingot" SubtypeId="Zirconium" />
+        <Item Amount="10" TypeId="Ingot" SubtypeId="Radium" />
+      </Prerequisites>
+      <Result Amount="100" TypeId="Ingot" SubtypeId="HydrogenFuelCell" />
+      <BaseProductionTimeInSeconds>60</BaseProductionTimeInSeconds>
+    </Blueprint>
     <Blueprint> <!-- HydrogenFuelCell -->
       <Id>
         <TypeId>BlueprintDefinition</TypeId>
