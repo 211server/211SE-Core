@@ -43,19 +43,6 @@
     </Class>
   </BlueprintClasses>
   <BlueprintClassEntries>
-   
-    <Entry Class="MassProdFuelRods" BlueprintSubtypeId="ThoriumFuelRodX100" />
-    <Entry Class="MassProdFuelRods" BlueprintSubtypeId="UraniumFuelRodX100" />
-    <Entry Class="MassProdFuelRods" BlueprintSubtypeId="PlutoniumFuelRodX100" />
-    <Entry Class="MassProdFuelRods" BlueprintSubtypeId="HydrogenFuelCellX100" />
-    <Entry Class="MassProdFuelRods" BlueprintSubtypeId="DepletedUraniumX100" />
-	
-    <Entry Class="MassProdFuelRods" BlueprintSubtypeId="ThoriumFuelRodX10" />
-    <Entry Class="MassProdFuelRods" BlueprintSubtypeId="UraniumFuelRodX10" />
-    <Entry Class="MassProdFuelRods" BlueprintSubtypeId="PlutoniumFuelRodX10" />
-    <Entry Class="MassProdFuelRods" BlueprintSubtypeId="HydrogenFuelCellX10" />
-    <Entry Class="MassProdFuelRods" BlueprintSubtypeId="DepletedUraniumX10" />
-	
     <Entry Class="MassProdFuelRods" BlueprintSubtypeId="ThoriumFuelRod" />
     <Entry Class="MassProdFuelRods" BlueprintSubtypeId="UraniumFuelRod" />
     <Entry Class="MassProdFuelRods" BlueprintSubtypeId="PlutoniumFuelRod" />
