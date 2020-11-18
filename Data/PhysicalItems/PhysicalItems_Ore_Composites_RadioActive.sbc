@@ -6,7 +6,7 @@
 	    <TypeId>Ore</TypeId>
 	    <SubtypeId>Coffinite</SubtypeId>
 	  </Id>
-	  <DisplayName>Coffinite Ore</DisplayName>
+	  <DisplayName>铀钍石矿-ThUSiO4-</DisplayName>
 	  <Icon>Textures\GUI\Icons\ore_Coffinite.dds</Icon>
 	  <Size>
 	    <X>0.07</X>
@@ -17,14 +17,14 @@
 	  <Volume>0.2</Volume>
 	  <Model>Models\Components\Sphere.mwm</Model>
 	  <PhysicalMaterial>Stone</PhysicalMaterial>
-	  <IconSymbol>ThUSiO4</IconSymbol>
+	  <IconSymbol>铀钍石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Hafnon -->
 	  <Id>
 	    <TypeId>Ore</TypeId>
 	    <SubtypeId>Hafnon</SubtypeId>
 	  </Id>
-	  <DisplayName>Hafnon Ore</DisplayName>
+	  <DisplayName>硅铪石矿-HfSiO4</DisplayName>
 	  <Icon>Textures\GUI\Icons\ore_Hafnon.dds</Icon>
 	  <Size>
 	    <X>0.07</X>
@@ -35,14 +35,14 @@
 	  <Volume>0.2</Volume>
 	  <Model>Models\Components\Sphere.mwm</Model>
 	  <PhysicalMaterial>Stone</PhysicalMaterial>
-	  <IconSymbol>HfSiO4</IconSymbol>
+	  <IconSymbol>硅铪石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Huttonite -->
 	  <Id>
 	    <TypeId>Ore</TypeId>
 	    <SubtypeId>Huttonite</SubtypeId>
 	  </Id>
-	  <DisplayName>Huttonite Ore</DisplayName>
+	  <DisplayName>硅钍石矿-ThSiO4</DisplayName>
 	  <Icon>Textures\GUI\Icons\ore_Huttonite.dds</Icon>
 	  <Size>
 	    <X>0.07</X>
@@ -53,14 +53,14 @@
 	  <Volume>0.2</Volume>
 	  <Model>Models\Components\Sphere.mwm</Model>
 	  <PhysicalMaterial>Stone</PhysicalMaterial>
-	  <IconSymbol>ThSiO4</IconSymbol>
+	  <IconSymbol>硅钍石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Monazite -->
 	  <Id>
 	    <TypeId>Ore</TypeId>
 	    <SubtypeId>Monazite</SubtypeId>
 	  </Id>
-	  <DisplayName>Monazite Ore</DisplayName>
+	  <DisplayName>独居石矿-(Ce,Y,La,Th)PO4-</DisplayName>
 	  <Icon>Textures\GUI\Icons\ore_Monazite.dds</Icon>
 	  <Size>
 	    <X>0.07</X>
@@ -71,14 +71,14 @@
 	  <Volume>0.2</Volume>
 	  <Model>Models\Components\Sphere.mwm</Model>
 	  <PhysicalMaterial>Stone</PhysicalMaterial>
-	  <IconSymbol>NdPO4</IconSymbol>
+	  <IconSymbol>独居石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Pitchblend -->
 	  <Id>
 	    <TypeId>Ore</TypeId>
 	    <SubtypeId>Pitchblend</SubtypeId>
 	  </Id>
-	  <DisplayName>Pitchblend Ore</DisplayName>
+	  <DisplayName>沥青铀矿-UO2-</DisplayName>
 	  <Icon>Textures\GUI\Icons\ore_Pitchblend.dds</Icon>
 	  <Size>
 	    <X>0.07</X>
@@ -89,14 +89,14 @@
 	  <Volume>0.2</Volume>
 	  <Model>Models\Components\Sphere.mwm</Model>
 	  <PhysicalMaterial>Stone</PhysicalMaterial>
-	  <IconSymbol>UO2</IconSymbol>
+	  <IconSymbol>沥青铀矿</IconSymbol>
 	</PhysicalItem>
     <PhysicalItem>  <!-- Thorite -->
 	  <Id>
 	    <TypeId>Ore</TypeId>
 	    <SubtypeId>Thorite</SubtypeId>
 	  </Id>
-	  <DisplayName>Thorite Ore</DisplayName>
+	  <DisplayName>钍石-ThSiO4-</DisplayName>
 	  <Icon>Textures\GUI\Icons\ore_Thorite.dds</Icon>
 	  <Size>
 	    <X>0.07</X>
@@ -107,14 +107,14 @@
 	  <Volume>0.2</Volume>
 	  <Model>Models\Components\Sphere.mwm</Model>
 	  <PhysicalMaterial>Stone</PhysicalMaterial>
-	  <IconSymbol>ThSiO4</IconSymbol>
+	  <IconSymbol>钍石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Uraninite -->
 	  <Id>
 	    <TypeId>Ore</TypeId>
 	    <SubtypeId>Uraninite</SubtypeId>
 	  </Id>
-	  <DisplayName>Uraninite Ore</DisplayName>
+	  <DisplayName>晶质铀矿-UO2-</DisplayName>
 	  <Icon>Textures\GUI\Icons\ore_UO2_uranite.dds</Icon>
 	  <Size>
 	    <X>0.07</X>
@@ -125,14 +125,14 @@
 	  <Volume>0.2</Volume>
 	  <Model>Models\Components\Sphere.mwm</Model>
 	  <PhysicalMaterial>Stone</PhysicalMaterial>
-	  <IconSymbol>UO2</IconSymbol>
+	  <IconSymbol>晶质铀矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Zircon -->
 	  <Id>
 		<TypeId>Ore</TypeId>
 		<SubtypeId>Zircon</SubtypeId>
 	  </Id>
-	  <DisplayName>Zircon Ore</DisplayName>
+	  <DisplayName>锆石矿-ZrSiO4-</DisplayName>
 	  <Icon>Textures\GUI\Icons\ore_Zircon.dds</Icon>
 	  <Size>
 		<X>0.07</X>
@@ -143,7 +143,7 @@
 	  <Volume>0.2</Volume>
 	  <Model>Models\Components\Sphere.mwm</Model>
 	  <PhysicalMaterial>Stone</PhysicalMaterial>
-	  <IconSymbol>ZrSiO4</IconSymbol>
+	  <IconSymbol>锆石</IconSymbol>
 	</PhysicalItem>
   </PhysicalItems>
 </Definitions>

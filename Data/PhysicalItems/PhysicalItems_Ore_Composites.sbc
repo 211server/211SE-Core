@@ -6,7 +6,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>Arsenolite</SubtypeId>
       </Id>
-      <DisplayName>Arsenolite Ore</DisplayName>
+      <DisplayName>砒石矿-As2O3-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Arsenolite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -17,14 +17,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>As2O3</IconSymbol>
+      <IconSymbol>砒石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Beryl -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Beryl</SubtypeId>
       </Id>
-      <DisplayName>Beryl Ore</DisplayName>
+      <DisplayName>绿柱石矿-Be3Al2(SiO3)6-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Beryl.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -35,14 +35,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>Be3Al2Si6O18</IconSymbol>
+      <IconSymbol>绿柱石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Bismutotantalite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Bismutotantalite</SubtypeId>
       </Id>
-      <DisplayName>Bismutotantalite Ore</DisplayName>
+      <DisplayName>钽铋矿-BiTaNbO4-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Bismutotantalite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -53,14 +53,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>BiTaNbO4</IconSymbol>
+      <IconSymbol>钽铋矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Boracite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Boracite</SubtypeId>
       </Id>
-      <DisplayName>Boracite Ore</DisplayName>
+      <DisplayName>方硼石矿-Mg3[B7O12]OCl-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Boracite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -71,14 +71,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>Mg3B7O13Cl</IconSymbol>
+      <IconSymbol>方硼石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Borcarite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Borcarite</SubtypeId>
       </Id>
-      <DisplayName>Borcarite Ore</DisplayName>
+      <DisplayName>碳硼镁钙石矿-Ca4Mg(B4O6(OH)6)(CO3)2-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Borcarite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -89,14 +89,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>Ca4MgB4O18H6C2</IconSymbol>
+      <IconSymbol>碳硼镁钙石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Cadmoindite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Cadmoindite</SubtypeId>
       </Id>
-      <DisplayName>Cadmoindite Ore</DisplayName>
+      <DisplayName>镉铟矿-CdIn2S4-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cadmoindite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -107,14 +107,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>CdIn2S4</IconSymbol>
+      <IconSymbol>镉铟矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Cadmoselite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Cadmoselite</SubtypeId>
       </Id>
-      <DisplayName>Cadmoselite Ore</DisplayName>
+      <DisplayName>硒化镉矿-CdSe-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cadmoselite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -125,14 +125,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>CdSe</IconSymbol>
+      <IconSymbol>硒化镉矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Calaverite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Calaverite</SubtypeId>
       </Id>
-      <DisplayName>Calaverite Ore</DisplayName>
+      <DisplayName>碲金矿-AuTe2-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Calaverite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -143,14 +143,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>AuTe2</IconSymbol>
+      <IconSymbol>碲金矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Cassiterite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Cassiterite</SubtypeId>
       </Id>
-      <DisplayName>Cassiterite Ore</DisplayName>
+      <DisplayName>锡石矿-SnO2-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cassiterite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -161,14 +161,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>SnO2</IconSymbol>
+      <IconSymbol>锡石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Cerite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Cerite</SubtypeId>
       </Id>
-      <DisplayName>Cerite Ore</DisplayName>
+      <DisplayName>铈硅石矿-Ce9Mg(SiO4)3(HSiO4)4(OH)3-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cerite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -179,14 +179,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>Ce9MgSi7O31H7</IconSymbol>
+      <IconSymbol>铈硅石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Chalcopyrite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Chalcopyrite</SubtypeId>
       </Id>
-      <DisplayName>Chalcopyrite Ore</DisplayName>
+      <DisplayName>黄铜矿-CuFeS2-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chalcopyrite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -197,14 +197,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>CuFeS2</IconSymbol>
+      <IconSymbol>黄铜矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Chamosite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Chamosite</SubtypeId>
       </Id>
-      <DisplayName>Chamosite Ore</DisplayName>
+      <DisplayName>鲕绿泥石矿-(Fe5Al)(AlSi3)O10(OH)8-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chamosite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -215,14 +215,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>Fe6Al10Si4O18H8</IconSymbol>
+      <IconSymbol>鲕绿泥石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Chaoite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Chaoite</SubtypeId>
       </Id>
-      <DisplayName>Chaoite Ore</DisplayName>
+      <DisplayName>蜡石矿-C-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chaoite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -233,14 +233,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>C</IconSymbol>
+      <IconSymbol>蜡石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Chromferide -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Chromferide</SubtypeId>
       </Id>
-      <DisplayName>Chromferide Ore</DisplayName>
+      <DisplayName>铁铬矿-Fe3Cr-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chromferide.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -251,14 +251,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>Fe3Cr</IconSymbol>
+      <IconSymbol>铁铬矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Chromite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Chromite</SubtypeId>
       </Id>
-      <DisplayName>Chromite Ore</DisplayName>
+      <DisplayName>铬铁矿-FeCr2O4-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chromite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -269,14 +269,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>FeCr2O4</IconSymbol>
+      <IconSymbol>铬铁矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Cinnabar -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Cinnabar</SubtypeId>
       </Id>
-      <DisplayName>Cinnabar Ore</DisplayName>
+      <DisplayName>朱砂矿-HgS-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cinnabar.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -287,14 +287,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>HgS</IconSymbol>
+      <IconSymbol>朱砂矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Coal -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Coal</SubtypeId>
       </Id>
-      <DisplayName>Coal Ore</DisplayName>
+      <DisplayName>煤矿-C3S-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Coal.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -305,14 +305,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>C3S</IconSymbol>
+      <IconSymbol>煤矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Cobaltite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Cobaltite</SubtypeId>
       </Id>
-      <DisplayName>Cobaltite Ore</DisplayName>
+      <DisplayName>辉砷钴矿-CoAsS-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cobaltite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -323,14 +323,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>CoAsS</IconSymbol>
+      <IconSymbol>辉砷钴矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Columbite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Columbite</SubtypeId>
       </Id>
-      <DisplayName>Columbite Ore</DisplayName>
+      <DisplayName>铌铁矿-FeNb2O6-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Columbite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -341,14 +341,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>MgNb2O6</IconSymbol>
+      <IconSymbol>铌铁矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Ferchromide -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Ferchromide</SubtypeId>
       </Id>
-      <DisplayName>Ferchromide Ore</DisplayName>
+      <DisplayName>方铁铬矿-Cr3Fe-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ferchromide.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -359,14 +359,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>Cr3Fe</IconSymbol>
+      <IconSymbol>方铁铬矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Fluorapatite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Fluorapatite</SubtypeId>
       </Id>
-      <DisplayName>Fluorapatite Ore</DisplayName>
+      <DisplayName>氟磷灰石矿-Ca5(PO4)3F-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fluorapatite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -377,14 +377,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>Ca5P3O12F</IconSymbol>
+      <IconSymbol>氟磷灰石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Fontarnauite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Fontarnauite</SubtypeId>
       </Id>
-      <DisplayName>Fontarnauite Ore</DisplayName>
+      <DisplayName>枫丹石矿-K2Sr(SO4)[B5O8(OH)]·2H2O-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fontarnauite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -395,14 +395,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>K2SrSB5O15H5</IconSymbol>
+      <IconSymbol>枫丹石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Germanite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Germanite</SubtypeId>
       </Id>
-      <DisplayName>Germanite Ore</DisplayName>
+      <DisplayName>锗石矿-Cu26Ge4Fe4S32-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Germanite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -413,14 +413,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>Cu13Fe2Ge2S16</IconSymbol>
+      <IconSymbol>锗石矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Graphite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Graphite</SubtypeId>
       </Id>
-      <DisplayName>Graphite Ore</DisplayName>
+      <DisplayName>石墨矿-C-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Graphite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -431,14 +431,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>C</IconSymbol>
+      <IconSymbol>石墨矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Halite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Halite</SubtypeId>
       </Id>
-      <DisplayName>Halite Ore</DisplayName>
+      <DisplayName>岩盐矿-NaCl-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Halite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -449,14 +449,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>NaCl</IconSymbol>
+      <IconSymbol>岩盐矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Hematite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Hematite</SubtypeId>
       </Id>
-      <DisplayName>Hematite Ore</DisplayName>
+      <DisplayName>赤铁矿-Fe2O3-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -467,14 +467,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>Fe2O3</IconSymbol>
+      <IconSymbol>赤铁矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Ilmenite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Ilmenite</SubtypeId>
       </Id>
-      <DisplayName>Ilmenite Ore</DisplayName>
+      <DisplayName>钛铁矿-FeTiO3-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -485,14 +485,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>FeTiO3</IconSymbol>
+      <IconSymbol>钛铁矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Indite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Indite</SubtypeId>
       </Id>
-      <DisplayName>Indite Ore</DisplayName>
+      <DisplayName>硫铟铁矿-FeIn2S4-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Indite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -503,14 +503,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>FeIn2S4</IconSymbol>
+      <IconSymbol>硫铟铁矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Iodargyrite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Iodargyrite</SubtypeId>
       </Id>
-      <DisplayName>Iodargyrite Ore</DisplayName>
+      <DisplayName>碘化银矿-AgI-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -521,14 +521,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>AgI</IconSymbol>
+      <IconSymbol>碘化银矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Kentbrooksite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Kentbrooksite</SubtypeId>
       </Id>
-      <DisplayName>Kentbrooksite Ore</DisplayName>
+      <DisplayName>肯异性石矿-REE21Mn3Zr3NbSi25O74F2·2H2O-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Kentbrooksite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -539,14 +539,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>REE21Zr3NbSi25F2O74</IconSymbol>
+      <IconSymbol>肯异性石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Lepidolite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Lepidolite</SubtypeId>
       </Id>
-      <DisplayName>Lepidolite Ore</DisplayName>
+      <DisplayName>锂云母矿-KLi3Al4O10(OH)2-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Lepidolite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -557,14 +557,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>KLi2AlSi4F2O12H2</IconSymbol>
+      <IconSymbol>锂云母矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Orpiment -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Orpiment</SubtypeId>
       </Id>
-      <DisplayName>Orpiment Ore</DisplayName>
+      <DisplayName>雌黄矿-As2S3-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Orpiment.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -575,14 +575,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>As2S3</IconSymbol>
+      <IconSymbol>雌黄矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Palladseite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Palladseite</SubtypeId>
       </Id>
-      <DisplayName>Palladseite Ore</DisplayName>
+      <DisplayName>硒钯矿-Pd17Se15-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Palladseite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -593,14 +593,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>Pd17Se15</IconSymbol>
+      <IconSymbol>硒钯矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Pyrite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Pyrite</SubtypeId>
       </Id>
-      <DisplayName>Pyrite Ore</DisplayName>
+      <DisplayName>黄铁矿-FeS2-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Pyrite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -611,14 +611,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>FeS2</IconSymbol>
+      <IconSymbol>黄铁矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Pyrochlore -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Pyrochlore</SubtypeId>
       </Id>
-      <DisplayName>Pyrochlore Ore</DisplayName>
+      <DisplayName>烧绿石矿-Ca2Nb2O6(OH)-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Pyrochlore.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -629,14 +629,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>U2Nb2O6H6</IconSymbol>
+      <IconSymbol>烧绿石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Quartz -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Quartz</SubtypeId>
       </Id>
-      <DisplayName>Quartz Ore</DisplayName>
+      <DisplayName>石英矿-SiO2-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Quartz.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -647,14 +647,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>SiO2</IconSymbol>
+      <IconSymbol>石英矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Realgar -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Realgar</SubtypeId>
       </Id>
-      <DisplayName>Realgar Ore</DisplayName>
+      <DisplayName>雄黄矿-As4S4-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Realgar.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -665,14 +665,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>As4S4</IconSymbol>
+      <IconSymbol>雄黄矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Rhodochrosite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Rhodochrosite</SubtypeId>
       </Id>
-      <DisplayName>Rhodochrosite Ore</DisplayName>
+      <DisplayName>菱锰矿-MnCO3-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Rhodochrosite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -683,14 +683,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>MnCO3</IconSymbol>
+      <IconSymbol>菱锰矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Ruthenarsenite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Ruthenarsenite</SubtypeId>
       </Id>
-      <DisplayName>Ruthenarsenite Ore</DisplayName>
+      <DisplayName>砷钌矿-(Ru,Ni)As-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ruthenarsenite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -701,14 +701,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>RuNiAs</IconSymbol>
+      <IconSymbol>砷钌矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Rutheniridosmine -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Rutheniridosmine</SubtypeId>
       </Id>
-      <DisplayName>Rutheniridosmine Ore</DisplayName>
+      <DisplayName>钌铱锇矿-IrOsRu-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Rutheniridosmine.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -719,14 +719,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>IrOsRu</IconSymbol>
+      <IconSymbol>钌铱锇矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Sphalerite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Sphalerite</SubtypeId>
       </Id>
-      <DisplayName>Sphalerite Ore</DisplayName>
+      <DisplayName>闪锌矿-ZnS-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sphalerite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -737,14 +737,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>ZnS</IconSymbol>
+      <IconSymbol>闪锌矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Spodumene -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Spodumene</SubtypeId>
       </Id>
-      <DisplayName>Spodumene Ore</DisplayName>
+      <DisplayName>锂辉石矿-LiAl(SiO3)2-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Spodumene.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -755,14 +755,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>LiAlSi2O6</IconSymbol>
+      <IconSymbol>锂辉石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Stibiotantalite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Stibiotantalite</SubtypeId>
       </Id>
-      <DisplayName>Stibiotantalite Ore</DisplayName>
+      <DisplayName>钽锑矿-SbTaO4-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Stibiotantalite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -773,14 +773,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>SbTaO4</IconSymbol>
+      <IconSymbol>钽锑矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Strontiofluorite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Strontiofluorite</SubtypeId>
       </Id>
-      <DisplayName>Strontiofluorite Ore</DisplayName>
+      <DisplayName>氟锶矿-SrF2-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Strontiofluorite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -791,14 +791,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>SrCO3</IconSymbol>
+      <IconSymbol>氟锶矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Sulfur -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Sulfur</SubtypeId>
       </Id>
-      <DisplayName>Sulfur Ore</DisplayName>
+      <DisplayName>硫矿-S8-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sulfur.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -809,14 +809,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>S8</IconSymbol>
+      <IconSymbol>硫矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Sylvite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Sylvite</SubtypeId>
       </Id>
-      <DisplayName>Sylvite Ore</DisplayName>
+      <DisplayName>钾石盐矿-KCl-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sylvite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -827,14 +827,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>KCl</IconSymbol>
+      <IconSymbol>钾石盐矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Telluropalladinite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Telluropalladinite</SubtypeId>
       </Id>
-      <DisplayName>Telluropalladinite Ore</DisplayName>
+      <DisplayName>斜碲钯矿-Pd9Te4-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Telluropalladinite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -845,14 +845,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>Pd9Te4</IconSymbol>
+      <IconSymbol>斜碲钯矿</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Titanite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Titanite</SubtypeId>
       </Id>
-      <DisplayName>Titanite Ore</DisplayName>
+      <DisplayName>榍石矿-CaTiSiO5-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Titanite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -863,14 +863,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>CaTiSiO5</IconSymbol>
+      <IconSymbol>榍石</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Wulfenite -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>Wulfenite</SubtypeId>
       </Id>
-      <DisplayName>Wulfenite Ore</DisplayName>
+      <DisplayName>钼铅矿-PbMoO4-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Wulfenite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -881,7 +881,7 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>PbMoO4</IconSymbol>
+      <IconSymbol>钼铅矿</IconSymbol>
     </PhysicalItem>
   </PhysicalItems>
 </Definitions>
