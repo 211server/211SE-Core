@@ -8,7 +8,7 @@
 			<TypeId>Ingot</TypeId>
 			<SubtypeId>Aluminum</SubtypeId>
 		</Id>
-		<DisplayName>Aluminum Ingot</DisplayName>
+		<DisplayName>铝锭-AlI-</DisplayName>
 		<Icon>Textures\GUI\Icons\ingot\aluminum_ingot.dds</Icon>
 		<Size>
 			<X>0.072</X>
@@ -19,7 +19,7 @@
 		<Volume>0.01</Volume>
 		<Model>Models\Ingots\platinum_ingot.mwm</Model>
 		<PhysicalMaterial>Metal</PhysicalMaterial>
-		<IconSymbol>Al</IconSymbol>
+		<IconSymbol>铝-Al</IconSymbol>
 		<MinimalPricePerUnit>20</MinimalPricePerUnit>
 		<MinimumOfferAmount>10000</MinimumOfferAmount>
 		<MaximumOfferAmount>25000</MaximumOfferAmount>
@@ -35,7 +35,7 @@
 			<TypeId>Ingot</TypeId>
 			<SubtypeId>Antimony</SubtypeId>
 		</Id>
-		<DisplayName>Antimony Ingot</DisplayName>
+		<DisplayName>锑片-SbI-</DisplayName>
 		<Icon>Textures\GUI\Icons\ingot\antimony_ingot.dds</Icon>
 		<Size>
 			<X>0.072</X>
@@ -46,7 +46,7 @@
 		<Volume>0.01</Volume>
 		<Model>Models\Ingots\silicon_ingot.mwm</Model>
 		<PhysicalMaterial>Metal</PhysicalMaterial>
-		<IconSymbol>Sb</IconSymbol>
+		<IconSymbol>锑-Sb</IconSymbol>
 		<MinimalPricePerUnit>1550</MinimalPricePerUnit>
 		<MinimumOfferAmount>20</MinimumOfferAmount>
 		<MaximumOfferAmount>200</MaximumOfferAmount>
@@ -62,7 +62,7 @@
 			<TypeId>Ingot</TypeId>
 			<SubtypeId>Argon</SubtypeId>
 		</Id>
-		<DisplayName>Liquid Argon</DisplayName>
+		<DisplayName>液态氩-ArI-</DisplayName>
 		<Icon>Textures\GUI\Icons\ingot\oxygen_ingot.dds</Icon>
 		<Size>
 			<X>0.072</X>
@@ -73,7 +73,7 @@
 		<Volume>0.01</Volume>
 		<Model>Models\Ingots\OxygenTankItem.mwm</Model>
 		<PhysicalMaterial>Metal</PhysicalMaterial>
-		<IconSymbol>Ar</IconSymbol>
+		<IconSymbol>氩-Ar</IconSymbol>
 		<MinimalPricePerUnit>1425</MinimalPricePerUnit>
 		<MinimumOfferAmount>25</MinimumOfferAmount>
 		<MaximumOfferAmount>250</MaximumOfferAmount>
@@ -89,7 +89,7 @@
 			<TypeId>Ingot</TypeId>
 			<SubtypeId>Arsenic</SubtypeId>
 		</Id>
-		<DisplayName>Arsenic Ingot</DisplayName>
+		<DisplayName>砷片-AsI-</DisplayName>
 		<Icon>Textures\GUI\Icons\ingot\arsenic_ingot.dds</Icon>
 		<Size>
 			<X>0.072</X>
@@ -100,7 +100,7 @@
 		<Volume>0.01</Volume>
 		<Model>Models\Ingots\silicon_ingot.mwm</Model>
 		<PhysicalMaterial>Metal</PhysicalMaterial>
-		<IconSymbol>As</IconSymbol>
+		<IconSymbol>砷-As</IconSymbol>
 		<MinimalPricePerUnit>125</MinimalPricePerUnit>
 		<MinimumOfferAmount>500</MinimumOfferAmount>
 		<MaximumOfferAmount>5000</MaximumOfferAmount>
@@ -116,7 +116,7 @@
 			<TypeId>Ingot</TypeId>
 			<SubtypeId>Beryllium</SubtypeId>
 		</Id>
-		<DisplayName>Beryllium Ingot</DisplayName>
+		<DisplayName>铍粉-BeI-</DisplayName>
 		<Icon>Textures\GUI\Icons\ingot\beryllium_ingot.dds</Icon>
 		<Size>
 			<X>0.072</X>
@@ -127,7 +127,7 @@
 		<Volume>0.01</Volume>
 		<Model>Models\Ingots\magnesium_ingot.mwm</Model>
 		<PhysicalMaterial>Metal</PhysicalMaterial>
-		<IconSymbol>Be</IconSymbol>
+		<IconSymbol>铍-Be</IconSymbol>
 		<MinimalPricePerUnit>250</MinimalPricePerUnit>
 		<MinimumOfferAmount>1000</MinimumOfferAmount>
 		<MaximumOfferAmount>5000</MaximumOfferAmount>
@@ -143,7 +143,7 @@
 			<TypeId>Ingot</TypeId>
 			<SubtypeId>Bismuth</SubtypeId>
 		</Id>
-		<DisplayName>Bismuth Ingot</DisplayName>
+		<DisplayName>铋锭-BiI-</DisplayName>
 		<Icon>Textures\GUI\Icons\ingot\bismuth_ingot.dds</Icon>
 		<Size>
 			<X>0.072</X>
@@ -154,7 +154,7 @@
 		<Volume>0.01</Volume>
 		<Model>Models\Ingots\platinum_ingot.mwm</Model>
 		<PhysicalMaterial>Metal</PhysicalMaterial>
-		<IconSymbol>Bi</IconSymbol>
+		<IconSymbol>铋-Bi</IconSymbol>
 		<MinimalPricePerUnit>1920</MinimalPricePerUnit>
 		<MinimumOfferAmount>10</MinimumOfferAmount>
 		<MaximumOfferAmount>100</MaximumOfferAmount>
@@ -170,7 +170,7 @@
 			<TypeId>Ingot</TypeId>
 			<SubtypeId>Boron</SubtypeId>
 		</Id>
-		<DisplayName>Boron Ingot</DisplayName>
+		<DisplayName>硼片-BI-</DisplayName>
 		<Icon>Textures\GUI\Icons\ingot\boron_ingot.dds</Icon>
 		<Size>
 			<X>0.072</X>
@@ -181,7 +181,7 @@
 		<Volume>0.01</Volume>
 		<Model>Models\Ingots\silicon_ingot.mwm</Model>
 		<PhysicalMaterial>Metal</PhysicalMaterial>
-		<IconSymbol>B</IconSymbol>
+		<IconSymbol>硼-B</IconSymbol>
 		<MinimalPricePerUnit>235</MinimalPricePerUnit>
 		<MinimumOfferAmount>500</MinimumOfferAmount>
 		<MaximumOfferAmount>2500</MaximumOfferAmount>
@@ -197,7 +197,7 @@
 			<TypeId>Ingot</TypeId>
 			<SubtypeId>Cadmium</SubtypeId>
 		</Id>
-		<DisplayName>Cadmium Ingot</DisplayName>
+		<DisplayName>镉锭-CdI-</DisplayName>
 		<Icon>Textures\GUI\Icons\ingot\cadmium_ingot.dds</Icon>
 		<Size>
 			<X>0.072</X>
@@ -208,7 +208,7 @@
 		<Volume>0.01</Volume>
 		<Model>Models\Ingots\nickel_ingot.mwm</Model>
 		<PhysicalMaterial>Metal</PhysicalMaterial>
-		<IconSymbol>Cd</IconSymbol>
+		<IconSymbol>镉-Cd</IconSymbol>
 		<MinimalPricePerUnit>270</MinimalPricePerUnit>
 		<MinimumOfferAmount>1000</MinimumOfferAmount>
 		<MaximumOfferAmount>2500</MaximumOfferAmount>
@@ -224,7 +224,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Cesium</SubtypeId>
       </Id>
-      <DisplayName>Cesium Ingot</DisplayName>
+      <DisplayName>铯锭-CsI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\cesium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -235,7 +235,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\potassium_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Cs</IconSymbol>
+      <IconSymbol>铯-Cs</IconSymbol>
 	  <MinimalPricePerUnit>555</MinimalPricePerUnit>
 	  <MinimumOfferAmount>25</MinimumOfferAmount>
 	  <MaximumOfferAmount>250</MaximumOfferAmount>
@@ -251,7 +251,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Calcium</SubtypeId>
       </Id>
-      <DisplayName>Calcium Ingot</DisplayName>
+      <DisplayName>钙粉-CaI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\calcium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -262,7 +262,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\magnesium_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Ca</IconSymbol>
+      <IconSymbol>钙-Ca</IconSymbol>
 	  <MinimalPricePerUnit>770</MinimalPricePerUnit>
 	  <MinimumOfferAmount>500</MinimumOfferAmount>
 	  <MaximumOfferAmount>2000</MaximumOfferAmount>
@@ -278,7 +278,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Carbon</SubtypeId>
       </Id>
-      <DisplayName>Carbon Ingot</DisplayName>
+      <DisplayName>碳粉-CI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\carbon_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -289,7 +289,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\stone_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>C</IconSymbol>
+      <IconSymbol>碳-C</IconSymbol>
 	  <MinimalPricePerUnit>40</MinimalPricePerUnit>
 	  <MinimumOfferAmount>1000</MinimumOfferAmount>
 	  <MaximumOfferAmount>15000</MaximumOfferAmount>
@@ -305,7 +305,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Chlorine</SubtypeId>
       </Id>
-      <DisplayName>Liquid Chlorine</DisplayName>
+      <DisplayName>液态氯-ClI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\chlorine_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -316,7 +316,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\OxygenTankItem.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Cl</IconSymbol>
+      <IconSymbol>氯-Cl</IconSymbol>
 	  <MinimalPricePerUnit>50</MinimalPricePerUnit>
 	  <MinimumOfferAmount>500</MinimumOfferAmount>
 	  <MaximumOfferAmount>1000</MaximumOfferAmount>
@@ -332,7 +332,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Chromium</SubtypeId>
       </Id>
-      <DisplayName>Chromium Ingot</DisplayName>
+      <DisplayName>铬锭-CrI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\chromium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -343,7 +343,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Cr</IconSymbol>
+      <IconSymbol>铬-Cr</IconSymbol>
 	  <MinimalPricePerUnit>330</MinimalPricePerUnit>
 	  <MinimumOfferAmount>500</MinimumOfferAmount>
 	  <MaximumOfferAmount>5000</MaximumOfferAmount>
@@ -359,7 +359,7 @@
           <TypeId>Ingot</TypeId>
           <SubtypeId>Cobalt</SubtypeId>
         </Id>
-        <DisplayName>DisplayName_Item_CobaltIngot</DisplayName>
+        <DisplayName>钴锭-CoI-</DisplayName>
         <Icon>Textures\GUI\Icons\ingot\cobalt_ingot.dds</Icon>
         <Size>
           <X>0.048</X>
@@ -370,7 +370,7 @@
         <Volume>0.112</Volume>
         <Model>Models\Ingots\cobalt_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>IconSymbol_Co</IconSymbol>
+        <IconSymbol>钴-Co</IconSymbol>
 		<MinimalPricePerUnit>160</MinimalPricePerUnit>
 		<MinimumOfferAmount>500</MinimumOfferAmount>
 		<MaximumOfferAmount>2000</MaximumOfferAmount>
@@ -386,7 +386,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Copper</SubtypeId>
       </Id>
-      <DisplayName>Copper Ingot</DisplayName>
+      <DisplayName>铜锭-CuI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\copper_ingot.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -397,7 +397,7 @@
       <Volume>0.112</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Cu</IconSymbol>
+      <IconSymbol>铜-Cu</IconSymbol>
 	  <MinimalPricePerUnit>850</MinimalPricePerUnit>
 	  <MinimumOfferAmount>500</MinimumOfferAmount>
 	  <MaximumOfferAmount>1000</MaximumOfferAmount>
@@ -413,7 +413,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Fluorine</SubtypeId>
       </Id>
-      <DisplayName>Fluorine Ingot</DisplayName>
+      <DisplayName>氟锭-FI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\fluorine_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -424,7 +424,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\OxygenTankItem.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>F</IconSymbol>
+      <IconSymbol>氟-F</IconSymbol>
 	  <MinimalPricePerUnit>545</MinimalPricePerUnit>
 	  <MinimumOfferAmount>100</MinimumOfferAmount>
 	  <MaximumOfferAmount>1000</MaximumOfferAmount>
@@ -440,7 +440,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Gallium</SubtypeId>
       </Id>
-      <DisplayName>Gallium Ingot</DisplayName>
+      <DisplayName>镓锭-GaI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\gallium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -451,7 +451,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\platinum_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Ga</IconSymbol>
+      <IconSymbol>镓-Ga</IconSymbol>
 	  <MinimalPricePerUnit>950</MinimalPricePerUnit>
 	  <MinimumOfferAmount>10</MinimumOfferAmount>
 	  <MaximumOfferAmount>400</MaximumOfferAmount>
@@ -467,7 +467,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Germanium</SubtypeId>
       </Id>
-      <DisplayName>Germanium Ingot</DisplayName>
+      <DisplayName>锗片-GeI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\germanium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -478,7 +478,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\silicon_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Ge</IconSymbol>
+      <IconSymbol>锗-Ge</IconSymbol>
 	  <MinimalPricePerUnit>975</MinimalPricePerUnit>
 	  <MinimumOfferAmount>10</MinimumOfferAmount>
 	  <MaximumOfferAmount>500</MaximumOfferAmount>
@@ -494,7 +494,7 @@
           <TypeId>Ingot</TypeId>
           <SubtypeId>Gold</SubtypeId>
         </Id>
-        <DisplayName>DisplayName_Item_GoldIngot</DisplayName>
+        <DisplayName>金锭-AuI-</DisplayName>
         <Icon>Textures\GUI\Icons\ingot\gold_ingot.dds</Icon>
         <Size>
           <X>0.037</X>
@@ -505,7 +505,7 @@
         <Volume>0.01</Volume>
         <Model>Models\Ingots\gold_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>IconSymbol_Au</IconSymbol>
+        <IconSymbol>金-Au</IconSymbol>
 		<MinimalPricePerUnit>1150</MinimalPricePerUnit>
 		<MinimumOfferAmount>500</MinimumOfferAmount>
 		<MaximumOfferAmount>1000</MaximumOfferAmount>
@@ -521,7 +521,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Hafnium</SubtypeId>
       </Id>
-      <DisplayName>Hafnium Ingot</DisplayName>
+      <DisplayName>铪锭-HfI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\hafnium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -532,7 +532,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\gold_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Hf</IconSymbol>
+      <IconSymbol>铪-Hf</IconSymbol>
 	  <MinimalPricePerUnit>660</MinimalPricePerUnit>
 	  <MinimumOfferAmount>50</MinimumOfferAmount>
 	  <MaximumOfferAmount>100</MaximumOfferAmount>
@@ -548,7 +548,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Helium</SubtypeId>
       </Id>
-      <DisplayName>Liquid Helium</DisplayName>
+      <DisplayName>液态氦-HeI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\helium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -559,7 +559,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\OxygenTankItem.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>He</IconSymbol>
+      <IconSymbol>氦-He</IconSymbol>
 	  <MinimalPricePerUnit>425</MinimalPricePerUnit>
 	  <MinimumOfferAmount>50</MinimumOfferAmount>
 	  <MaximumOfferAmount>250</MaximumOfferAmount>
@@ -575,7 +575,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Hydrogen</SubtypeId>
       </Id>
-      <DisplayName>Liquid Hydrogen</DisplayName>
+      <DisplayName>液态氢-HI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\hydrogen_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -586,7 +586,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\OxygenTankItem.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>H</IconSymbol>
+      <IconSymbol>氢-H</IconSymbol>
 	  <MinimalPricePerUnit>10</MinimalPricePerUnit>
 	  <MinimumOfferAmount>500</MinimumOfferAmount>
 	  <MaximumOfferAmount>10000</MaximumOfferAmount>
@@ -602,7 +602,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Indium</SubtypeId>
       </Id>
-      <DisplayName>Indium Ingot</DisplayName>
+      <DisplayName>铟锭-InI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\indium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -613,7 +613,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\platinum_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>In</IconSymbol>
+      <IconSymbol>铟-In</IconSymbol>
 	  <MinimalPricePerUnit>360</MinimalPricePerUnit>
 	  <MinimumOfferAmount>50</MinimumOfferAmount>
 	  <MaximumOfferAmount>300</MaximumOfferAmount>
@@ -629,7 +629,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Iodine</SubtypeId>
       </Id>
-      <DisplayName>Iodine Ingot</DisplayName>
+      <DisplayName>碘粉-II-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\iodine_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -640,7 +640,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\stone_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>I</IconSymbol>
+      <IconSymbol>碘-I</IconSymbol>
 	  <MinimalPricePerUnit>800</MinimalPricePerUnit>
 	  <MinimumOfferAmount>100</MinimumOfferAmount>
 	  <MaximumOfferAmount>500</MaximumOfferAmount>
@@ -656,7 +656,7 @@
           <TypeId>Ingot</TypeId>
           <SubtypeId>Iridium</SubtypeId>
         </Id>
-        <DisplayName>Iridium Ingot</DisplayName>
+        <DisplayName>铱锭-IrI-</DisplayName>
         <Icon>Textures\GUI\Icons\ingot\iridium_ingot.dds</Icon>
         <Size>
           <X>0.05</X>
@@ -667,7 +667,7 @@
         <Volume>0.127</Volume>
         <Model>Models\Ingots\iron_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>Ir</IconSymbol>
+        <IconSymbol>铱-Ir</IconSymbol>
 		<MinimalPricePerUnit>770</MinimalPricePerUnit>
 		<MinimumOfferAmount>10</MinimumOfferAmount>
 		<MaximumOfferAmount>400</MaximumOfferAmount>
@@ -683,7 +683,7 @@
           <TypeId>Ingot</TypeId>
           <SubtypeId>Iron</SubtypeId>
         </Id>
-        <DisplayName>DisplayName_Item_IronIngot</DisplayName>
+        <DisplayName>铁锭-FeI-</DisplayName>
         <Icon>Textures\GUI\Icons\ingot\iron_ingot.dds</Icon>
         <Size>
           <X>0.05</X>
@@ -694,7 +694,7 @@
         <Volume>0.127</Volume>
         <Model>Models\Ingots\iron_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>IconSymbol_Fe</IconSymbol>
+        <IconSymbol>铁-Fe</IconSymbol>
 		<MinimalPricePerUnit>25</MinimalPricePerUnit>
 		<MinimumOfferAmount>10000</MinimumOfferAmount>
 		<MaximumOfferAmount>25000</MaximumOfferAmount>
@@ -710,7 +710,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Krypton</SubtypeId>
       </Id>
-      <DisplayName>Liquid Krypton</DisplayName>
+      <DisplayName>液态氪-KrI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\oxygen_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -721,7 +721,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\OxygenTankItem.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Kr</IconSymbol>
+      <IconSymbol>氪-Kr</IconSymbol>
 	  <MinimalPricePerUnit>910</MinimalPricePerUnit>
 	  <MinimumOfferAmount>10</MinimumOfferAmount>
 	  <MaximumOfferAmount>400</MaximumOfferAmount>
@@ -737,7 +737,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Lead</SubtypeId>
       </Id>
-      <DisplayName>Lead Ingot</DisplayName>
+      <DisplayName>铅锭-PbI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\lead_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -748,7 +748,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\platinum_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Pb</IconSymbol>
+      <IconSymbol>铅-Pb</IconSymbol>
 	  <MinimalPricePerUnit>420</MinimalPricePerUnit>
 	  <MinimumOfferAmount>500</MinimumOfferAmount>
 	  <MaximumOfferAmount>2000</MaximumOfferAmount>
@@ -764,7 +764,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Lanthanum</SubtypeId>
       </Id>
-      <DisplayName>Lanthanum Ingot</DisplayName>
+      <DisplayName>镧锭-LaI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\lithium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -775,7 +775,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\potassium_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>La</IconSymbol>
+      <IconSymbol>镧-La</IconSymbol>
 	  <MinimalPricePerUnit>790</MinimalPricePerUnit>
 	  <MinimumOfferAmount>10</MinimumOfferAmount>
 	  <MaximumOfferAmount>500</MaximumOfferAmount>
@@ -791,7 +791,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Lithium</SubtypeId>
       </Id>
-      <DisplayName>Lithium Ingot</DisplayName>
+      <DisplayName>锂锭-LiI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\lithium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -802,7 +802,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\potassium_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Li</IconSymbol>
+      <IconSymbol>锂-Li</IconSymbol>
 	  <MinimalPricePerUnit>1200</MinimalPricePerUnit>
 	  <MinimumOfferAmount>50</MinimumOfferAmount>
 	  <MaximumOfferAmount>500</MaximumOfferAmount>
@@ -818,7 +818,7 @@
           <TypeId>Ingot</TypeId>
           <SubtypeId>Magnesium</SubtypeId>
         </Id>
-        <DisplayName>DisplayName_Item_MagnesiumPowder</DisplayName>
+        <DisplayName>镁粉-MgI-</DisplayName>
         <Icon>Textures\GUI\Icons\ingot\magnesium_ingot.dds</Icon>
         <Size>
           <X>0.083</X>
@@ -829,7 +829,7 @@
         <Volume>0.575</Volume>
         <Model>Models\Ingots\magnesium_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>IconSymbol_Mg</IconSymbol>
+        <IconSymbol>镁-Mg</IconSymbol>
 		<MinimalPricePerUnit>200</MinimalPricePerUnit>
 		<MinimumOfferAmount>100</MinimumOfferAmount>
 		<MaximumOfferAmount>1000</MaximumOfferAmount>
@@ -845,7 +845,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Manganese</SubtypeId>
       </Id>
-      <DisplayName>Manganese Ingot</DisplayName>
+      <DisplayName>锰锭-MnI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\manganese_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -856,7 +856,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Mn</IconSymbol>
+      <IconSymbol>锰-Mn</IconSymbol>
 	  <MinimalPricePerUnit>695</MinimalPricePerUnit>
 	  <MinimumOfferAmount>100</MinimumOfferAmount>
 	  <MaximumOfferAmount>1000</MaximumOfferAmount>
@@ -872,7 +872,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Mercury</SubtypeId>
       </Id>
-      <DisplayName>Mercury Ingot</DisplayName>
+      <DisplayName>汞安瓿-HgI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\mercury_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -883,7 +883,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\OxygenTankItem.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Hg</IconSymbol>
+      <IconSymbol>汞-Hg</IconSymbol>
 	  <MinimalPricePerUnit>725</MinimalPricePerUnit>
 	  <MinimumOfferAmount>10</MinimumOfferAmount>
 	  <MaximumOfferAmount>500</MaximumOfferAmount>
@@ -899,7 +899,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Molybdenum</SubtypeId>
       </Id>
-      <DisplayName>Molybdenum Ingot</DisplayName>
+      <DisplayName>钼锭-MoI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\molybdenum_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -910,7 +910,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\nickel_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Mo</IconSymbol>
+      <IconSymbol>钼-Mo</IconSymbol>
 	  <MinimalPricePerUnit>935</MinimalPricePerUnit>
 	  <MinimumOfferAmount>500</MinimumOfferAmount>
 	  <MaximumOfferAmount>1500</MaximumOfferAmount>
@@ -926,7 +926,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Neodymium</SubtypeId>
       </Id>
-      <DisplayName>Neodymium Ingot</DisplayName>
+      <DisplayName>钕片-NdI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\neodymium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -937,7 +937,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\cobalt_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Nd</IconSymbol>
+      <IconSymbol>钕-Nd</IconSymbol>
 	  <MinimalPricePerUnit>510</MinimalPricePerUnit>
 	  <MinimumOfferAmount>100</MinimumOfferAmount>
 	  <MaximumOfferAmount>1000</MaximumOfferAmount>
@@ -953,7 +953,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Neon</SubtypeId>
       </Id>
-      <DisplayName>Liquid Neon</DisplayName>
+      <DisplayName>液态氖-NeI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\oxygen_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -964,7 +964,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\OxygenTankItem.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Ne</IconSymbol>
+      <IconSymbol>氖-Ne</IconSymbol>
 	  <MinimalPricePerUnit>1010</MinimalPricePerUnit>
 	  <MinimumOfferAmount>50</MinimumOfferAmount>
 	  <MaximumOfferAmount>500</MaximumOfferAmount>
@@ -980,7 +980,7 @@
           <TypeId>Ingot</TypeId>
           <SubtypeId>Nickel</SubtypeId>
         </Id>
-        <DisplayName>DisplayName_Item_NickelIngot</DisplayName>
+        <DisplayName>镍锭-NiI-</DisplayName>
         <Icon>Textures\GUI\Icons\ingot\nickel_ingot.dds</Icon>
         <Size>
           <X>0.048</X>
@@ -991,7 +991,7 @@
         <Volume>0.112</Volume>
         <Model>Models\Ingots\nickel_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>IconSymbol_Ni</IconSymbol>
+        <IconSymbol>镍-Ni</IconSymbol>
 		<MinimalPricePerUnit>290</MinimalPricePerUnit>
 		<MinimumOfferAmount>1000</MinimumOfferAmount>
 		<MaximumOfferAmount>5000</MaximumOfferAmount>
@@ -1007,7 +1007,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Niobium</SubtypeId>
       </Id>
-      <DisplayName>Niobium Ingot</DisplayName>
+      <DisplayName>铌锭-NbI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\niobium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1018,7 +1018,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\nickel_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Nb</IconSymbol>
+      <IconSymbol>铌-Nb</IconSymbol>
 	  <MinimalPricePerUnit>2660</MinimalPricePerUnit>
 	  <MinimumOfferAmount>10</MinimumOfferAmount>
 	  <MaximumOfferAmount>35</MaximumOfferAmount>
@@ -1034,7 +1034,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Nitrogen</SubtypeId>
       </Id>
-      <DisplayName>Liquid Nitrogen</DisplayName>
+      <DisplayName>液态氮-NI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\nitrogen_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1045,7 +1045,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\OxygenTankItem.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>N</IconSymbol>
+      <IconSymbol>氮-N</IconSymbol>
 	  <MinimalPricePerUnit>325</MinimalPricePerUnit>
 	  <MinimumOfferAmount>1500</MinimumOfferAmount>
 	  <MaximumOfferAmount>5000</MaximumOfferAmount>
@@ -1061,7 +1061,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Osmium</SubtypeId>
       </Id>
-      <DisplayName>Osmium Ingot</DisplayName>
+      <DisplayName>锇锭-OsI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\osmium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1072,7 +1072,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\nickel_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Os</IconSymbol>
+      <IconSymbol>锇-Os</IconSymbol>
 	  <MinimalPricePerUnit>640</MinimalPricePerUnit>
 	  <MinimumOfferAmount>100</MinimumOfferAmount>
 	  <MaximumOfferAmount>500</MaximumOfferAmount>
@@ -1088,7 +1088,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Oxygen</SubtypeId>
       </Id>
-      <DisplayName>Liquid Oxygen</DisplayName>
+      <DisplayName>液态氧-OI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\oxygen_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1099,7 +1099,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\OxygenTankItem.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>O</IconSymbol>
+      <IconSymbol>氧-O</IconSymbol>
 	  <MinimalPricePerUnit>5</MinimalPricePerUnit>
 	  <MinimumOfferAmount>10000</MinimumOfferAmount>
 	  <MaximumOfferAmount>100000</MaximumOfferAmount>
@@ -1115,7 +1115,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Palladium</SubtypeId>
       </Id>
-      <DisplayName>Palladium Ingot</DisplayName>
+      <DisplayName>钯锭-PdI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\palladium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1126,7 +1126,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\nickel_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Pd</IconSymbol>
+      <IconSymbol>钯-Pd</IconSymbol>
 	  <MinimalPricePerUnit>480</MinimalPricePerUnit>
 	  <MinimumOfferAmount>100</MinimumOfferAmount>
 	  <MaximumOfferAmount>1000</MaximumOfferAmount>
@@ -1142,7 +1142,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Phosphorus</SubtypeId>
       </Id>
-      <DisplayName>Phosphorus Ingot</DisplayName>
+      <DisplayName>磷粉-PI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\phosphorus_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1153,7 +1153,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\stone_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>P</IconSymbol>
+      <IconSymbol>磷-P</IconSymbol>
 	  <MinimalPricePerUnit>595</MinimalPricePerUnit>
 	  <MinimumOfferAmount>500</MinimumOfferAmount>
 	  <MaximumOfferAmount>2000</MaximumOfferAmount>
@@ -1169,7 +1169,7 @@
           <TypeId>Ingot</TypeId>
           <SubtypeId>Platinum</SubtypeId>
         </Id>
-        <DisplayName>DisplayName_Item_PlatinumIngot</DisplayName>
+        <DisplayName>铂锭-PtI-</DisplayName>
         <Icon>Textures\GUI\Icons\ingot\platinum_ingot.dds</Icon>
         <Size>
           <X>0.036</X>
@@ -1180,7 +1180,7 @@
         <Volume>0.047</Volume>
         <Model>Models\Ingots\platinum_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>IconSymbol_Pt</IconSymbol>
+        <IconSymbol>铂-Pt</IconSymbol>
 		<MinimalPricePerUnit>2750</MinimalPricePerUnit>
 		<MinimumOfferAmount>10</MinimumOfferAmount>
 		<MaximumOfferAmount>500</MaximumOfferAmount>
@@ -1196,7 +1196,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Plutonium</SubtypeId>
       </Id>
-      <DisplayName>Plutonium Ingot</DisplayName>
+      <DisplayName>钚棒-PuI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\plutonium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1207,7 +1207,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\uranium_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Pu</IconSymbol>
+      <IconSymbol>钚-Pu</IconSymbol>
 	  <MinimalPricePerUnit>10750</MinimalPricePerUnit>
 	  <MinimumOfferAmount>1</MinimumOfferAmount>
 	  <MaximumOfferAmount>50</MaximumOfferAmount>
@@ -1223,7 +1223,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Polonium</SubtypeId>
       </Id>
-      <DisplayName>Polonium Ingot</DisplayName>
+      <DisplayName>钋片-PoI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\polonium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1234,7 +1234,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\silicon_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Po</IconSymbol>
+      <IconSymbol>钋-Po</IconSymbol>
 	  <MinimalPricePerUnit>470</MinimalPricePerUnit>
 	  <MinimumOfferAmount>100</MinimumOfferAmount>
 	  <MaximumOfferAmount>1000</MaximumOfferAmount>
@@ -1250,7 +1250,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Potassium</SubtypeId>
       </Id>
-      <DisplayName>Potassium Ingot</DisplayName>
+      <DisplayName>钾锭-KI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\potassium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1261,7 +1261,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\potassium_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>K</IconSymbol>
+      <IconSymbol>钾-K</IconSymbol>
 	  <MinimalPricePerUnit>425</MinimalPricePerUnit>
 	  <MinimumOfferAmount>500</MinimumOfferAmount>
 	  <MaximumOfferAmount>5000</MaximumOfferAmount>
@@ -1277,7 +1277,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Radium</SubtypeId>
       </Id>
-      <DisplayName>Radium Ingot</DisplayName>
+      <DisplayName>镭粉-RaI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\radium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1288,7 +1288,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\magnesium_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Ra</IconSymbol>
+      <IconSymbol>镭-Ra</IconSymbol>
 	  <MinimalPricePerUnit>1265</MinimalPricePerUnit>
 	  <MinimumOfferAmount>20</MinimumOfferAmount>
 	  <MaximumOfferAmount>200</MaximumOfferAmount>
@@ -1331,7 +1331,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Rhodium</SubtypeId>
       </Id>
-      <DisplayName>Rhodium Ingot</DisplayName>
+      <DisplayName>铑锭-RhI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\rhodium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1342,7 +1342,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\nickel_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Rh</IconSymbol>
+      <IconSymbol>铑-Rh</IconSymbol>
 	  <MinimalPricePerUnit>1400</MinimalPricePerUnit>
 	  <MinimumOfferAmount>10</MinimumOfferAmount>
 	  <MaximumOfferAmount>100</MaximumOfferAmount>
@@ -1358,7 +1358,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Ruthenium</SubtypeId>
       </Id>
-      <DisplayName>Ruthenium Ingot</DisplayName>
+      <DisplayName>钌锭-RuI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\ruthenium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1369,7 +1369,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\nickel_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Ru</IconSymbol>
+      <IconSymbol>钌-Ru</IconSymbol>
 	  <MinimalPricePerUnit>345</MinimalPricePerUnit>
 	  <MinimumOfferAmount>100</MinimumOfferAmount>
 	  <MaximumOfferAmount>2000</MaximumOfferAmount>
@@ -1385,7 +1385,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Scandium</SubtypeId>
       </Id>
-      <DisplayName>Scandium Ingot</DisplayName>
+      <DisplayName>钪锭-ScI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\scandium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1396,7 +1396,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Sc</IconSymbol>
+      <IconSymbol>钪-Sc</IconSymbol>
 	  <MinimalPricePerUnit>990</MinimalPricePerUnit>
 	  <MinimumOfferAmount>10</MinimumOfferAmount>
 	  <MaximumOfferAmount>200</MaximumOfferAmount>
@@ -1412,7 +1412,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Selenium</SubtypeId>
       </Id>
-      <DisplayName>Selenium Ingot</DisplayName>
+      <DisplayName>硒粉-SeI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\selenium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1423,7 +1423,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\stone_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Se</IconSymbol>
+      <IconSymbol>硒-Se</IconSymbol>
 	  <MinimalPricePerUnit>490</MinimalPricePerUnit>
 	  <MinimumOfferAmount>10</MinimumOfferAmount>
 	  <MaximumOfferAmount>100</MaximumOfferAmount>
@@ -1439,7 +1439,7 @@
           <TypeId>Ingot</TypeId>
           <SubtypeId>Silicon</SubtypeId>
         </Id>
-        <DisplayName>DisplayName_Item_SiliconWafer</DisplayName>
+        <DisplayName>硅片-SiI-</DisplayName>
         <Icon>Textures\GUI\Icons\ingot\silicon_ingot.dds</Icon>
         <Size>
           <X>0.075</X>
@@ -1450,7 +1450,7 @@
         <Volume>0.429</Volume>
         <Model>Models\Ingots\silicon_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>IconSymbol_Si</IconSymbol>
+        <IconSymbol>硅-Si</IconSymbol>
 		<MinimalPricePerUnit>50</MinimalPricePerUnit>
 		<MinimumOfferAmount>500</MinimumOfferAmount>
 		<MaximumOfferAmount>5000</MaximumOfferAmount>
@@ -1466,7 +1466,7 @@
           <TypeId>Ingot</TypeId>
           <SubtypeId>Silver</SubtypeId>
         </Id>
-        <DisplayName>DisplayName_Item_SilverIngot</DisplayName>
+        <DisplayName>银锭-AgI-</DisplayName>
         <Icon>Textures\GUI\Icons\ingot\silver_ingot.dds</Icon>
         <Size>
           <X>0.046</X>
@@ -1477,7 +1477,7 @@
         <Volume>0.095</Volume>
         <Model>Models\Ingots\silver_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>IconSymbol_Ag</IconSymbol>
+        <IconSymbol>银-Ag</IconSymbol>
 		<MinimalPricePerUnit>885</MinimalPricePerUnit>
 		<MinimumOfferAmount>500</MinimumOfferAmount>
 		<MaximumOfferAmount>1000</MaximumOfferAmount>
@@ -1493,7 +1493,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Sodium</SubtypeId>
       </Id>
-      <DisplayName>Sodium Ingot</DisplayName>
+      <DisplayName>钠锭-NaI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\sodium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1504,7 +1504,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\potassium_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Na</IconSymbol>
+      <IconSymbol>钠-Na</IconSymbol>
 	  <MinimalPricePerUnit>80</MinimalPricePerUnit>
 	  <MinimumOfferAmount>50</MinimumOfferAmount>
 	  <MaximumOfferAmount>500</MaximumOfferAmount>
@@ -1520,7 +1520,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Strontium</SubtypeId>
       </Id>
-      <DisplayName>Strontium Ingot</DisplayName>
+      <DisplayName>锶粉-SrI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\strontium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1531,7 +1531,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\magnesium_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Sr</IconSymbol>
+      <IconSymbol>锶-Sr</IconSymbol>
 	  <MinimalPricePerUnit>515</MinimalPricePerUnit>
 	  <MinimumOfferAmount>500</MinimumOfferAmount>
 	  <MaximumOfferAmount>1000</MaximumOfferAmount>
@@ -1547,7 +1547,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Sulfur</SubtypeId>
       </Id>
-      <DisplayName>Sulfur Ingot</DisplayName>
+      <DisplayName>硫粉-SI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\sulfur_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1558,7 +1558,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\stone_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>S</IconSymbol>
+      <IconSymbol>硫-S</IconSymbol>
 	  <MinimalPricePerUnit>260</MinimalPricePerUnit>
 	  <MinimumOfferAmount>1000</MinimumOfferAmount>
 	  <MaximumOfferAmount>4000</MaximumOfferAmount>
@@ -1574,7 +1574,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Tantalum</SubtypeId>
       </Id>
-      <DisplayName>Tantalum Ingot</DisplayName>
+      <DisplayName>钽锭-TaI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\tantalum_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1585,7 +1585,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\gold_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Ta</IconSymbol>
+      <IconSymbol>钽-Ta</IconSymbol>
 	  <MinimalPricePerUnit>1605</MinimalPricePerUnit>
 	  <MinimumOfferAmount>10</MinimumOfferAmount>
 	  <MaximumOfferAmount>50</MaximumOfferAmount>
@@ -1601,7 +1601,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Tellurium</SubtypeId>
       </Id>
-      <DisplayName>Tellurium Ingot</DisplayName>
+      <DisplayName>碲片-TeI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\tellurium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1612,7 +1612,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\platinum_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Te</IconSymbol>
+      <IconSymbol>碲-Te</IconSymbol>
 	  <MinimalPricePerUnit>365</MinimalPricePerUnit>
 	  <MinimumOfferAmount>100</MinimumOfferAmount>
 	  <MaximumOfferAmount>500</MaximumOfferAmount>
@@ -1628,7 +1628,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Thallium</SubtypeId>
       </Id>
-      <DisplayName>Thallium Ingot</DisplayName>
+      <DisplayName>铊锭-TlI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\thallium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1639,7 +1639,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\platinum_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Tl</IconSymbol>
+      <IconSymbol>铊-Tl</IconSymbol>
 	  <MinimalPricePerUnit>2435</MinimalPricePerUnit>
 	  <MinimumOfferAmount>1</MinimumOfferAmount>
 	  <MaximumOfferAmount>30</MaximumOfferAmount>
@@ -1655,7 +1655,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Thorium</SubtypeId>
       </Id>
-      <DisplayName>Thorium Ingot</DisplayName>
+      <DisplayName>钍棒-ThI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\thorium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1666,7 +1666,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\uranium_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Th</IconSymbol>
+      <IconSymbol>钍-Th</IconSymbol>
 	  <MinimalPricePerUnit>695</MinimalPricePerUnit>
 	  <MinimumOfferAmount>100</MinimumOfferAmount>
 	  <MaximumOfferAmount>500</MaximumOfferAmount>
@@ -1682,7 +1682,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Tin</SubtypeId>
       </Id>
-      <DisplayName>Tin Ingot</DisplayName>
+      <DisplayName>锡锭-SnI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\tin_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1693,7 +1693,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\platinum_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Sn</IconSymbol>
+      <IconSymbol>锡-Sn</IconSymbol>
 	  <MinimalPricePerUnit>125</MinimalPricePerUnit>
 	  <MinimumOfferAmount>100</MinimumOfferAmount>
 	  <MaximumOfferAmount>5000</MaximumOfferAmount>
@@ -1709,7 +1709,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Titanium</SubtypeId>
       </Id>
-      <DisplayName>Titanium Ingot</DisplayName>
+      <DisplayName>钛锭-TiI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\titanium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1720,7 +1720,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Ti</IconSymbol>
+      <IconSymbol>钛-Ti</IconSymbol>
 	  <MinimalPricePerUnit>315</MinimalPricePerUnit>
 	  <MinimumOfferAmount>500</MinimumOfferAmount>
 	  <MaximumOfferAmount>2500</MaximumOfferAmount>
@@ -1736,7 +1736,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Tungsten</SubtypeId>
       </Id>
-      <DisplayName>Tungsten Ingot</DisplayName>
+      <DisplayName>钨锭-WI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\tungsten_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1747,7 +1747,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\gold_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>W</IconSymbol>
+      <IconSymbol>钨-W</IconSymbol>
 	  <MinimalPricePerUnit>705</MinimalPricePerUnit>
 	  <MinimumOfferAmount>100</MinimumOfferAmount>
 	  <MaximumOfferAmount>500</MaximumOfferAmount>
@@ -1763,7 +1763,7 @@
           <TypeId>Ingot</TypeId>
           <SubtypeId>Refined_Uranium</SubtypeId>
         </Id>
-        <DisplayName>DisplayName_Item_UraniumIngot</DisplayName>
+        <DisplayName>铀棒-UI-</DisplayName>
         <Icon>Textures\GUI\Icons\ingot\uranium_ingot.dds</Icon>
         <Size>
           <X>0.037</X>
@@ -1774,7 +1774,7 @@
         <Volume>0.01</Volume>
         <Model>Models\Ingots\uranium_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>IconSymbol_U</IconSymbol>
+        <IconSymbol>铀-U</IconSymbol>
 		<MinimalPricePerUnit>250</MinimalPricePerUnit>
 		<MinimumOfferAmount>1000</MinimumOfferAmount>
 		<MaximumOfferAmount>5000</MaximumOfferAmount>
@@ -1790,7 +1790,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Vanadium</SubtypeId>
       </Id>
-      <DisplayName>Vanadium Ingot</DisplayName>
+      <DisplayName>钒锭-VI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\vanadium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1801,7 +1801,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>V</IconSymbol>
+      <IconSymbol>钒-V</IconSymbol>
 	  <MinimalPricePerUnit>1400</MinimalPricePerUnit>
 	  <MinimumOfferAmount>10</MinimumOfferAmount>
 	  <MaximumOfferAmount>100</MaximumOfferAmount>
@@ -1817,7 +1817,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Xenon</SubtypeId>
       </Id>
-      <DisplayName>Liquid Xenon</DisplayName>
+      <DisplayName>液态氙-XeI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\oxygen_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1828,7 +1828,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\OxygenTankItem.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Xe</IconSymbol>
+      <IconSymbol>氙-Xe</IconSymbol>
 	  <MinimalPricePerUnit>1165</MinimalPricePerUnit>
 	  <MinimumOfferAmount>10</MinimumOfferAmount>
 	  <MaximumOfferAmount>250</MaximumOfferAmount>
@@ -1844,7 +1844,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Yttrium</SubtypeId>
       </Id>
-      <DisplayName>Yttrium Ingot</DisplayName>
+      <DisplayName>钇锭-YI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\yttrium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1855,7 +1855,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\nickel_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Y</IconSymbol>
+      <IconSymbol>钇-Y</IconSymbol>
 	  <MinimalPricePerUnit>1325</MinimalPricePerUnit>
 	  <MinimumOfferAmount>10</MinimumOfferAmount>
 	  <MaximumOfferAmount>100</MaximumOfferAmount>
@@ -1871,7 +1871,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Zinc</SubtypeId>
       </Id>
-      <DisplayName>Zinc Ingot</DisplayName>
+      <DisplayName>锌锭-ZnI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\zinc_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1882,7 +1882,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Zn</IconSymbol>
+      <IconSymbol>锌-Zn</IconSymbol>
 	  <MinimalPricePerUnit>605</MinimalPricePerUnit>
 	  <MinimumOfferAmount>500</MinimumOfferAmount>
 	  <MaximumOfferAmount>2500</MaximumOfferAmount>
@@ -1898,7 +1898,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>Zirconium</SubtypeId>
       </Id>
-      <DisplayName>Zirconium Ingot</DisplayName>
+      <DisplayName>锆锭-ZrI-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\zirconium_ingot.dds</Icon>
       <Size>
         <X>0.072</X>
@@ -1909,7 +1909,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\nickel_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Zr</IconSymbol>
+      <IconSymbol>锆-Zr</IconSymbol>
 	  <MinimalPricePerUnit>1555</MinimalPricePerUnit>
 	  <MinimumOfferAmount>100</MinimumOfferAmount>
 	  <MaximumOfferAmount>1000</MaximumOfferAmount>
@@ -1925,7 +1925,7 @@
           <TypeId>Ingot</TypeId>
           <SubtypeId>DepletedUranium</SubtypeId>
         </Id>
-        <DisplayName>Depleted Uranium</DisplayName>
+        <DisplayName>贫铀棒-DUI-</DisplayName>
         <Icon>Textures\GUI\Icons\ingot\uranium_ingot.dds</Icon>
         <Size>
           <X>0.037</X>
@@ -1936,7 +1936,7 @@
         <Volume>0.01</Volume>
         <Model>Models\Ingots\uranium_ingot.mwm</Model>
          <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>DU</IconSymbol>
+        <IconSymbol>贫铀-DU</IconSymbol>
 		<MinimalPricePerUnit>410</MinimalPricePerUnit>
 		<MinimumOfferAmount>100</MinimumOfferAmount>
 		<MaximumOfferAmount>200</MaximumOfferAmount>
