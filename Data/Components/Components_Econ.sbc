@@ -6,7 +6,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>ZoneChip</SubtypeId>
       </Id>
-      <DisplayName>Zone Chip</DisplayName>
+      <DisplayName>区域筹码-qycm-</DisplayName>
       <Icon>Textures\GUI\Icons\Items\ZoneChip_Item.dds</Icon>
       <Size>
         <X>0.1</X>
