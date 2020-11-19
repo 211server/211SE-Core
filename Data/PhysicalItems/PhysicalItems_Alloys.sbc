@@ -6,7 +6,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>ChromiumSteel</SubtypeId>
       </Id>
-      <DisplayName>Chromium Steel</DisplayName>
+      <DisplayName>铬钢-gg-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\ChromiumSteel_Icon.dds</Icon>
       <Size>
         <X>0.05</X>
@@ -17,14 +17,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Cr-Fe</IconSymbol>
+      <IconSymbol>铬钢</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>201Steel</SubtypeId>
       </Id>
-      <DisplayName>Stainless Steel</DisplayName>
+      <DisplayName>不锈钢-bxg-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\StainlessSteel_Icon.dds</Icon>
       <Size>
         <X>0.05</X>
@@ -35,14 +35,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>201-Fe</IconSymbol>
+      <IconSymbol>不锈钢</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>945Steel</SubtypeId>
       </Id>
-      <DisplayName>Steel</DisplayName>
+      <DisplayName>钢-g-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Steel_Icon.dds</Icon>
       <Size>
         <X>0.05</X>
@@ -53,14 +53,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>945-Fe</IconSymbol>
+      <IconSymbol>钢</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>Nitinol</SubtypeId>
       </Id>
-      <DisplayName>Nitinol</DisplayName>
+      <DisplayName>镍钛合金-nthj-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Nitinol_Icon.dds</Icon>
       <Size>
         <X>0.05</X>
@@ -71,14 +71,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Ti-Ni</IconSymbol>
+      <IconSymbol>镍钛合金</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>Brass</SubtypeId>
       </Id>
-      <DisplayName>Brass</DisplayName>
+      <DisplayName>黄铜-ht-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Brass_Icon.dds</Icon>
       <Size>
         <X>0.05</X>
@@ -89,14 +89,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Cu-Zn</IconSymbol>
+      <IconSymbol>黄铜</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>Cupronickel</SubtypeId>
       </Id>
-      <DisplayName>Cupronickel</DisplayName>
+      <DisplayName>白铜-bt-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Cupronickel_Icon.dds</Icon>
       <Size>
         <X>0.05</X>
@@ -107,14 +107,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Cu-Ni</IconSymbol>
+      <IconSymbol>白铜</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>Electrum</SubtypeId>
       </Id>
-      <DisplayName>Electrum</DisplayName>
+      <DisplayName>琥珀金-hpj-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Electrum_Icon.dds</Icon>
       <Size>
         <X>0.05</X>
@@ -125,14 +125,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Au-Ag</IconSymbol>
+      <IconSymbol>琥珀金</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>GumMetal</SubtypeId>
       </Id>
-      <DisplayName>Gum Metal</DisplayName>
+      <DisplayName>口香糖金属-kxtjs-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\GumMetal_Icon.dds</Icon>
       <Size>
         <X>0.05</X>
@@ -143,14 +143,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>TNTZ</IconSymbol>
+      <IconSymbol>口香糖金属</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>PolyCarbonate</SubtypeId>
       </Id>
-      <DisplayName>Poly Carbonate</DisplayName>
+      <DisplayName>聚碳酸酯-jtsz-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\PolyCarbonate_Icon.dds</Icon>
       <Size>
         <X>0.05</X>
@@ -161,14 +161,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Poly</IconSymbol>
+      <IconSymbol>聚碳酸酯</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>Glass</SubtypeId>
       </Id>
-      <DisplayName>Glass</DisplayName>
+      <DisplayName>玻璃-bl-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Glass_Icon.dds</Icon>
       <Size>
         <X>0.05</X>
@@ -179,14 +179,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>SiO2</IconSymbol>
+      <IconSymbol>玻璃</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>Rubber</SubtypeId>
       </Id>
-      <DisplayName>Rubber</DisplayName>
+      <DisplayName>橡胶-xj-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Rubber_Icon.dds</Icon>
       <Size>
         <X>0.05</X>
@@ -197,14 +197,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Rubber</IconSymbol>
+      <IconSymbol>橡胶</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>Magnet</SubtypeId>
       </Id>
-      <DisplayName>Magnet</DisplayName>
+      <DisplayName>钕磁铁-rct-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Magnet_Icon.dds</Icon>
       <Size>
         <X>0.05</X>
@@ -215,14 +215,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Nd-Fe</IconSymbol>
+      <IconSymbol>钕磁铁</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>TungstenCarbide</SubtypeId>
       </Id>
-      <DisplayName>Tungsten Carbide</DisplayName>
+      <DisplayName>碳化钨-thw-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Magnet_Icon.dds</Icon>
       <Size>
         <X>0.05</X>
@@ -233,14 +233,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>WC</IconSymbol>
+      <IconSymbol>碳化钨</IconSymbol>
     </PhysicalItem>
 	<PhysicalItem>  <!-- Stone (Gravel) -->
 		<Id>
 			<TypeId>Ingot</TypeId>
 			<SubtypeId>Stone</SubtypeId>
 		</Id>
-		<DisplayName>Gravel</DisplayName>
+		<DisplayName>砂砾-sl-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Gravel_Icon.dds</Icon>
 		<Size>
 			<X>0.072</X>
@@ -251,7 +251,7 @@
 		<Volume>1</Volume>
 		<Model>Models\Ingots\stone_ingot.mwm</Model>
 		<PhysicalMaterial>Metal</PhysicalMaterial>
-		<IconSymbol>Gravel</IconSymbol>
+		<IconSymbol>砂砾</IconSymbol>
 		<MinimalPricePerUnit>10</MinimalPricePerUnit>
 		<MinimumOfferAmount>500</MinimumOfferAmount>
 		<MaximumOfferAmount>10000</MaximumOfferAmount>
@@ -267,7 +267,7 @@
 		  <TypeId>Ingot</TypeId>
 		  <SubtypeId>Cement</SubtypeId>
 		</Id>
-		<DisplayName>Cement</DisplayName>
+		<DisplayName>水泥-sn-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Cement_Icon.dds</Icon>
 		<Size>
 			<X>0.072</X>
@@ -278,7 +278,7 @@
 		<Volume>0.1</Volume>
 		<Model>Models\Ingots\stone_ingot.mwm</Model>
 		<PhysicalMaterial>Metal</PhysicalMaterial>
-		<IconSymbol>Cement</IconSymbol>
+		<IconSymbol>水泥</IconSymbol>
 		<MinimalPricePerUnit>10</MinimalPricePerUnit>
 		<MinimumOfferAmount>500</MinimumOfferAmount>
 		<MaximumOfferAmount>10000</MaximumOfferAmount>
@@ -294,7 +294,7 @@
 		  <TypeId>Ingot</TypeId>
 		  <SubtypeId>FineSand</SubtypeId>
 		</Id>
-		<DisplayName>Fine Sand</DisplayName>
+		<DisplayName>细沙-xs-</DisplayName>
 		<Icon>Textures\GUI\Icons\ore_sand.dds</Icon>
 		<Size>
 			<X>0.072</X>
@@ -305,7 +305,7 @@
 		<Volume>0.1</Volume>
 		<Model>Models\Ingots\stone_ingot.mwm</Model>
 		<PhysicalMaterial>Metal</PhysicalMaterial>
-		<IconSymbol>Sand</IconSymbol>
+		<IconSymbol>细沙</IconSymbol>
 		<MinimalPricePerUnit>10</MinimalPricePerUnit>
 		<MinimumOfferAmount>500</MinimumOfferAmount>
 		<MaximumOfferAmount>10000</MaximumOfferAmount>
