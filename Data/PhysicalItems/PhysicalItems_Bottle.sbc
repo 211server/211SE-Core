@@ -7,7 +7,7 @@
                 <TypeId>OxygenContainerObject</TypeId>
                 <SubtypeId>OxygenBottle</SubtypeId>
             </Id>
-            <DisplayName>Basic Oxygen Bottle</DisplayName>
+            <DisplayName>基础氧气瓶-jcyqp-</DisplayName>
             <Icon>Textures\GUI\Icons\Tools\BasicOxygenBottle_Icon.dds</Icon>
             <Size>
                 <X>0.8</X>
@@ -37,7 +37,7 @@
                 <TypeId>OxygenContainerObject</TypeId>
                 <SubtypeId>AdvancedOxygenBottle</SubtypeId>
             </Id>
-            <DisplayName>Advanced Oxygen Bottle</DisplayName>
+            <DisplayName>高级氧气瓶-gjyqp-</DisplayName>
             <Icon>Textures\GUI\Icons\Tools\AdvancedOxygenBottle_Icon.dds</Icon>
             <Size>
                 <X>0.8</X>
@@ -67,7 +67,7 @@
                 <TypeId>OxygenContainerObject</TypeId>
                 <SubtypeId>EliteOxygenBottle</SubtypeId>
             </Id>
-            <DisplayName>Elite Oxygen Bottle</DisplayName>
+            <DisplayName>精英氧气瓶-jyyqp-</DisplayName>
             <Icon>Textures\GUI\Icons\Tools\EliteOxygenBottle_Icon.dds</Icon>
             <Size>
                 <X>0.8</X>
@@ -98,7 +98,7 @@
                 <TypeId>GasContainerObject</TypeId>
                 <SubtypeId>HydrogenBottle</SubtypeId>
             </Id>
-            <DisplayName>Basic Hydrogen Bottle</DisplayName>
+            <DisplayName>基础氢气瓶-jcqqp-</DisplayName>
             <Icon>Textures\GUI\Icons\Tools\BasicHydrogenBottle_Icon.dds</Icon>
             <Size>
                 <X>0.8</X>
@@ -128,7 +128,7 @@
                 <TypeId>GasContainerObject</TypeId>
                 <SubtypeId>AdvancedHydrogenBottle</SubtypeId>
             </Id>
-            <DisplayName>Advanced Hydrogen Bottle</DisplayName>
+            <DisplayName>高级氢气瓶-gjqqp-</DisplayName>
             <Icon>Textures\GUI\Icons\Tools\AdvancedHydrogenBottle_Icon.dds</Icon>
             <Size>
                 <X>0.8</X>
@@ -158,7 +158,7 @@
                 <TypeId>GasContainerObject</TypeId>
                 <SubtypeId>EliteHydrogenBottle</SubtypeId>
             </Id>
-            <DisplayName>Elite Hydrogen Bottle</DisplayName>
+            <DisplayName>精英氢气瓶-jyqqp-</DisplayName>
             <Icon>Textures\GUI\Icons\Tools\EliteHydrogenBottle_Icon.dds</Icon>
             <Size>
                 <X>0.8</X>
