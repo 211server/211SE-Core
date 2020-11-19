@@ -6,7 +6,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>MineralSpirits</SubtypeId>
       </Id>
-      <DisplayName>Mineral Spirits</DisplayName>
+      <DisplayName>矿物油-kwy-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\MineralSpirits_Icon.dds</Icon>
       <Size>
         <X>0.2</X>
@@ -17,14 +17,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>MS</IconSymbol>
+      <IconSymbol>矿物油</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>Stearate</SubtypeId>
       </Id>
-      <DisplayName>Stearate</DisplayName>
+      <DisplayName>硬脂酸盐-yzsy-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Stearate_Icon.dds</Icon>
       <Size>
         <X>0.05</X>
@@ -35,14 +35,14 @@
       <Volume>0.127</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>SOAP</IconSymbol>
+      <IconSymbol>硬脂酸盐</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>Grease</SubtypeId>
       </Id>
-      <DisplayName>Grease</DisplayName>
+      <DisplayName>润滑油-rhy-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Grease_Icon.dds</Icon>
       <Size>
         <X>0.2</X>
@@ -53,14 +53,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Grease</IconSymbol>
+      <IconSymbol>润滑油</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>Oil</SubtypeId>
       </Id>
-      <DisplayName>Oil</DisplayName>
+      <DisplayName>石油-sy-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Oil_Icon.dds</Icon>
       <Size>
         <X>0.2</X>
@@ -71,14 +71,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Oil</IconSymbol>
+      <IconSymbol>石油</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>Coolant</SubtypeId>
       </Id>
-      <DisplayName>Coolant</DisplayName>
+      <DisplayName>冷却液-lqy-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Coolant_Icon.dds</Icon>
       <Size>
         <X>0.2</X>
@@ -89,14 +89,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Coolant</IconSymbol>
+      <IconSymbol>冷却液</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>ThermalPaste</SubtypeId>
       </Id>
-      <DisplayName>Thermal Paste</DisplayName>
+      <DisplayName>导热膏-drg-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\ThermalPaste_Icon.dds</Icon>
       <Size>
         <X>0.2</X>
@@ -107,14 +107,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>TPaste</IconSymbol>
+      <IconSymbol>导热膏</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>LiquidGasoline</SubtypeId>
       </Id>
-      <DisplayName>Gasoline</DisplayName>
+      <DisplayName>汽油-qy-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Gasoline_Icon.dds</Icon>
       <Size>
         <X>0.2</X>
@@ -125,14 +125,14 @@
       <Volume>0.1</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Gas</IconSymbol>
+      <IconSymbol>汽油</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>LiquidJetFuel</SubtypeId>
       </Id>
-      <DisplayName>Jet Fuel</DisplayName>
+      <DisplayName>航空煤油-hkmy-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\JetFuel_Icon.dds</Icon>
       <Size>
         <X>0.2</X>
@@ -143,14 +143,14 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Jet</IconSymbol>
+      <IconSymbol>航空煤油</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>Water</SubtypeId>
       </Id>
-      <DisplayName>Water</DisplayName>
+      <DisplayName>水-H20-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Water_Icon.dds</Icon>
       <Size>
         <X>0.2</X>
@@ -161,7 +161,7 @@
       <Volume>0.01</Volume>
       <Model>Models\Ingots\iron_ingot.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>H2O</IconSymbol>
+      <IconSymbol>水</IconSymbol>
     </PhysicalItem>
   </PhysicalItems>
 </Definitions>
