@@ -6,7 +6,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>ThoriumFuelRod</SubtypeId>
       </Id>
-      <DisplayName>Thorium Fuel Rod</DisplayName>
+      <DisplayName>钍燃料棒-Th-</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\ThoriumFuelRod_Icon.dds</Icon>
       <Size>
         <X>0.2</X>
@@ -17,14 +17,14 @@
       <Volume>0.1</Volume>
       <Model>Models\Components\small_tube_component.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>Th-FR</IconSymbol>
+      <IconSymbol>钍燃料棒</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- Uranium -->
         <Id>
           <TypeId>Ingot</TypeId>
           <SubtypeId>Uranium</SubtypeId>
         </Id>
-      <DisplayName>Uranium Fuel Rod</DisplayName>
+      <DisplayName>铀燃料棒-U-</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\UraniumFuelRod_Icon.dds</Icon>
       <Size>
         <X>0.2</X>
@@ -35,7 +35,7 @@
       <Volume>0.1</Volume>
       <Model>Models\Components\small_tube_component.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>U-FR</IconSymbol>
+      <IconSymbol>铀燃料棒</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
@@ -60,7 +60,7 @@
         <TypeId>Ingot</TypeId>
         <SubtypeId>PlutoniumFuelRod</SubtypeId>
       </Id>
-      <DisplayName>Plutonium Fuel Rod</DisplayName>
+      <DisplayName>钚燃料棒-Pu-</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\PlutoniumFuelRod_Icon.dds</Icon>
       <Size>
         <X>0.2</X>
@@ -71,14 +71,14 @@
       <Volume>0.1</Volume>
       <Model>Models\Components\small_tube_component.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>P-FR</IconSymbol>
+      <IconSymbol>钚燃料棒</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>HydrogenFuelCell</SubtypeId>
       </Id>
-      <DisplayName>Hydrogen Fuel Cell</DisplayName>
+      <DisplayName>氚燃料棒-H-</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\HydrogenFuelCell_Icon.dds</Icon>
       <Size>
         <X>0.2</X>
@@ -89,14 +89,14 @@
       <Volume>0.1</Volume>
       <Model>Models\Components\small_tube_component.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>H-FC</IconSymbol>
+      <IconSymbol>氚燃料棒</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
         <TypeId>Ingot</TypeId>
         <SubtypeId>DepletedUranium</SubtypeId>
       </Id>
-      <DisplayName>Depleted Uranium</DisplayName>
+      <DisplayName>贫铀燃料棒-DU-</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\DepletedUranium_Icon.dds</Icon>
       <Size>
         <X>1.0</X>
@@ -107,7 +107,7 @@
       <Volume>0.1</Volume>
       <Model>Models\Components\small_tube_component.mwm</Model>
       <PhysicalMaterial>Metal</PhysicalMaterial>
-      <IconSymbol>D-U</IconSymbol>
+      <IconSymbol>贫铀燃料棒</IconSymbol>
     </PhysicalItem>
   </PhysicalItems>
 </Definitions>
