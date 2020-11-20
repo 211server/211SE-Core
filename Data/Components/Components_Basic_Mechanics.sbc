@@ -6,7 +6,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SteelSpring</SubtypeId>
       </Id>
-      <DisplayName>Steel Spring</DisplayName>
+      <DisplayName>钢弹簧-gth-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelSpring_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -34,7 +34,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>NitinolSpring</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Spring</DisplayName>
+      <DisplayName>镍钛合金弹簧-nthjth-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\NitinolSpring_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -62,7 +62,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>BallBearing</SubtypeId>
       </Id>
-      <DisplayName>Ball Bearing</DisplayName>
+      <DisplayName>滚珠轴承-gzzc-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\BallBearing_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -90,7 +90,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>AluminumFanBlade</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Fan Blade</DisplayName>
+      <DisplayName>铝风轮叶片-lflyp-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\AluminumFanBlade_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -118,7 +118,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>MechanicalCable</SubtypeId>
       </Id>
-      <DisplayName>Mechanical Control Cable</DisplayName>
+      <DisplayName>机械控制电缆-jxkzdl-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\MechanicalCable_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -146,7 +146,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SteelPulley</SubtypeId>
       </Id>
-      <DisplayName>Steel Pulley</DisplayName>
+      <DisplayName>钢带轮-gdl-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Pulley_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -174,7 +174,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SteelGear</SubtypeId>
       </Id>
-      <DisplayName>Steel Gear</DisplayName>
+      <DisplayName>钢齿轮-gcl-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelGear_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -202,7 +202,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>RubberBushing</SubtypeId>
       </Id>
-      <DisplayName>Rubber Bushing</DisplayName>
+      <DisplayName>橡胶衬套-xjct-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\RubberBushing_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -230,7 +230,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>CarbideTooling</SubtypeId>
       </Id>
-      <DisplayName>Carbide Tooling</DisplayName>
+      <DisplayName>碳化物工具-thwgj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\CarbideTool_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -258,7 +258,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>DiamondTooling</SubtypeId>
       </Id>
-      <DisplayName>Diamond Tooling</DisplayName>
+      <DisplayName>金刚石工具-jgsgj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\DiamondTooling_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -286,7 +286,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>CarbideRing</SubtypeId>
       </Id>
-      <DisplayName>Carbide Ring</DisplayName>
+      <DisplayName>碳化物环-thwh-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\CarbideRing_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -314,7 +314,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>RubberGasket</SubtypeId>
       </Id>
-      <DisplayName>Rubber Gasket</DisplayName>
+      <DisplayName>橡胶垫片-xjdp-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\RubberGasket_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -342,7 +342,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Filter</SubtypeId>
       </Id>
-      <DisplayName>Filter</DisplayName>
+      <DisplayName>过滤器-glq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Filter_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -370,7 +370,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Tape</SubtypeId>
       </Id>
-      <DisplayName>Tape</DisplayName>
+      <DisplayName>胶带-jd-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Tape_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -398,7 +398,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>ZipTies</SubtypeId>
       </Id>
-      <DisplayName>Zip Ties</DisplayName>
+      <DisplayName>扎带-zd-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\ZipTies_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -426,7 +426,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>BallValve</SubtypeId>
       </Id>
-      <DisplayName>Ball Valve</DisplayName>
+      <DisplayName>球阀-qf-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\BallValve_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -454,7 +454,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>PipeFitting</SubtypeId>
       </Id>
-      <DisplayName>Pipe Fitting</DisplayName>
+      <DisplayName>管道配件-gdpj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PipeFitting_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -482,7 +482,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Chain</SubtypeId>
       </Id>
-      <DisplayName>Chain</DisplayName>
+      <DisplayName>链条-lt-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Chain_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -510,7 +510,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Belt</SubtypeId>
       </Id>
-      <DisplayName>Belt</DisplayName>
+      <DisplayName>皮带-pd-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Belt_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -538,7 +538,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>AluminumPiston</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Piston</DisplayName>
+      <DisplayName>铝活塞-lhs-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\AluminumPiston_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -566,7 +566,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>TitaniumPiston</SubtypeId>
       </Id>
-      <DisplayName>Titanium Piston</DisplayName>
+      <DisplayName>钛活塞-ths-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\TitaniumPiston_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -594,7 +594,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SteelStemValve</SubtypeId>
       </Id>
-      <DisplayName>Steel Valve</DisplayName>
+      <DisplayName>钢气门嘴-gqmz--</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelStemValve_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -622,7 +622,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>NitinolStemValve</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Valve</DisplayName>
+      <DisplayName>镍钛合金气门嘴-nthjqmz-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\NitinolStemValve_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -650,7 +650,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Bladder</SubtypeId>
       </Id>
-      <DisplayName>Bladder</DisplayName>
+      <DisplayName>气囊-qn-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Bladder_Icon.dds</Icon>
       <Size>
         <X>0.01</X>

@@ -6,7 +6,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>PneumaticMotor</SubtypeId>
       </Id>
-      <DisplayName>Pneumatic Motor</DisplayName>
+      <DisplayName>气动马达-qdmd-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PneumaticMotor_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -34,7 +34,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>PneumaticPump</SubtypeId>
       </Id>
-      <DisplayName>Pneumatic Pump</DisplayName>
+      <DisplayName>气动泵-qdb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PneumaticPump_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -62,7 +62,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>PressureRegulator</SubtypeId>
       </Id>
-      <DisplayName>Pressure Regulator</DisplayName>
+      <DisplayName>加压调节器-jytjq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PressureRegulator_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -90,7 +90,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>PressurizedTubing</SubtypeId>
       </Id>
-      <DisplayName>Pressurized Tubing</DisplayName>
+      <DisplayName>加压管-jyg-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PressurizedTubing_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -118,7 +118,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Radiator</SubtypeId>
       </Id>
-      <DisplayName>Radiator</DisplayName>
+      <DisplayName>散热器-srq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Radiator_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -146,7 +146,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Motor</SubtypeId>
       </Id>
-      <DisplayName>Motor</DisplayName>
+      <DisplayName>马达-md-</DisplayName>
       <Icon>Textures\GUI\Icons\component\motor_component.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -174,7 +174,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Armature</SubtypeId>
       </Id>
-      <DisplayName>Armature</DisplayName>
+      <DisplayName>电枢-ds-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Armature_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -202,7 +202,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Stator</SubtypeId>
       </Id>
-      <DisplayName>Stator</DisplayName>
+      <DisplayName>定子-dz-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Stator_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -230,7 +230,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Compressor</SubtypeId>
       </Id>
-      <DisplayName>Compressor</DisplayName>
+      <DisplayName>压缩机-ysj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Compressor_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -258,7 +258,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Turbine</SubtypeId>
       </Id>
-      <DisplayName>Turbine</DisplayName>
+      <DisplayName>涡轮-wl-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Turbine_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -286,7 +286,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Thrust</SubtypeId>
       </Id>
-      <DisplayName>Thruster Components</DisplayName>
+      <DisplayName>推进器组件-tjqzj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\thrust_components_component.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -314,7 +314,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Medical</SubtypeId>
       </Id>
-      <DisplayName>Medical Components</DisplayName>
+      <DisplayName>医疗零件-yllj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\medical_components_component.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -342,7 +342,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>MotorBlock</SubtypeId>
       </Id>
-      <DisplayName>Motor Block</DisplayName>
+      <DisplayName>曲轴箱-qzx-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\MotorBlock_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -370,7 +370,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>AluminumPistonAssembly</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Piston Assembly</DisplayName>
+      <DisplayName>铝活塞组件-lhszj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PistonAssembly_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -398,7 +398,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>TitaniumPistonAssembly</SubtypeId>
       </Id>
-      <DisplayName>Titanium Piston Assembly</DisplayName>
+      <DisplayName>钛活塞组件-thszj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PistonAssembly_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -426,7 +426,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SteelValveAssembly</SubtypeId>
       </Id>
-      <DisplayName>Steel Valve Assembly</DisplayName>
+      <DisplayName>钢阀门组件-gfmzj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelValveAssembly_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -454,7 +454,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>NitinolValveAssembly</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Valve Assembly</DisplayName>
+      <DisplayName>镍钛合金阀门组件-nthjfmzj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\NitinolValveAssembly_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -482,7 +482,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>CoolingUnit</SubtypeId>
       </Id>
-      <DisplayName>Cooling Unit</DisplayName>
+      <DisplayName>冷却单元-lqdy-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\CoolingUnit_Icon.dds</Icon>
       <Size>
         <X>0.01</X>

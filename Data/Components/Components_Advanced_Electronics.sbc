@@ -6,7 +6,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Detector</SubtypeId>
       </Id>
-      <DisplayName>Detector</DisplayName>
+      <DisplayName>探测器-tcq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Detector_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -34,7 +34,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Breaker</SubtypeId>
       </Id>
-      <DisplayName>Breaker</DisplayName>
+      <DisplayName>断路器-dlq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Breaker_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -62,7 +62,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Solenoid</SubtypeId>
       </Id>
-      <DisplayName>Solenoid</DisplayName>
+      <DisplayName>螺线管-lxg-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Solenoid_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -90,7 +90,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>ControlRod</SubtypeId>
       </Id>
-      <DisplayName>Control Rod</DisplayName>
+      <DisplayName>控制棒-kzb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ControlRod_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -118,7 +118,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Camera</SubtypeId>
       </Id>
-      <DisplayName>Camera</DisplayName>
+      <DisplayName>摄像头-sxt-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Camera_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -146,7 +146,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Speaker</SubtypeId>
       </Id>
-      <DisplayName>Speaker</DisplayName>
+      <DisplayName>扬声器-ysq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Speaker_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -174,7 +174,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Display</SubtypeId>
       </Id>
-      <DisplayName>Display</DisplayName>
+      <DisplayName>显示屏-xsp-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Display_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -202,7 +202,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>HardDrive</SubtypeId>
       </Id>
-      <DisplayName>Hard Drive</DisplayName>
+      <DisplayName>硬盘-yp-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\HardDrive_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -230,7 +230,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SolidStateDrive</SubtypeId>
       </Id>
-      <DisplayName>Solid State Drive</DisplayName>
+      <DisplayName>固态硬盘-gtyp-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\SolidStateDrive_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -258,7 +258,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>QuantumDrive</SubtypeId>
       </Id>
-      <DisplayName>Quantum Drive</DisplayName>
+      <DisplayName>量子硬盘-lzyp-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\QuantumDrive_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -286,7 +286,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>MicroChip</SubtypeId>
       </Id>
-      <DisplayName>Micro Chip</DisplayName>
+      <DisplayName>微型芯片-xp-</DisplayName>
       <Icon>Textures\GUI\Icons\component\computer_component.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -314,7 +314,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Solder</SubtypeId>
       </Id>
-      <DisplayName>Computer</DisplayName>
+      <DisplayName>计算机-jsj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Computer_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -342,7 +342,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>QuantumProcessor</SubtypeId>
       </Id>
-      <DisplayName>Quantum Processor</DisplayName>
+      <DisplayName>量子处理器-lzclq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\QuantumProcessor_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -370,7 +370,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>AIMainframe</SubtypeId>
       </Id>
-      <DisplayName>AI Mainframe</DisplayName>
+      <DisplayName>AI 大型机-dxj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\AIMainframe_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -398,7 +398,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>NetworkingMainframe</SubtypeId>
       </Id>
-      <DisplayName>Networking Mainframe</DisplayName>
+      <DisplayName>网络大型机-wldxj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\NetworkingMainframe_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -426,7 +426,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>TargetingMainframe</SubtypeId>
       </Id>
-      <DisplayName>Targeting Mainframe</DisplayName>
+      <DisplayName>定位大型机-dwdxj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\NetworkingMainframe_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -454,7 +454,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Rectifier</SubtypeId>
       </Id>
-      <DisplayName>Rectifier</DisplayName>
+      <DisplayName>整流器-zlq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Rectifier_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -482,7 +482,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Amplifier</SubtypeId>
       </Id>
-      <DisplayName>Amplifier</DisplayName>
+      <DisplayName>放大器-fdq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Amplifier_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -510,7 +510,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>PowerSupply</SubtypeId>
       </Id>
-      <DisplayName>Power Supply</DisplayName>
+      <DisplayName>电源-dy-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\PowerSupply_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -538,7 +538,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Transformer</SubtypeId>
       </Id>
-      <DisplayName>Transformer</DisplayName>
+      <DisplayName>变压器-byq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Transformer_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -566,7 +566,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>EnergyCoupler</SubtypeId>
       </Id>
-      <DisplayName>Energy Coupler</DisplayName>
+      <DisplayName>能源耦合器-nyohq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\EnergyCoupler_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -594,7 +594,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Superconductor</SubtypeId>
       </Id>
-      <DisplayName>Super Conductor</DisplayName>
+      <DisplayName>超导体-cdt-</DisplayName>
       <Icon>Textures\GUI\Icons\component\superconductor_conducts_component.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -622,7 +622,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>FluxCoil</SubtypeId>
       </Id>
-      <DisplayName>Flux Coil</DisplayName>
+      <DisplayName>通量线圈-tlxq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FluxCoil_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -650,7 +650,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>FluxCapacitor</SubtypeId>
       </Id>
-      <DisplayName>Flux Capacitor</DisplayName>
+      <DisplayName>通量电容器-tldrq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FluxCapacitor_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -678,7 +678,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>MagneticCoupler</SubtypeId>
       </Id>
-      <DisplayName>Magnetic Coupler</DisplayName>
+      <DisplayName>磁耦合器-cohq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\MagneticCoupler_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -706,7 +706,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>ThermoCouple</SubtypeId>
       </Id>
-      <DisplayName>Thermo Couple</DisplayName>
+      <DisplayName>热电偶-rdo-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ThermoCouple_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -734,7 +734,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Igniter</SubtypeId>
       </Id>
-      <DisplayName>Igniter</DisplayName>
+      <DisplayName>点火器-dhq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Igniter_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -762,7 +762,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Projector</SubtypeId>
       </Id>
-      <DisplayName>Projector</DisplayName>
+      <DisplayName>投影仪-tyy-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Projector_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -790,7 +790,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>BeamEmiter</SubtypeId>
       </Id>
-      <DisplayName>Beam Emiter</DisplayName>
+      <DisplayName>光束发射器-gsfsq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\BeamEmiter_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -818,7 +818,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>IonProjector</SubtypeId>
       </Id>
-      <DisplayName>Ion Projector</DisplayName>
+      <DisplayName>离子投影仪-lztyy-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\IonProjector_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -846,7 +846,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>GravityGenerator</SubtypeId>
       </Id>
-      <DisplayName>Gravity Generator</DisplayName>
+      <DisplayName>重力发生器-zlfsq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -874,7 +874,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>ParticleAccelerator</SubtypeId>
       </Id>
-      <DisplayName>Particle Accelerator</DisplayName>
+      <DisplayName>粒子加速器-lzjsq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ParticleAccelerator_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -902,7 +902,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>ShieldEmitter</SubtypeId>
       </Id>
-      <DisplayName>Shield Emitter</DisplayName>
+      <DisplayName>护盾发生器-hdfsq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ShieldEmitter_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -930,7 +930,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>HeatingElement</SubtypeId>
       </Id>
-      <DisplayName>Heating Element</DisplayName>
+      <DisplayName>加热元件-jryj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\HeatingElement_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -958,7 +958,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>CatalyticConvertor</SubtypeId>
       </Id>
-      <DisplayName>Catalytic Convertor</DisplayName>
+      <DisplayName>催化转换器-chzhq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\CatalyticConvertor_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -986,7 +986,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Reactor</SubtypeId>
       </Id>
-      <DisplayName>Reactor</DisplayName>
+      <DisplayName>反应堆-fyd-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Reactor_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -1014,7 +1014,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>FusionChamber</SubtypeId>
       </Id>
-      <DisplayName>Fusion Chamber</DisplayName>
+      <DisplayName>聚变室-jbs-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FusionChamber_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -1042,7 +1042,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>LithiumPowerCell</SubtypeId>
       </Id>
-      <DisplayName>Lithium Power Cell</DisplayName>
+      <DisplayName>锂电池-ldc-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\LithiumPowerCell_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -1070,7 +1070,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>LeadPowerCell</SubtypeId>
       </Id>
-      <DisplayName>Lead Power Cell</DisplayName>
+      <DisplayName>铅电池-qdc-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\LeadPowerCell_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -1098,7 +1098,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>FluoridePowerCell</SubtypeId>
       </Id>
-      <DisplayName>Fluoride Power Cell</DisplayName>
+      <DisplayName>氟化物电池-fhwdc-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FluoridePowerCell_Icon.dds</Icon>
       <Size>
         <X>0.01</X>

@@ -6,7 +6,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Fuse</SubtypeId>
       </Id>
-      <DisplayName>Fuse</DisplayName>
+      <DisplayName>保险丝-bxs-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Fuse_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -34,7 +34,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Resistor</SubtypeId>
       </Id>
-      <DisplayName>Resistor</DisplayName>
+      <DisplayName>电阻器-dzq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Resistor_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -62,7 +62,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Diode</SubtypeId>
       </Id>
-      <DisplayName>Diode</DisplayName>
+      <DisplayName>二极管-ejg-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Diode_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -90,7 +90,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>POT</SubtypeId>
       </Id>
-      <DisplayName>POT</DisplayName>
+      <DisplayName>电位器-dwq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\POT_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -118,7 +118,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>PowerCell</SubtypeId>
       </Id>
-      <DisplayName>Capacitor</DisplayName>
+      <DisplayName>电容器-drq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Capacitor_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -146,7 +146,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Transistor</SubtypeId>
       </Id>
-      <DisplayName>Transistor</DisplayName>
+      <DisplayName>晶体管-jtg-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Transistor_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -174,7 +174,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Coil</SubtypeId>
       </Id>
-      <DisplayName>Coil</DisplayName>
+      <DisplayName>线圈-xq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Coil_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -202,7 +202,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>LED</SubtypeId>
       </Id>
-      <DisplayName>LED</DisplayName>
+      <DisplayName>发光二极管-fgejg-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\LED_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -230,7 +230,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Bulb</SubtypeId>
       </Id>
-      <DisplayName>Bulb</DisplayName>
+      <DisplayName>灯泡-dp-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Bulb_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -258,7 +258,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Sensor</SubtypeId>
       </Id>
-      <DisplayName>Sensor</DisplayName>
+      <DisplayName>传感器-cgq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Sensor_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -286,7 +286,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>HeatSink</SubtypeId>
       </Id>
-      <DisplayName>Heat Sink</DisplayName>
+      <DisplayName>散热鳍片-srqp-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\HeatSink_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -314,7 +314,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>RadioCommunication</SubtypeId>
       </Id>
-      <DisplayName>Antenna</DisplayName>
+      <DisplayName>天线-tx-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Antenna_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -342,7 +342,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SolarCell</SubtypeId>
       </Id>
-      <DisplayName>Solar Cell</DisplayName>
+      <DisplayName>太阳能电池-tyndc-</DisplayName>
       <Icon>Textures\GUI\Icons\component\SolarCellComponent.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -370,7 +370,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Processor</SubtypeId>
       </Id>
-      <DisplayName>Processor</DisplayName>
+      <DisplayName>处理器-clq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Processor_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -398,7 +398,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>PCB</SubtypeId>
       </Id>
-      <DisplayName>PCB</DisplayName>
+      <DisplayName>印刷电路板-ysdlb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\PCB_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -426,7 +426,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>InsulatedCopperWire</SubtypeId>
       </Id>
-      <DisplayName>Insulated Copper Wire</DisplayName>
+      <DisplayName>漆包线-qbx-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\InsulatedCopperWire_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -454,7 +454,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>DataCable</SubtypeId>
       </Id>
-      <DisplayName>Data Cable</DisplayName>
+      <DisplayName>数据电缆-sjdl-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\DataCable_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -482,7 +482,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>FiberOpticWire</SubtypeId>
       </Id>
-      <DisplayName>Fiber Optic Wire</DisplayName>
+      <DisplayName>光纤线-gxx-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Fiber_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -510,7 +510,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Switch</SubtypeId>
       </Id>
-      <DisplayName>Switch</DisplayName>
+      <DisplayName>开关-kg-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Switch_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -538,7 +538,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Computer</SubtypeId>
       </Id>
-      <DisplayName>Solder</DisplayName>
+      <DisplayName>焊锡-hx-</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Solder_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
