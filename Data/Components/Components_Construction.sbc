@@ -6,7 +6,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SteelBall</SubtypeId>
       </Id>
-      <DisplayName>Steel Ball</DisplayName>
+      <DisplayName>钢珠-gz-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\SteelBall_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -34,7 +34,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Construction</SubtypeId>
       </Id>
-      <DisplayName>Steel Screw</DisplayName>
+      <DisplayName>钢螺丝-gls-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\SteelScrew_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -62,7 +62,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SteelBolt</SubtypeId>
       </Id>
-      <DisplayName>Steel Bolt</DisplayName>
+      <DisplayName>钢螺栓-gls-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\SteelBolt_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -90,7 +90,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SteelNut</SubtypeId>
       </Id>
-      <DisplayName>Steel Nut</DisplayName>
+      <DisplayName>钢螺母-glm-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\SteelNut_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -118,7 +118,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SteelWasher</SubtypeId>
       </Id>
-      <DisplayName>Steel Washer</DisplayName>
+      <DisplayName>钢垫圈-gdq-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\SteelWasher_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -146,7 +146,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>BrazingRod</SubtypeId>
       </Id>
-      <DisplayName>Brazing Rod</DisplayName>
+      <DisplayName>钎焊棒-qhb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\BrazingRods_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -174,7 +174,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SteelRivet</SubtypeId>
       </Id>
-      <DisplayName>Steel Rivet</DisplayName>
+      <DisplayName>钢铆钉-gld-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\SteelRivet_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -202,7 +202,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>AluminumCotterPin</SubtypeId>
       </Id>
-      <DisplayName>Cotter Pin</DisplayName>
+      <DisplayName>开口销-kkx-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\AluminumCotterPin_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -230,7 +230,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Clamp</SubtypeId>
       </Id>
-      <DisplayName>Clamp</DisplayName>
+      <DisplayName>管束-gs-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\Clamp_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -258,7 +258,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Girder</SubtypeId>
       </Id>
-      <DisplayName>Girder</DisplayName>
+      <DisplayName>梁-l-</DisplayName>
       <Icon>Textures\GUI\Icons\component\girder_component.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -286,7 +286,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>BareSteelWire</SubtypeId>
       </Id>
-      <DisplayName>Steel Wire</DisplayName>
+      <DisplayName>钢丝-gs-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\BareSteelWire_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -314,7 +314,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>BareAluminumWire</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Wire</DisplayName>
+      <DisplayName>铝丝-ls-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\BareAluminumWire_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -342,7 +342,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>BareCopperWire</SubtypeId>
       </Id>
-      <DisplayName>Copper Wire</DisplayName>
+      <DisplayName>铜丝-ts-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\BareCopperWire_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -370,7 +370,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>BareBrassWire</SubtypeId>
       </Id>
-      <DisplayName>Brass Wire</DisplayName>
+      <DisplayName>黄铜丝-hts-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\BareBrassWire_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -398,7 +398,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>BareNitinolWire</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Wire</DisplayName>
+      <DisplayName>镍钛合金丝-nthjs-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\BareNitinolWire_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -426,7 +426,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>BulletproofGlass</SubtypeId>
       </Id>
-      <DisplayName>Glass Panel</DisplayName>
+      <DisplayName>玻璃面板-blmb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\bulletproof_glass_component.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -454,7 +454,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>AluminumPlate</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Plate</DisplayName>
+      <DisplayName>铝板-lb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\AluminumPlate_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -482,7 +482,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SteelPlate</SubtypeId>
       </Id>
-      <DisplayName>Steel Plate</DisplayName>
+      <DisplayName>钢板-gb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\SteelPlate_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -510,7 +510,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>TitaniumPlate</SubtypeId>
       </Id>
-      <DisplayName>Titanium Plate</DisplayName>
+      <DisplayName>钛板-tb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\TitaniumPlate_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -538,7 +538,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>NitinolPlate</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Plate</DisplayName>
+      <DisplayName>镍钛合金板-nthjb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\NitinolPlate_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -566,7 +566,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>GraphenePlate</SubtypeId>
       </Id>
-      <DisplayName>Graphene Plate</DisplayName>
+      <DisplayName>石墨烯板-smxb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\GraphenePlate_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -594,7 +594,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>InteriorPlate</SubtypeId>
       </Id>
-      <DisplayName>Interior Plate</DisplayName>
+      <DisplayName>内衬板-ncb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\interior_plate_component.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -622,7 +622,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>MetalGrid</SubtypeId>
       </Id>
-      <DisplayName>Metal Grid</DisplayName>
+      <DisplayName>金属网格-jswg-</DisplayName>
       <Icon>Textures\GUI\Icons\component\metal_grid_component.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -650,7 +650,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SmallTube</SubtypeId>
       </Id>
-      <DisplayName>Small Steel Pipe</DisplayName>
+      <DisplayName>小钢管-xgg-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\SmallSteelTube_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -678,7 +678,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>LargeTube</SubtypeId>
       </Id>
-      <DisplayName>Large Steel Pipe</DisplayName>
+      <DisplayName>大钢管-dgg-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\LargeSteelTube_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -706,7 +706,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SmallCopperTube</SubtypeId>
       </Id>
-      <DisplayName>Small Copper Pipe</DisplayName>
+      <DisplayName>小铜管-xtg-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\SmallCopperTube_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -734,7 +734,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>LargeCopperTube</SubtypeId>
       </Id>
-      <DisplayName>Large Copper Pipe</DisplayName>
+      <DisplayName>大铜管-dtg-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\LargeCopperTube_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -762,7 +762,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>CarbonTube</SubtypeId>
       </Id>
-      <DisplayName>Graphene Pipe</DisplayName>
+      <DisplayName>石墨烯管-smxg-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\CarbonTube_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -790,7 +790,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>SteelRod</SubtypeId>
       </Id>
-      <DisplayName>Steel Rod</DisplayName>
+      <DisplayName>钢棒-gb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\SteelRod_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -818,7 +818,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>AluminumRod</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Rod</DisplayName>
+      <DisplayName>铝棒-lb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\AluminumRod_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -846,7 +846,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>TitaniumRod</SubtypeId>
       </Id>
-      <DisplayName>Titanium Rod</DisplayName>
+      <DisplayName>钛棒-tb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\TitaniumRod_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -874,7 +874,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>CopperRod</SubtypeId>
       </Id>
-      <DisplayName>Copper Rod</DisplayName>
+      <DisplayName>铜棒-tb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\CopperRod_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -902,7 +902,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>BrassRod</SubtypeId>
       </Id>
-      <DisplayName>Brass Rod</DisplayName>
+      <DisplayName>黄铜棒-htb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\BrassRod_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -930,7 +930,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>NitinolRod</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Rod</DisplayName>
+      <DisplayName>镍钛合金棒-nthjb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\NitinolRod_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -958,7 +958,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>RubberHose</SubtypeId>
       </Id>
-      <DisplayName>Rubber Hose</DisplayName>
+      <DisplayName>橡胶管-xjg-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\RubberHose_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -986,7 +986,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>PolyCarbonatePlate</SubtypeId>
       </Id>
-      <DisplayName>Poly Carbonate Plate</DisplayName>
+      <DisplayName>聚碳酸酯板-jtszb-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\PolyCarbonatePlate_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -1014,7 +1014,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Insulation</SubtypeId>
       </Id>
-      <DisplayName>Insulation</DisplayName>
+      <DisplayName>绝缘材料-jycl-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Insulation_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -1042,7 +1042,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Concrete</SubtypeId>
       </Id>
-      <DisplayName>Concrete</DisplayName>
+      <DisplayName>混凝土-hnt-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\Concrete_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
@@ -1071,7 +1071,7 @@
         <TypeId>Component</TypeId>
         <SubtypeId>Rebar</SubtypeId>
       </Id>
-      <DisplayName>Rebar</DisplayName>
+      <DisplayName>钢筋-gj-</DisplayName>
       <Icon>Textures\GUI\Icons\component\Construction\SteelRebar_Icon.dds</Icon>
       <Size>
         <X>0.01</X>
