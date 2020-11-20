@@ -6,7 +6,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>DemolishedConcrete</SubtypeId>
       </Id>
-      <DisplayName>废弃混凝土</DisplayName>
+      <DisplayName>废弃混凝土-fqhnt-</DisplayName>
       <Icon>Textures\GUI\Icons\DemolishedConcrete_Icon.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -17,7 +17,7 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>碎石</IconSymbol>
+      <IconSymbol>废弃混凝土</IconSymbol>
     </PhysicalItem>
 
     <PhysicalItem>  <!-- Stone -->
@@ -25,7 +25,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>Stone</SubtypeId>
       </Id>
-      <DisplayName>DisplayName_Item_StoneOre</DisplayName>
+      <DisplayName>石头-st-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -36,14 +36,14 @@
       <Volume>0.2</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
-      <IconSymbol>IconSymbol_Stone</IconSymbol>
+      <IconSymbol>石头</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>  <!-- DesertRock -->
       <Id>
         <TypeId>Ore</TypeId>
         <SubtypeId>DesertRock</SubtypeId>
       </Id>
-      <DisplayName>沙漠岩</DisplayName>
+      <DisplayName>沙砾-sl-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -61,7 +61,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>MarsRocks</SubtypeId>
       </Id>
-      <DisplayName>火星岩</DisplayName>
+      <DisplayName>火星岩-hxy-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -97,7 +97,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>AlienRock_01</SubtypeId>
       </Id>
-      <DisplayName>异星岩</DisplayName>
+      <DisplayName>异星岩-yxy-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -116,7 +116,7 @@
 			<TypeId>Ore</TypeId>
 			<SubtypeId>Sand_02</SubtypeId>
 		</Id>
-		<DisplayName>沙子</DisplayName>
+		<DisplayName>沙子-sz-</DisplayName>
 		<Icon>Textures\GUI\Icons\ore_sand.dds</Icon>
 		<Size>
 			<X>0.07</X>
@@ -134,7 +134,7 @@
 			<TypeId>Ore</TypeId>
 			<SubtypeId>AlienSand</SubtypeId>
 		</Id>
-		<DisplayName>异星沙</DisplayName>
+		<DisplayName>异星沙-yxs-</DisplayName>
 		<Icon>Textures\GUI\Icons\ore_sand.dds</Icon>
 		<Size>
 			<X>0.07</X>
@@ -153,7 +153,7 @@
 			<TypeId>Ore</TypeId>
 			<SubtypeId>Soil</SubtypeId>
 		</Id>
-		<DisplayName>土</DisplayName>
+		<DisplayName>土-t-</DisplayName>
 		<Icon>Textures\GUI\Icons\ore_soil.dds</Icon>
 		<Size>
 			<X>0.07</X>
@@ -171,7 +171,7 @@
 			<TypeId>Ore</TypeId>
 			<SubtypeId>Regolith</SubtypeId>
 		</Id>
-		<DisplayName>月表岩屑</DisplayName>
+		<DisplayName>月表岩屑-ybyx-</DisplayName>
 		<Icon>Textures\GUI\Icons\ore_regolith.dds</Icon>
 		<Size>
 			<X>0.07</X>
@@ -189,7 +189,7 @@
 			<TypeId>Ore</TypeId>
 			<SubtypeId>MarsSoil</SubtypeId>
 		</Id>
-		<DisplayName>火星土</DisplayName>
+		<DisplayName>火星土-hxt-</DisplayName>
 		<Icon>Textures\GUI\Icons\ore_mars_soil.dds</Icon>
 		<Size>
 			<X>0.07</X>
@@ -205,9 +205,9 @@
     <PhysicalItem>  <!-- AlienSoil -->
       <Id>
         <TypeId>Ore</TypeId>
-        <SubtypeId>异星土</SubtypeId>
+        <SubtypeId>AlienSoil</SubtypeId>
       </Id>
-      <DisplayName>Alien Soil</DisplayName>
+      <DisplayName>异星土-yxt-</DisplayName>
       <Icon>Textures\GUI\Icons\ore_alien_soil.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -226,7 +226,7 @@
 			<TypeId>Ore</TypeId>
 			<SubtypeId>Organic</SubtypeId>
 		</Id>
-		<DisplayName>腐殖质</DisplayName>
+		<DisplayName>腐殖质-fzz-</DisplayName>
 		<Icon>Textures\GUI\Icons\ore_biomass.dds</Icon>
 		<Size>
 			<X>0.07</X>
@@ -244,7 +244,7 @@
 			<TypeId>Ore</TypeId>
 			<SubtypeId>AlienOrganic</SubtypeId>
 		</Id>
-		<DisplayName>异星腐殖质</DisplayName>
+		<DisplayName>异星腐殖质-yzfzz-</DisplayName>
 		<Icon>Textures\GUI\Icons\ore_biomass.dds</Icon>
 		<Size>
 			<X>0.07</X>
