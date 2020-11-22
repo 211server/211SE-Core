@@ -7,7 +7,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Aluminum_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Ore</DisplayName>
+      <DisplayName>铝矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Al_aluminum.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ore" SubtypeId="Aluminum" />
@@ -22,7 +22,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Aluminum_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Ore</DisplayName>
+      <DisplayName>铝矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Al_aluminum.dds</Icon>
       <Prerequisites>
         <Item Amount="10000" TypeId="Ore" SubtypeId="Aluminum" />
@@ -37,7 +37,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Aluminum_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Ore</DisplayName>
+      <DisplayName>铝矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Al_aluminum.dds</Icon>
       <Prerequisites>
         <Item Amount="100000" TypeId="Ore" SubtypeId="Aluminum" />
@@ -53,7 +53,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Iron_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Iron Ore</DisplayName>
+      <DisplayName>铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ore" SubtypeId="Iron" />
@@ -68,7 +68,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Iron_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Iron Ore</DisplayName>
+      <DisplayName>铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
       <Prerequisites>
         <Item Amount="10000" TypeId="Ore" SubtypeId="Iron" />
@@ -83,7 +83,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Iron_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Iron Ore</DisplayName>
+      <DisplayName>铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
       <Prerequisites>
         <Item Amount="100000" TypeId="Ore" SubtypeId="Iron" />
@@ -99,7 +99,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Titanium_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Titanium Ore</DisplayName>
+      <DisplayName>钛矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ti_titanium.dds</Icon>
       <Prerequisites>
         <Item Amount="675" TypeId="Ore" SubtypeId="Titanium" />
@@ -114,7 +114,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Titanium_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Titanium Ore</DisplayName>
+      <DisplayName>钛矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ti_titanium.dds</Icon>
       <Prerequisites>
         <Item Amount="6750" TypeId="Ore" SubtypeId="Titanium" />
@@ -129,7 +129,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Titanium_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Titanium Ore</DisplayName>
+      <DisplayName>钛矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ti_titanium.dds</Icon>
       <Prerequisites>
         <Item Amount="67500" TypeId="Ore" SubtypeId="Titanium" />
@@ -145,7 +145,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Copper_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Copper Ore</DisplayName>
+      <DisplayName>铜矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cu_copper.dds</Icon>
       <Prerequisites>
         <Item Amount="850" TypeId="Ore" SubtypeId="Copper" />
@@ -160,7 +160,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Copper_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Copper Ore</DisplayName>
+      <DisplayName>铜矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cu_copper.dds</Icon>
       <Prerequisites>
         <Item Amount="8500" TypeId="Ore" SubtypeId="Copper" />
@@ -175,7 +175,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Copper_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Copper Ore</DisplayName>
+      <DisplayName>铜矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cu_copper.dds</Icon>
       <Prerequisites>
         <Item Amount="85000" TypeId="Ore" SubtypeId="Copper" />
@@ -191,7 +191,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Cobalt_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cobalt Ore</DisplayName>
+      <DisplayName>钴矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Co_cobalt.dds</Icon>
       <Prerequisites>
         <Item Amount="750" TypeId="Ore" SubtypeId="Cobalt" />
@@ -206,7 +206,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Cobalt_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cobalt Ore</DisplayName>
+      <DisplayName>钴矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Co_cobalt.dds</Icon>
       <Prerequisites>
         <Item Amount="7500" TypeId="Ore" SubtypeId="Cobalt" />
@@ -221,7 +221,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Cobalt_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cobalt Ore</DisplayName>
+      <DisplayName>钴矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Co_cobalt.dds</Icon>
       <Prerequisites>
         <Item Amount="75000" TypeId="Ore" SubtypeId="Cobalt" />
@@ -237,7 +237,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Nickel_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Nickel Ore</DisplayName>
+      <DisplayName>镍矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ni_nickel.dds</Icon>
       <Prerequisites>
         <Item Amount="750" TypeId="Ore" SubtypeId="Nickel" />
@@ -252,7 +252,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Nickel_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Nickel Ore</DisplayName>
+      <DisplayName>镍矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ni_nickel.dds</Icon>
       <Prerequisites>
         <Item Amount="7500" TypeId="Ore" SubtypeId="Nickel" />
@@ -267,7 +267,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Nickel_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Nickel Ore</DisplayName>
+      <DisplayName>镍矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ni_nickel.dds</Icon>
       <Prerequisites>
         <Item Amount="75000" TypeId="Ore" SubtypeId="Nickel" />
@@ -283,7 +283,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Tin_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Tin Ore</DisplayName>
+      <DisplayName>锡矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sn_tin.dds</Icon>
       <Prerequisites>
         <Item Amount="850" TypeId="Ore" SubtypeId="Tin" />
@@ -298,7 +298,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Tin_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Tin Ore</DisplayName>
+      <DisplayName>锡矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sn_tin.dds</Icon>
       <Prerequisites>
         <Item Amount="8500" TypeId="Ore" SubtypeId="Tin" />
@@ -313,7 +313,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Tin_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Tin Ore</DisplayName>
+      <DisplayName>锡矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sn_tin.dds</Icon>
       <Prerequisites>
         <Item Amount="85000" TypeId="Ore" SubtypeId="Tin" />
@@ -329,7 +329,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Silver_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Silver Ore</DisplayName>
+      <DisplayName>银矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ag_silver.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ore" SubtypeId="Silver" />
@@ -344,7 +344,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Silver_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Silver Ore</DisplayName>
+      <DisplayName>银矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ag_silver.dds</Icon>
       <Prerequisites>
         <Item Amount="5000" TypeId="Ore" SubtypeId="Silver" />
@@ -359,7 +359,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Silver_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Silver Ore</DisplayName>
+      <DisplayName>银矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ag_silver.dds</Icon>
       <Prerequisites>
         <Item Amount="50000" TypeId="Ore" SubtypeId="Silver" />
@@ -375,7 +375,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Gold_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Gold Ore</DisplayName>
+      <DisplayName>金矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Au_gold.dds</Icon>
       <Prerequisites>
         <Item Amount="450" TypeId="Ore" SubtypeId="Gold" />
@@ -390,7 +390,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Gold_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Gold Ore</DisplayName>
+      <DisplayName>金矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Au_gold.dds</Icon>
       <Prerequisites>
         <Item Amount="4500" TypeId="Ore" SubtypeId="Gold" />
@@ -405,7 +405,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Gold_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Gold Ore</DisplayName>
+      <DisplayName>金矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Au_gold.dds</Icon>
       <Prerequisites>
         <Item Amount="45000" TypeId="Ore" SubtypeId="Gold" />
@@ -421,7 +421,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Lead_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Lead Ore</DisplayName>
+      <DisplayName>铅矿</DisplayName>
 			<Icon>Textures\GUI\Icons\ore_Pb_lead.dds</Icon>
       <Prerequisites>
         <Item Amount="550" TypeId="Ore" SubtypeId="Lead" />
@@ -436,7 +436,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Lead_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Lead Ore</DisplayName>
+      <DisplayName>铅矿</DisplayName>
 			<Icon>Textures\GUI\Icons\ore_Pb_lead.dds</Icon>
       <Prerequisites>
         <Item Amount="5500" TypeId="Ore" SubtypeId="Lead" />
@@ -451,7 +451,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Lead_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Lead Ore</DisplayName>
+      <DisplayName>铅矿</DisplayName>
 			<Icon>Textures\GUI\Icons\ore_Pb_lead.dds</Icon>
       <Prerequisites>
         <Item Amount="55000" TypeId="Ore" SubtypeId="Lead" />
@@ -467,7 +467,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Magnesium_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Magnesium Ore</DisplayName>
+      <DisplayName>镁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Mg_magnesium.dds</Icon>
       <Prerequisites>
         <Item Amount="250" TypeId="Ore" SubtypeId="Magnesium" />
@@ -482,7 +482,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Magnesium_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Magnesium Ore</DisplayName>
+      <DisplayName>镁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Mg_magnesium.dds</Icon>
       <Prerequisites>
         <Item Amount="2500" TypeId="Ore" SubtypeId="Magnesium" />
@@ -497,7 +497,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Magnesium_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Magnesium Ore</DisplayName>
+      <DisplayName>镁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Mg_magnesium.dds</Icon>
       <Prerequisites>
         <Item Amount="25000" TypeId="Ore" SubtypeId="Magnesium" />
@@ -513,7 +513,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Silicon_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Silicon Ore</DisplayName>
+      <DisplayName>硅矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Si_silicon.dds</Icon>
       <Prerequisites>
         <Item Amount="600" TypeId="Ore" SubtypeId="Silicon" />
@@ -528,7 +528,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Silicon_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Silicon Ore</DisplayName>
+      <DisplayName>硅矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Si_silicon.dds</Icon>
       <Prerequisites>
         <Item Amount="6000" TypeId="Ore" SubtypeId="Silicon" />
@@ -543,7 +543,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Silicon_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Silicon Ore</DisplayName>
+      <DisplayName>硅矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Si_silicon.dds</Icon>
       <Prerequisites>
         <Item Amount="60000" TypeId="Ore" SubtypeId="Silicon" />
@@ -559,7 +559,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Zinc_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Zinc Ore</DisplayName>
+      <DisplayName>锌矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Zn_zinc.dds</Icon>
       <Prerequisites>
         <Item Amount="375" TypeId="Ore" SubtypeId="Zinc" />
@@ -574,7 +574,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Zinc_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Zinc Ore</DisplayName>
+      <DisplayName>锌矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Zn_zinc.dds</Icon>
       <Prerequisites>
         <Item Amount="3750" TypeId="Ore" SubtypeId="Zinc" />
@@ -589,7 +589,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Zinc_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Zinc Ore</DisplayName>
+      <DisplayName>锌矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Zn_zinc.dds</Icon>
       <Prerequisites>
         <Item Amount="37500" TypeId="Ore" SubtypeId="Zinc" />
@@ -605,7 +605,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Platinum_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Platinum Ore</DisplayName>
+      <DisplayName>铂矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Pt_platinum.dds</Icon>
       <Prerequisites>
         <Item Amount="200" TypeId="Ore" SubtypeId="Platinum" />
@@ -620,7 +620,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Platinum_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Platinum Ore</DisplayName>
+      <DisplayName>铂矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Pt_platinum.dds</Icon>
       <Prerequisites>
         <Item Amount="2000" TypeId="Ore" SubtypeId="Platinum" />
@@ -635,7 +635,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Platinum_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Platinum Ore</DisplayName>
+      <DisplayName>铂矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Pt_platinum.dds</Icon>
       <Prerequisites>
         <Item Amount="20000" TypeId="Ore" SubtypeId="Platinum" />
@@ -652,7 +652,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Molybdenum_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Molybdenum</DisplayName>
+      <DisplayName>钼矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Al_aluminum.dds</Icon>
       <Prerequisites>
         <Item Amount="350" TypeId="Ore" SubtypeId="Molybdenum" />
@@ -667,7 +667,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Molybdenum_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Molybdenum</DisplayName>
+      <DisplayName>钼矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Al_aluminum.dds</Icon>
       <Prerequisites>
         <Item Amount="8750" TypeId="Ore" SubtypeId="Molybdenum" />
@@ -682,7 +682,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Molybdenum_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Molybdenum</DisplayName>
+      <DisplayName>钼矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Al_aluminum.dds</Icon>
       <Prerequisites>
         <Item Amount="17500" TypeId="Ore" SubtypeId="Molybdenum" />
@@ -698,7 +698,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Zirconium_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Zirconium Ore</DisplayName>
+      <DisplayName>锆矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Al_aluminum.dds</Icon>
       <Prerequisites>
         <Item Amount="425" TypeId="Ore" SubtypeId="Zirconium" />
@@ -713,7 +713,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Zirconium_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Zirconium Ore</DisplayName>
+      <DisplayName>锆矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Al_aluminum.dds</Icon>
       <Prerequisites>
         <Item Amount="4250" TypeId="Ore" SubtypeId="Zirconium" />
@@ -728,7 +728,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Zirconium_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Zirconium Ore</DisplayName>
+      <DisplayName>锆矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Al_aluminum.dds</Icon>
       <Prerequisites>
         <Item Amount="42500" TypeId="Ore" SubtypeId="Zirconium" />

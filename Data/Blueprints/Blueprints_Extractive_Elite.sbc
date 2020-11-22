@@ -7,7 +7,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Stone_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Stone</DisplayName>
+      <DisplayName>石头</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
       <Prerequisites>
         <Item Amount="50000" TypeId="Ore" SubtypeId="Stone" />
@@ -27,7 +27,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_DesertRock_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Stone</DisplayName>
+      <DisplayName>石头</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
       <Prerequisites>
         <Item Amount="26250" TypeId="Ore" SubtypeId="DesertRock" />
@@ -44,7 +44,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_MarsRocks_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Mars Stone</DisplayName>
+      <DisplayName>火星岩</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
       <Prerequisites>
         <Item Amount="45000" TypeId="Ore" SubtypeId="MarsRocks" />
@@ -64,7 +64,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Anorthite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Anorthite</DisplayName>
+      <DisplayName>钙长石</DisplayName>
 		<Icon>Textures\GUI\Icons\ore_anorthite.dds</Icon>
       <Prerequisites>
         <Item Amount="47500" TypeId="Ore" SubtypeId="Anorthite" />
@@ -84,7 +84,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_AlienRock_01_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Alien Stone</DisplayName>
+      <DisplayName>异星岩</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
       <Prerequisites>
         <Item Amount="42500" TypeId="Ore" SubtypeId="AlienRock_01" />
@@ -105,7 +105,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Sand_02_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Sand</DisplayName>
+      <DisplayName>沙子</DisplayName>
       <Icon>Textures\GUI\Icons\ore_sand.dds</Icon>
       <Prerequisites>
         <Item Amount="25000" TypeId="Ore" SubtypeId="Sand_02" />
@@ -121,7 +121,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_AlienSand_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Sand</DisplayName>
+      <DisplayName>沙子</DisplayName>
       <Icon>Textures\GUI\Icons\ore_sand.dds</Icon>
       <Prerequisites>
         <Item Amount="16250" TypeId="Ore" SubtypeId="AlienSand" />
@@ -139,7 +139,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Soil_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Soil</DisplayName>
+      <DisplayName>土</DisplayName>
       <Icon>Textures\GUI\Icons\ore_soil.dds</Icon>
       <Prerequisites>
         <Item Amount="18750" TypeId="Ore" SubtypeId="Soil" />
@@ -158,7 +158,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_MarsSoil_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Soil</DisplayName>
+      <DisplayName>土</DisplayName>
       <Icon>Textures\GUI\Icons\ore_mars_soil.dds</Icon>
       <Prerequisites>
         <Item Amount="13750" TypeId="Ore" SubtypeId="MarsSoil" />
@@ -177,7 +177,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Regolith_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Soil</DisplayName>
+      <DisplayName>土</DisplayName>
       <Icon>Textures\GUI\Icons\ore_regolith.dds</Icon>
       <Prerequisites>
         <Item Amount="16250" TypeId="Ore" SubtypeId="Regolith" />
@@ -196,7 +196,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_AlienSoil_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Soil</DisplayName>
+      <DisplayName>土</DisplayName>
       <Icon>Textures\GUI\Icons\ore_alien_soil.dds</Icon>
       <Prerequisites>
         <Item Amount="11250" TypeId="Ore" SubtypeId="AlienSoil" />
@@ -216,7 +216,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Organic_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Organic</DisplayName>
+      <DisplayName>有机物</DisplayName>
       <Icon>Textures\GUI\Icons\ore_soil.dds</Icon>
       <Prerequisites>
         <Item Amount="18750" TypeId="Ore" SubtypeId="Organic" />
@@ -235,7 +235,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_AlienOrganic_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Organic</DisplayName>
+      <DisplayName>有机物</DisplayName>
       <Icon>Textures\GUI\Icons\ore_biomass.dds</Icon>
       <Prerequisites>
         <Item Amount="12500" TypeId="Ore" SubtypeId="AlienOrganic" />
@@ -255,7 +255,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_AminoAcids_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Amino Acids</DisplayName>
+      <DisplayName>氨基酸</DisplayName>
       <Icon>Textures\GUI\Icons\ore_CCL4_Carbon_Tetrachloride.dds</Icon>
       <Prerequisites>
         <Item Amount="14375" TypeId="Ore" SubtypeId="CarbonTetrachloride_AminoAcids" />

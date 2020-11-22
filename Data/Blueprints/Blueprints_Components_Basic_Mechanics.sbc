@@ -6,7 +6,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelSpringX100</SubtypeId>
       </Id>
-      <DisplayName>Steel Springs x100</DisplayName>
+      <DisplayName>钢弹簧 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelSpring_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="200" TypeId="Ingot" SubtypeId="945Steel" />
@@ -19,7 +19,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelSpringX10</SubtypeId>
       </Id>
-      <DisplayName>Steel Springs x10</DisplayName>
+      <DisplayName>钢弹簧 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelSpring_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="20" TypeId="Ingot" SubtypeId="945Steel" />
@@ -32,7 +32,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelSpring</SubtypeId>
       </Id>
-      <DisplayName>Steel Spring</DisplayName>
+      <DisplayName>钢弹簧</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelSpring_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="Ingot" SubtypeId="945Steel" />
@@ -46,7 +46,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NitinolSpringX100</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Springs x100</DisplayName>
+      <DisplayName>镍钛合金弹簧 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\NitinolSpring_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="200" TypeId="Ingot" SubtypeId="Nitinol" />
@@ -59,7 +59,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NitinolSpringX10</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Springs x10</DisplayName>
+      <DisplayName>镍钛合金弹簧 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\NitinolSpring_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="20" TypeId="Ingot" SubtypeId="Nitinol" />
@@ -72,7 +72,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NitinolSpring</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Spring</DisplayName>
+      <DisplayName>镍钛合金弹簧</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\NitinolSpring_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="Ingot" SubtypeId="Nitinol" />
@@ -86,7 +86,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BallBearingX100</SubtypeId>
       </Id>
-      <DisplayName>Ball Bearings x1000</DisplayName>
+      <DisplayName>滚珠轴承 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\BallBearing_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ingot" SubtypeId="ChromiumSteel" />
@@ -100,7 +100,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BallBearingX10</SubtypeId>
       </Id>
-      <DisplayName>Ball Bearings x100</DisplayName>
+      <DisplayName>滚珠轴承 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\BallBearing_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="ChromiumSteel" />
@@ -114,7 +114,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BallBearing</SubtypeId>
       </Id>
-      <DisplayName>Ball Bearing x10</DisplayName>
+      <DisplayName>滚珠轴承 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\BallBearing_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="ChromiumSteel" />
@@ -129,7 +129,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AluminumFanBladeX100</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Fan Blades x100</DisplayName>
+      <DisplayName>铝风轮叶片 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\AluminumFanBlade_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ingot" SubtypeId="Aluminum" />
@@ -142,7 +142,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AluminumFanBladeX10</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Fan Blades x10</DisplayName>
+      <DisplayName>铝风轮叶片 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\AluminumFanBlade_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Aluminum" />
@@ -155,7 +155,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AluminumFanBlade</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Fan Blade</DisplayName>
+      <DisplayName>铝风轮叶片</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\AluminumFanBlade_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="5" TypeId="Ingot" SubtypeId="Aluminum" />
@@ -169,7 +169,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MechanicalCableX100</SubtypeId>
       </Id>
-      <DisplayName>Mechanical Control Cables x100</DisplayName>
+      <DisplayName>机械控制电缆 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\MechanicalCable_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="BareSteelWire" />
@@ -183,7 +183,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MechanicalCableX10</SubtypeId>
       </Id>
-      <DisplayName>Mechanical Control Cables x10</DisplayName>
+      <DisplayName>机械控制电缆 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\MechanicalCable_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="BareSteelWire" />
@@ -197,7 +197,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MechanicalCable</SubtypeId>
       </Id>
-      <DisplayName>Mechanical Control Cable</DisplayName>
+      <DisplayName>机械控制电缆</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\MechanicalCable_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="BareSteelWire" />
@@ -212,7 +212,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelPulleyX100</SubtypeId>
       </Id>
-      <DisplayName>Steel Pulleys x100</DisplayName>
+      <DisplayName>钢带轮 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Pulley_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Ingot" SubtypeId="945Steel" />
@@ -226,7 +226,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelPulleyX10</SubtypeId>
       </Id>
-      <DisplayName>Steel Pulleys x10</DisplayName>
+      <DisplayName>钢带轮 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Pulley_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Ingot" SubtypeId="945Steel" />
@@ -240,7 +240,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelPulley</SubtypeId>
       </Id>
-      <DisplayName>Steel Pulley</DisplayName>
+      <DisplayName>钢带轮</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Pulley_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3" TypeId="Ingot" SubtypeId="945Steel" />
@@ -255,7 +255,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelGearX100</SubtypeId>
       </Id>
-      <DisplayName>Steel Gears x100</DisplayName>
+      <DisplayName>钢齿轮 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelGear_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ingot" SubtypeId="945Steel" />
@@ -268,7 +268,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelGearX10</SubtypeId>
       </Id>
-      <DisplayName>Steel Gears x10</DisplayName>
+      <DisplayName>钢齿轮 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelGear_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="945Steel" />
@@ -281,7 +281,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelGear</SubtypeId>
       </Id>
-      <DisplayName>Steel Gear</DisplayName>
+      <DisplayName>钢齿轮</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelGear_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="5" TypeId="Ingot" SubtypeId="945Steel" />
@@ -295,7 +295,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RubberBushingX100</SubtypeId>
       </Id>
-      <DisplayName>Rubber Bushings x100</DisplayName>
+      <DisplayName>橡胶衬套 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\RubberBushing_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Rubber" />
@@ -308,7 +308,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RubberBushingX10</SubtypeId>
       </Id>
-      <DisplayName>Rubber Bushings x10</DisplayName>
+      <DisplayName>橡胶衬套 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\RubberBushing_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Rubber" />
@@ -321,7 +321,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RubberBushing</SubtypeId>
       </Id>
-      <DisplayName>Rubber Bushing</DisplayName>
+      <DisplayName>橡胶衬套</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\RubberBushing_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Rubber" />
@@ -335,7 +335,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CarbideToolingX100</SubtypeId>
       </Id>
-      <DisplayName>Carbide Toolings x100</DisplayName>
+      <DisplayName>碳化物工具 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\CarbideTool_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="945Steel" />
@@ -349,7 +349,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CarbideToolingX10</SubtypeId>
       </Id>
-      <DisplayName>Carbide Toolings x10</DisplayName>
+      <DisplayName>碳化物工具 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\CarbideTool_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="945Steel" />
@@ -363,7 +363,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CarbideTooling</SubtypeId>
       </Id>
-      <DisplayName>Carbide Tooling</DisplayName>
+      <DisplayName>碳化物工具</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\CarbideTool_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="945Steel" />
@@ -378,7 +378,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DiamondToolingX100</SubtypeId>
       </Id>
-      <DisplayName>Diamond Toolings x100</DisplayName>
+      <DisplayName>金刚石工具 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\DiamondTooling_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Iron" />
@@ -392,7 +392,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DiamondToolingX10</SubtypeId>
       </Id>
-      <DisplayName>Diamond Toolings x10</DisplayName>
+      <DisplayName>金刚石工具 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\DiamondTooling_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Iron" />
@@ -406,7 +406,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DiamondTooling</SubtypeId>
       </Id>
-      <DisplayName>Diamond Tooling</DisplayName>
+      <DisplayName>金刚石工具</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\DiamondTooling_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Iron" />
@@ -421,7 +421,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CarbideRingX100</SubtypeId>
       </Id>
-      <DisplayName>Carbide Rings x1000</DisplayName>
+      <DisplayName>碳化物环 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\CarbideRing_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="TungstenCarbide" />
@@ -434,7 +434,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CarbideRingX10</SubtypeId>
       </Id>
-      <DisplayName>Carbide Rings x100</DisplayName>
+      <DisplayName>碳化物环 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\CarbideRing_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="TungstenCarbide" />
@@ -447,7 +447,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CarbideRing</SubtypeId>
       </Id>
-      <DisplayName>Carbide Ring x10</DisplayName>
+      <DisplayName>碳化物环 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\CarbideRing_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="TungstenCarbide" />
@@ -461,7 +461,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RubberGasketX100</SubtypeId>
       </Id>
-      <DisplayName>Rubber Gaskets x1000</DisplayName>
+      <DisplayName>橡胶垫片 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\RubberGasket_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="2000" TypeId="Ingot" SubtypeId="Rubber" />
@@ -474,7 +474,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RubberGasketX10</SubtypeId>
       </Id>
-      <DisplayName>Rubber Gaskets x100</DisplayName>
+      <DisplayName>橡胶垫片 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\RubberGasket_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="200" TypeId="Ingot" SubtypeId="Rubber" />
@@ -487,7 +487,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RubberGasket</SubtypeId>
       </Id>
-      <DisplayName>Rubber Gasket x10</DisplayName>
+      <DisplayName>橡胶垫片 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\RubberGasket_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="20" TypeId="Ingot" SubtypeId="Rubber" />
@@ -501,7 +501,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FilterX100</SubtypeId>
       </Id>
-      <DisplayName>Filters x100</DisplayName>
+      <DisplayName>过滤器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Filter_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ingot" SubtypeId="Carbon" />
@@ -516,7 +516,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FilterX10</SubtypeId>
       </Id>
-      <DisplayName>Filters x10</DisplayName>
+      <DisplayName>过滤器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Filter_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Carbon" />
@@ -531,7 +531,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Filter</SubtypeId>
       </Id>
-      <DisplayName>Filter</DisplayName>
+      <DisplayName>过滤器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Filter_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Carbon" />
@@ -547,7 +547,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TapeX100</SubtypeId>
       </Id>
-      <DisplayName>Tapes x500</DisplayName>
+      <DisplayName>胶带 x500</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Tape_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Rubber" />
@@ -561,7 +561,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TapeX10</SubtypeId>
       </Id>
-      <DisplayName>Tapes x500</DisplayName>
+      <DisplayName>胶带 x500</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Tape_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Rubber" />
@@ -575,7 +575,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Tape</SubtypeId>
       </Id>
-      <DisplayName>Tapes x5</DisplayName>
+      <DisplayName>胶带 x5</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Tape_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Rubber" />
@@ -589,7 +589,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TapeDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Tape</DisplayName>
+      <DisplayName>胶带</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Tape_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.2" TypeId="Ingot" SubtypeId="Rubber" />
@@ -604,7 +604,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ZipTiesX100</SubtypeId>
       </Id>
-      <DisplayName>Zip Ties x500</DisplayName>
+      <DisplayName>扎带 x500</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\ZipTies_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="PolyCarbonate" />
@@ -617,7 +617,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ZipTiesX10</SubtypeId>
       </Id>
-      <DisplayName>Zip Ties x50</DisplayName>
+      <DisplayName>扎带 x50</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\ZipTies_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="PolyCarbonate" />
@@ -630,7 +630,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ZipTies</SubtypeId>
       </Id>
-      <DisplayName>Zip Ties x5</DisplayName>
+      <DisplayName>扎带 x5</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\ZipTies_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="PolyCarbonate" />
@@ -643,7 +643,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ZipTiesDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Zip Ties</DisplayName>
+      <DisplayName>扎带</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\ZipTies_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.2" TypeId="Ingot" SubtypeId="PolyCarbonate" />
@@ -657,7 +657,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BallValveX100</SubtypeId>
       </Id>
-      <DisplayName>Ball Valves x100</DisplayName>
+      <DisplayName>球阀 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\BallValve_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Rubber" />
@@ -673,7 +673,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BallValveX10</SubtypeId>
       </Id>
-      <DisplayName>Ball Valves x10</DisplayName>
+      <DisplayName>球阀 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\BallValve_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Rubber" />
@@ -689,7 +689,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BallValve</SubtypeId>
       </Id>
-      <DisplayName>Ball Valve</DisplayName>
+      <DisplayName>球阀</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\BallValve_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.1" TypeId="Ingot" SubtypeId="Rubber" />
@@ -706,7 +706,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ChainX100</SubtypeId>
       </Id>
-      <DisplayName>Chains x100</DisplayName>
+      <DisplayName>链条 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Chain_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="600" TypeId="Ingot" SubtypeId="945Steel" />
@@ -720,7 +720,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ChainX10</SubtypeId>
       </Id>
-      <DisplayName>Chains x10</DisplayName>
+      <DisplayName>链条 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Chain_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="60" TypeId="Ingot" SubtypeId="945Steel" />
@@ -734,7 +734,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Chain</SubtypeId>
       </Id>
-      <DisplayName>Chain</DisplayName>
+      <DisplayName>链条</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Chain_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="6" TypeId="Ingot" SubtypeId="945Steel" />
@@ -749,7 +749,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BeltX100</SubtypeId>
       </Id>
-      <DisplayName>Belts x100</DisplayName>
+      <DisplayName>皮带 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Belt_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="200" TypeId="Ingot" SubtypeId="Rubber" />
@@ -763,7 +763,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BeltX10</SubtypeId>
       </Id>
-      <DisplayName>Belts x10</DisplayName>
+      <DisplayName>皮带 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Belt_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="20" TypeId="Ingot" SubtypeId="Rubber" />
@@ -777,7 +777,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Belt</SubtypeId>
       </Id>
-      <DisplayName>Belt</DisplayName>
+      <DisplayName>皮带</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Belt_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="Ingot" SubtypeId="Rubber" />
@@ -792,7 +792,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AluminumPistonX100</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Pistons x100</DisplayName>
+      <DisplayName>铝活塞 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\AluminumPiston_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Ingot" SubtypeId="Aluminum" />
@@ -806,7 +806,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AluminumPistonX10</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Pistons x10</DisplayName>
+      <DisplayName>铝活塞 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\AluminumPiston_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Ingot" SubtypeId="Aluminum" />
@@ -820,7 +820,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AluminumPiston</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Piston</DisplayName>
+      <DisplayName>铝活塞</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\AluminumPiston_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3" TypeId="Ingot" SubtypeId="Aluminum" />
@@ -835,7 +835,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TitaniumPistonX100</SubtypeId>
       </Id>
-      <DisplayName>Titanium Pistons x100</DisplayName>
+      <DisplayName>钛活塞 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\TitaniumPiston_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Ingot" SubtypeId="Titanium" />
@@ -849,7 +849,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TitaniumPistonX10</SubtypeId>
       </Id>
-      <DisplayName>Titanium Pistons x10</DisplayName>
+      <DisplayName>钛活塞 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\TitaniumPiston_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Ingot" SubtypeId="Titanium" />
@@ -863,7 +863,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TitaniumPiston</SubtypeId>
       </Id>
-      <DisplayName>Titanium Piston</DisplayName>
+      <DisplayName>钛活塞</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\TitaniumPiston_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3" TypeId="Ingot" SubtypeId="Titanium" />
@@ -878,7 +878,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelStemValveX100</SubtypeId>
       </Id>
-      <DisplayName>Steel Valves x100</DisplayName>
+      <DisplayName>钢气门嘴 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelStemValve_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="945Steel" />
@@ -892,7 +892,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelStemValveX10</SubtypeId>
       </Id>
-      <DisplayName>Steel Valves x10</DisplayName>
+      <DisplayName>钢气门嘴 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelStemValve_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="945Steel" />
@@ -906,7 +906,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelStemValve</SubtypeId>
       </Id>
-      <DisplayName>Steel Valve</DisplayName>
+      <DisplayName>钢气门嘴</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelStemValve_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="945Steel" />
@@ -921,7 +921,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NitinolStemValveX100</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Valves x100</DisplayName>
+      <DisplayName>镍钛合金气门嘴 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\NitinolStemValve_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Nitinol" />
@@ -935,7 +935,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NitinolStemValveX10</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Valves x10</DisplayName>
+      <DisplayName>镍钛合金气门嘴 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\NitinolStemValve_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Nitinol" />
@@ -949,7 +949,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NitinolStemValve</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Valve</DisplayName>
+      <DisplayName>镍钛合金气门嘴</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\NitinolStemValve_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Nitinol" />
@@ -964,7 +964,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BladderX100</SubtypeId>
       </Id>
-      <DisplayName>Bladders x100</DisplayName>
+      <DisplayName>气囊 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Bladder_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ingot" SubtypeId="Rubber" />
@@ -978,7 +978,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BladderX10</SubtypeId>
       </Id>
-      <DisplayName>Bladders x10</DisplayName>
+      <DisplayName>气囊 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Bladder_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Rubber" />
@@ -992,7 +992,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bladder</SubtypeId>
       </Id>
-      <DisplayName>Bladder</DisplayName>
+      <DisplayName>气囊</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Bladder_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Rubber" />
@@ -1007,7 +1007,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CanvasX100</SubtypeId>
       </Id>
-      <DisplayName>Canvas x100</DisplayName>
+      <DisplayName>帆布 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Cartridge_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1500" TypeId="Ingot" SubtypeId="PolyCarbonate" />
@@ -1021,7 +1021,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CanvasX10</SubtypeId>
       </Id>
-      <DisplayName>Canvas x10</DisplayName>
+      <DisplayName>帆布 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Cartridge_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="150" TypeId="Ingot" SubtypeId="PolyCarbonate" />
@@ -1035,7 +1035,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Canvas</SubtypeId>
       </Id>
-      <DisplayName>Canvas</DisplayName>
+      <DisplayName>帆布</DisplayName>
       <Icon>Textures\GUI\Icons\component\Cartridge_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="15" TypeId="Ingot" SubtypeId="PolyCarbonate" />

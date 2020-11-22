@@ -6,7 +6,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ZoneChip</SubtypeId>
       </Id>
-      <DisplayName>Zone Chip</DisplayName>
+      <DisplayName>区域筹码</DisplayName>
       <Icon>Textures\GUI\Icons\Items\ZoneChip_Item.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="ShieldEmitter" />
@@ -49,7 +49,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Medkit</SubtypeId>
       </Id>
-      <DisplayName>Basic Medkit</DisplayName>
+      <DisplayName>基础医疗包</DisplayName>
       <Icon>Textures\GUI\Icons\Items\Medkit.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Water" />
@@ -66,7 +66,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Medkit</SubtypeId>
       </Id>
-      <DisplayName>Advanced Medkit</DisplayName>
+      <DisplayName>高级医疗包</DisplayName>
       <Icon>Textures\GUI\Icons\Items\Medkit.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="ConsumableItem" SubtypeId="Medkit" />
@@ -81,7 +81,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Medkit</SubtypeId>
       </Id>
-      <DisplayName>Elite Medkit</DisplayName>
+      <DisplayName>精英医疗包</DisplayName>
       <Icon>Textures\GUI\Icons\Items\Medkit.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="ConsumableItem" SubtypeId="Adv_Medkit" />
@@ -96,7 +96,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Inst_Medkit</SubtypeId>
       </Id>
-      <DisplayName>Basic Instant Medkit</DisplayName>
+      <DisplayName>基础即时医疗包</DisplayName>
       <Icon>Textures\GUI\Icons\Items\Medkit.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Water" />
@@ -114,7 +114,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Inst_Medkit</SubtypeId>
       </Id>
-      <DisplayName>Advanced Instant Medkit</DisplayName>
+      <DisplayName>高级即时医疗包</DisplayName>
       <Icon>Textures\GUI\Icons\Items\Medkit.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="ConsumableItem" SubtypeId="Bsc_Inst_Medkit" />
@@ -130,7 +130,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Inst_Medkit</SubtypeId>
       </Id>
-      <DisplayName>Elite Instant Medkit</DisplayName>
+      <DisplayName>精英即时医疗包</DisplayName>
       <Icon>Textures\GUI\Icons\Items\Medkit.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="ConsumableItem" SubtypeId="Adv_Inst_Medkit" />
@@ -146,7 +146,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Powerkit</SubtypeId>
       </Id>
-      <DisplayName>Basic Power Kit</DisplayName>
+      <DisplayName>基础电池</DisplayName>
       <Icon>Textures\GUI\Icons\Items\PowerKit.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="Ingot" SubtypeId="Cupronickel" />
@@ -164,7 +164,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Powerkit</SubtypeId>
       </Id>
-      <DisplayName>Advanced Power Kit</DisplayName>
+      <DisplayName>高级电池</DisplayName>
       <Icon>Textures\GUI\Icons\Items\PowerKit.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="ConsumableItem" SubtypeId="Powerkit" />
@@ -180,7 +180,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Powerkit</SubtypeId>
       </Id>
-      <DisplayName>Elite Power Kit</DisplayName>
+      <DisplayName>精英电池</DisplayName>
       <Icon>Textures\GUI\Icons\Items\PowerKit.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="ConsumableItem" SubtypeId="Adv_Powerkit" />
@@ -196,7 +196,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Inst_Powerkit</SubtypeId>
       </Id>
-      <DisplayName>Basic Instant Power Kit</DisplayName>
+      <DisplayName>基础即时电池</DisplayName>
       <Icon>Textures\GUI\Icons\Items\PowerKit.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Electrum" />
@@ -213,7 +213,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Inst_Powerkit</SubtypeId>
       </Id>
-      <DisplayName>Advanced Instant Power Kit</DisplayName>
+      <DisplayName>高级即时电池</DisplayName>
       <Icon>Textures\GUI\Icons\Items\PowerKit.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="ConsumableItem" SubtypeId="Bsc_Inst_Powerkit" />
@@ -229,7 +229,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Inst_Powerkit</SubtypeId>
       </Id>
-      <DisplayName>Elite Instant Power Kit</DisplayName>
+      <DisplayName>精英即时电池</DisplayName>
       <Icon>Textures\GUI\Icons\Items\PowerKit.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="ConsumableItem" SubtypeId="Adv_Inst_Powerkit" />
@@ -245,7 +245,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SurvivalKit</SubtypeId>
       </Id>
-      <DisplayName>Basic Survival Kit</DisplayName>
+      <DisplayName>基础求生套件</DisplayName>
       <Icon>Textures\GUI\Icons\Items\Medkit.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="ConsumableItem" SubtypeId="Medkit" />
@@ -261,7 +261,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_SurvivalKit</SubtypeId>
       </Id>
-      <DisplayName>Advanced Survival Kit</DisplayName>
+      <DisplayName>高级求生套件</DisplayName>
       <Icon>Textures\GUI\Icons\Items\Medkit.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="ConsumableItem" SubtypeId="Adv_Medkit" />
@@ -277,7 +277,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_SurvivalKit</SubtypeId>
       </Id>
-      <DisplayName>Elite Survival Kit</DisplayName>
+      <DisplayName>精英求生套件</DisplayName>
       <Icon>Textures\GUI\Icons\Items\Medkit.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="ConsumableItem" SubtypeId="Eli_Medkit" />
@@ -293,7 +293,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Inst_SurvivalKit</SubtypeId>
       </Id>
-      <DisplayName>Basic Instant Survival Kit</DisplayName>
+      <DisplayName>基础即时求生套件</DisplayName>
       <Icon>Textures\GUI\Icons\Items\Medkit.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="ConsumableItem" SubtypeId="Bsc_Inst_Medkit" />
@@ -309,7 +309,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Inst_SurvivalKit</SubtypeId>
       </Id>
-      <DisplayName>Advanced Instant Survival Kit</DisplayName>
+      <DisplayName>高级即时求生套件</DisplayName>
       <Icon>Textures\GUI\Icons\Items\Medkit.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="ConsumableItem" SubtypeId="Adv_Inst_Medkit" />
@@ -325,7 +325,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Inst_SurvivalKit</SubtypeId>
       </Id>
-      <DisplayName>Elite Instant Survival Kit</DisplayName>
+      <DisplayName>精英即时求生套件</DisplayName>
       <Icon>Textures\GUI\Icons\Items\Medkit.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="ConsumableItem" SubtypeId="Eli_Inst_Medkit" />

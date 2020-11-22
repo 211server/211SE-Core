@@ -7,7 +7,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DetectorX100</SubtypeId>
       </Id>
-      <DisplayName>Detector x100</DisplayName>
+      <DisplayName>探测器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Detector_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Component" SubtypeId="Sensor" />
@@ -23,7 +23,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DetectorX10</SubtypeId>
       </Id>
-      <DisplayName>Detector x10</DisplayName>
+      <DisplayName>探测器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Detector_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Component" SubtypeId="Sensor" />
@@ -39,7 +39,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Detector</SubtypeId>
       </Id>
-      <DisplayName>Detector</DisplayName>
+      <DisplayName>探测器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Detector_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3" TypeId="Component" SubtypeId="Sensor" />
@@ -56,7 +56,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BreakerX100</SubtypeId>
       </Id>
-      <DisplayName>Breaker x100</DisplayName>
+      <DisplayName>断路器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Breaker_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Switch" />
@@ -73,7 +73,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BreakerX10</SubtypeId>
       </Id>
-      <DisplayName>Breaker x10</DisplayName>
+      <DisplayName>断路器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Breaker_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Switch" />
@@ -90,7 +90,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Breaker</SubtypeId>
       </Id>
-      <DisplayName>Breaker</DisplayName>
+      <DisplayName>断路器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Breaker_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Switch" />
@@ -108,7 +108,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SolenoidX100</SubtypeId>
       </Id>
-      <DisplayName>Solenoid x100</DisplayName>
+      <DisplayName>螺线管 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Solenoid_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Component" SubtypeId="Coil" />
@@ -125,7 +125,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SolenoidX10</SubtypeId>
       </Id>
-      <DisplayName>Solenoid x10</DisplayName>
+      <DisplayName>螺线管 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Solenoid_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Component" SubtypeId="Coil" />
@@ -142,7 +142,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Solenoid</SubtypeId>
       </Id>
-      <DisplayName>Solenoid</DisplayName>
+      <DisplayName>螺线管</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Solenoid_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3" TypeId="Component" SubtypeId="Coil" />
@@ -160,7 +160,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>StatorX100</SubtypeId>
       </Id>
-      <DisplayName>Stator x100</DisplayName>
+      <DisplayName>定子 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Stator_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Component" SubtypeId="Coil" />
@@ -177,7 +177,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>StatorX10</SubtypeId>
       </Id>
-      <DisplayName>Stator x10</DisplayName>
+      <DisplayName>定子 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Stator_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Component" SubtypeId="Coil" />
@@ -194,7 +194,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Stator</SubtypeId>
       </Id>
-      <DisplayName>Stator</DisplayName>
+      <DisplayName>定子</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Stator_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3" TypeId="Component" SubtypeId="Coil" />
@@ -212,7 +212,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ControlRodX100</SubtypeId>
       </Id>
-      <DisplayName>Control Rod x100</DisplayName>
+      <DisplayName>控制棒 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ControlRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Component" SubtypeId="SteelRod" />
@@ -231,7 +231,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ControlRodX10</SubtypeId>
       </Id>
-      <DisplayName>Control Rod x10</DisplayName>
+      <DisplayName>控制棒 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ControlRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Component" SubtypeId="SteelRod" />
@@ -250,7 +250,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ControlRod</SubtypeId>
       </Id>
-      <DisplayName>Control Rod</DisplayName>
+      <DisplayName>控制棒</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ControlRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3" TypeId="Component" SubtypeId="SteelRod" />
@@ -270,7 +270,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CameraX100</SubtypeId>
       </Id>
-      <DisplayName>Camera x100</DisplayName>
+      <DisplayName>摄像头 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Camera_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Glass" />
@@ -287,7 +287,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CameraX10</SubtypeId>
       </Id>
-      <DisplayName>Camera x10</DisplayName>
+      <DisplayName>摄像头 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Camera_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Glass" />
@@ -304,7 +304,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Camera</SubtypeId>
       </Id>
-      <DisplayName>Camera</DisplayName>
+      <DisplayName>摄像头</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Camera_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Glass" />
@@ -322,7 +322,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SpeakerX100</SubtypeId>
       </Id>
-      <DisplayName>Speaker x100</DisplayName>
+      <DisplayName>扬声器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Speaker_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Coil" />
@@ -340,7 +340,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SpeakerX10</SubtypeId>
       </Id>
-      <DisplayName>Speaker x10</DisplayName>
+      <DisplayName>扬声器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Speaker_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Coil" />
@@ -358,7 +358,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Speaker</SubtypeId>
       </Id>
-      <DisplayName>Speaker</DisplayName>
+      <DisplayName>扬声器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Speaker_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Coil" />
@@ -377,7 +377,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DisplayX100</SubtypeId>
       </Id>
-      <DisplayName>Display x100</DisplayName>
+      <DisplayName>显示屏 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Display_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="250" TypeId="Ingot" SubtypeId="Arsenic" />
@@ -394,7 +394,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DisplayX10</SubtypeId>
       </Id>
-      <DisplayName>Display x10</DisplayName>
+      <DisplayName>显示屏 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Display_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="25" TypeId="Ingot" SubtypeId="Arsenic" />
@@ -411,7 +411,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Display</SubtypeId>
       </Id>
-      <DisplayName>Display</DisplayName>
+      <DisplayName>显示屏</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Display_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="2.5" TypeId="Ingot" SubtypeId="Arsenic" />
@@ -429,7 +429,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HardDriveX100</SubtypeId>
       </Id>
-      <DisplayName>Hard Drive x100</DisplayName>
+      <DisplayName>硬盘 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\HardDrive_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Tellurium" />
@@ -447,7 +447,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HardDriveX10</SubtypeId>
       </Id>
-      <DisplayName>Hard Drive x10</DisplayName>
+      <DisplayName>硬盘 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\HardDrive_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Tellurium" />
@@ -465,7 +465,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HardDrive</SubtypeId>
       </Id>
-      <DisplayName>Hard Drive</DisplayName>
+      <DisplayName>硬盘</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\HardDrive_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Tellurium" />
@@ -484,7 +484,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SolidStateDriveX100</SubtypeId>
       </Id>
-      <DisplayName>Solid State Drive x100</DisplayName>
+      <DisplayName>固态硬盘 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\SolidStateDrive_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ingot" SubtypeId="Germanium" />
@@ -502,7 +502,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SolidStateDriveX10</SubtypeId>
       </Id>
-      <DisplayName>Solid State Drive x10</DisplayName>
+      <DisplayName>固态硬盘 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\SolidStateDrive_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Germanium" />
@@ -520,7 +520,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SolidStateDrive</SubtypeId>
       </Id>
-      <DisplayName>Solid State Drive</DisplayName>
+      <DisplayName>固态硬盘</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\SolidStateDrive_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="5" TypeId="Ingot" SubtypeId="Germanium" />
@@ -539,7 +539,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>QuantumDriveX100</SubtypeId>
       </Id>
-      <DisplayName>Quantum Drive x100</DisplayName>
+      <DisplayName>量子硬盘 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\QuantumDrive_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ingot" SubtypeId="Platinum" />
@@ -557,7 +557,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>QuantumDriveX10</SubtypeId>
       </Id>
-      <DisplayName>Quantum Drive x10</DisplayName>
+      <DisplayName>量子硬盘 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\QuantumDrive_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Platinum" />
@@ -575,7 +575,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>QuantumDrive</SubtypeId>
       </Id>
-      <DisplayName>Quantum Drive</DisplayName>
+      <DisplayName>量子硬盘</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\QuantumDrive_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="5" TypeId="Ingot" SubtypeId="Platinum" />
@@ -594,7 +594,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MicroChipX100</SubtypeId>
       </Id>
-      <DisplayName>Micro Chip x100</DisplayName>
+      <DisplayName>微型芯片 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\computer_component.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Gold" />
@@ -613,7 +613,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MicroChipX10</SubtypeId>
       </Id>
-      <DisplayName>Micro Chip x10</DisplayName>
+      <DisplayName>微型芯片 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\computer_component.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Gold" />
@@ -632,7 +632,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MicroChip</SubtypeId>
       </Id>
-      <DisplayName>Micro Chip</DisplayName>
+      <DisplayName>微型芯片</DisplayName>
       <Icon>Textures\GUI\Icons\component\computer_component.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Gold" />
@@ -652,7 +652,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SolderX100</SubtypeId>
       </Id>
-      <DisplayName>Computer x100</DisplayName>
+      <DisplayName>计算机 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Computer_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="400" TypeId="Component" SubtypeId="MicroChip" />
@@ -670,7 +670,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SolderX10</SubtypeId>
       </Id>
-      <DisplayName>Computer x10</DisplayName>
+      <DisplayName>计算机 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Computer_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="40" TypeId="Component" SubtypeId="MicroChip" />
@@ -688,7 +688,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Solder</SubtypeId>
       </Id>
-      <DisplayName>Computer</DisplayName>
+      <DisplayName>计算机</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Computer_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="4" TypeId="Component" SubtypeId="MicroChip" />
@@ -707,7 +707,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>QuantumProcessorX100</SubtypeId>
       </Id>
-      <DisplayName>Quantum Processor x100</DisplayName>
+      <DisplayName>量子处理器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\QuantumProcessor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="6400" TypeId="Component" SubtypeId="FiberOpticWire" />
@@ -727,7 +727,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>QuantumProcessorX10</SubtypeId>
       </Id>
-      <DisplayName>Quantum Processor x10</DisplayName>
+      <DisplayName>量子处理器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\QuantumProcessor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="640" TypeId="Component" SubtypeId="FiberOpticWire" />
@@ -747,7 +747,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>QuantumProcessor</SubtypeId>
       </Id>
-      <DisplayName>Quantum Processor</DisplayName>
+      <DisplayName>量子处理器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\QuantumProcessor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="64" TypeId="Component" SubtypeId="FiberOpticWire" />
@@ -768,7 +768,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AIMainframeX100</SubtypeId>
       </Id>
-      <DisplayName>AI Mainframe x100</DisplayName>
+      <DisplayName>AI 大型机 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\AIMainframe_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="QuantumProcessor" />
@@ -786,7 +786,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AIMainframeX10</SubtypeId>
       </Id>
-      <DisplayName>AI Mainframe x10</DisplayName>
+      <DisplayName>AI 大型机 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\AIMainframe_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="QuantumProcessor" />
@@ -804,7 +804,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AIMainframe</SubtypeId>
       </Id>
-      <DisplayName>AI Mainframe</DisplayName>
+      <DisplayName>AI 大型机</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\AIMainframe_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="QuantumProcessor" />
@@ -823,7 +823,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NetworkingMainframeX100</SubtypeId>
       </Id>
-      <DisplayName>Networking Mainframe x100</DisplayName>
+      <DisplayName>网络大型机 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\NetworkingMainframe_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="QuantumProcessor" />
@@ -841,7 +841,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NetworkingMainframeX10</SubtypeId>
       </Id>
-      <DisplayName>Networking Mainframe x10</DisplayName>
+      <DisplayName>网络大型机 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\NetworkingMainframe_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="QuantumProcessor" />
@@ -859,7 +859,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NetworkingMainframe</SubtypeId>
       </Id>
-      <DisplayName>Networking Mainframe</DisplayName>
+      <DisplayName>网络大型机</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\NetworkingMainframe_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="QuantumProcessor" />
@@ -878,7 +878,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TargetingMainframeX100</SubtypeId>
       </Id>
-      <DisplayName>Targeting Mainframe x100</DisplayName>
+      <DisplayName>定位大型机 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\NetworkingMainframe_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="400" TypeId="Component" SubtypeId="QuantumProcessor" />
@@ -896,7 +896,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TargetingMainframeX10</SubtypeId>
       </Id>
-      <DisplayName>Targeting Mainframe x10</DisplayName>
+      <DisplayName>定位大型机 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\NetworkingMainframe_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="40" TypeId="Component" SubtypeId="QuantumProcessor" />
@@ -914,7 +914,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TargetingMainframe</SubtypeId>
       </Id>
-      <DisplayName>Targeting Mainframe</DisplayName>
+      <DisplayName>定位大型机</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\NetworkingMainframe_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="4" TypeId="Component" SubtypeId="QuantumProcessor" />
@@ -933,7 +933,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RectifierX100</SubtypeId>
       </Id>
-      <DisplayName>Rectifier x100</DisplayName>
+      <DisplayName>整流器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Rectifier_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="HeatSink" />
@@ -950,7 +950,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RectifierX10</SubtypeId>
       </Id>
-      <DisplayName>Rectifier x10</DisplayName>
+      <DisplayName>整流器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Rectifier_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="HeatSink" />
@@ -967,7 +967,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Rectifier</SubtypeId>
       </Id>
-      <DisplayName>Rectifier</DisplayName>
+      <DisplayName>整流器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Rectifier_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="HeatSink" />
@@ -985,7 +985,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AmplifierX100</SubtypeId>
       </Id>
-      <DisplayName>Amplifier x100</DisplayName>
+      <DisplayName>放大器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Amplifier_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Rectifier" />
@@ -1005,7 +1005,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AmplifierX10</SubtypeId>
       </Id>
-      <DisplayName>Amplifier x10</DisplayName>
+      <DisplayName>放大器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Amplifier_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Rectifier" />
@@ -1025,7 +1025,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Amplifier</SubtypeId>
       </Id>
-      <DisplayName>Amplifier</DisplayName>
+      <DisplayName>放大器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Amplifier_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Rectifier" />
@@ -1046,7 +1046,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PowerSupplyX100</SubtypeId>
       </Id>
-      <DisplayName>Power Supply x100</DisplayName>
+      <DisplayName>电源 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\PowerSupply_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Amplifier" />
@@ -1062,7 +1062,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PowerSupplyX10</SubtypeId>
       </Id>
-      <DisplayName>Power Supply x10</DisplayName>
+      <DisplayName>电源 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\PowerSupply_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Amplifier" />
@@ -1078,7 +1078,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PowerSupply</SubtypeId>
       </Id>
-      <DisplayName>Power Supply</DisplayName>
+      <DisplayName>电源</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\PowerSupply_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Amplifier" />
@@ -1095,7 +1095,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TransformerX100</SubtypeId>
       </Id>
-      <DisplayName>Transformer x100</DisplayName>
+      <DisplayName>变压器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Transformer_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="PowerSupply" />
@@ -1113,7 +1113,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TransformerX10</SubtypeId>
       </Id>
-      <DisplayName>Transformer  x10</DisplayName>
+      <DisplayName>变压器  x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Transformer_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="PowerSupply" />
@@ -1131,7 +1131,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Transformer</SubtypeId>
       </Id>
-      <DisplayName>Transformer</DisplayName>
+      <DisplayName>变压器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Transformer_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="PowerSupply" />
@@ -1150,7 +1150,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>EnergyCouplerX100</SubtypeId>
       </Id>
-      <DisplayName>Energy Coupler x100</DisplayName>
+      <DisplayName>能源耦合器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\EnergyCoupler_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Palladium" />
@@ -1168,7 +1168,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>EnergyCouplerX10</SubtypeId>
       </Id>
-      <DisplayName>Energy Coupler x10</DisplayName>
+      <DisplayName>能源耦合器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\EnergyCoupler_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Palladium" />
@@ -1186,7 +1186,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>EnergyCoupler</SubtypeId>
       </Id>
-      <DisplayName>Energy Coupler</DisplayName>
+      <DisplayName>能源耦合器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\EnergyCoupler_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Palladium" />
@@ -1205,7 +1205,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SuperconductorX100</SubtypeId>
       </Id>
-      <DisplayName>Super Conductor x100</DisplayName>
+      <DisplayName>超导体 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\superconductor_conducts_component.dds</Icon>
       <Prerequisites>
         <Item Amount="400" TypeId="Ingot" SubtypeId="Electrum" />
@@ -1221,7 +1221,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SuperconductorX10</SubtypeId>
       </Id>
-      <DisplayName>Super Conductor x10</DisplayName>
+      <DisplayName>超导体 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\superconductor_conducts_component.dds</Icon>
       <Prerequisites>
         <Item Amount="40" TypeId="Ingot" SubtypeId="Electrum" />
@@ -1237,7 +1237,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Superconductor</SubtypeId>
       </Id>
-      <DisplayName>Super Conductor</DisplayName>
+      <DisplayName>超导体</DisplayName>
       <Icon>Textures\GUI\Icons\component\superconductor_conducts_component.dds</Icon>
       <Prerequisites>
         <Item Amount="4" TypeId="Ingot" SubtypeId="Electrum" />
@@ -1254,7 +1254,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FluxCoilX100</SubtypeId>
       </Id>
-      <DisplayName>Flux Coil x100</DisplayName>
+      <DisplayName>通量线圈 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FluxCoil_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Ruthenium" />
@@ -1270,7 +1270,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FluxCoilX10</SubtypeId>
       </Id>
-      <DisplayName>Flux Coil x10</DisplayName>
+      <DisplayName>通量线圈 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FluxCoil_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="5" TypeId="Ingot" SubtypeId="Ruthenium" />
@@ -1286,7 +1286,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FluxCoil</SubtypeId>
       </Id>
-      <DisplayName>Flux Coil</DisplayName>
+      <DisplayName>通量线圈</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FluxCoil_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.5" TypeId="Ingot" SubtypeId="Ruthenium" />
@@ -1303,7 +1303,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FluxCapacitorX100</SubtypeId>
       </Id>
-      <DisplayName>Flux Capacitor x100</DisplayName>
+      <DisplayName>通量电容器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FluxCapacitor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Radium" />
@@ -1318,7 +1318,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FluxCapacitorX10</SubtypeId>
       </Id>
-      <DisplayName>Flux Capacitor x10</DisplayName>
+      <DisplayName>通量电容器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FluxCapacitor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="5" TypeId="Ingot" SubtypeId="Radium" />
@@ -1334,7 +1334,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FluxCapacitor</SubtypeId>
       </Id>
-      <DisplayName>Flux Capacitor</DisplayName>
+      <DisplayName>通量电容器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FluxCapacitor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.5" TypeId="Ingot" SubtypeId="Radium" />
@@ -1351,7 +1351,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MagneticCouplerX100</SubtypeId>
       </Id>
-      <DisplayName>Magnetic Coupler x100</DisplayName>
+      <DisplayName>磁耦合器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\MagneticCoupler_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Magnet" />
@@ -1367,7 +1367,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MagneticCouplerX10</SubtypeId>
       </Id>
-      <DisplayName>Magnetic Coupler x10</DisplayName>
+      <DisplayName>磁耦合器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\MagneticCoupler_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Magnet" />
@@ -1383,7 +1383,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MagneticCoupler</SubtypeId>
       </Id>
-      <DisplayName>Magnetic Coupler</DisplayName>
+      <DisplayName>磁耦合器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\MagneticCoupler_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Magnet" />
@@ -1400,7 +1400,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ThermoCoupleX100</SubtypeId>
       </Id>
-      <DisplayName>Thermo Couple x100</DisplayName>
+      <DisplayName>热电偶 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ThermoCouple_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Tungsten" />
@@ -1416,7 +1416,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ThermoCoupleX10</SubtypeId>
       </Id>
-      <DisplayName>Thermo Couple x10</DisplayName>
+      <DisplayName>热电偶 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ThermoCouple_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Tungsten" />
@@ -1432,7 +1432,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ThermoCouple</SubtypeId>
       </Id>
-      <DisplayName>Thermo Couple</DisplayName>
+      <DisplayName>热电偶</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ThermoCouple_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Tungsten" />
@@ -1449,7 +1449,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>IgniterX100</SubtypeId>
       </Id>
-      <DisplayName>Igniter x1000</DisplayName>
+      <DisplayName>点火器 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Igniter_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Electrum" />
@@ -1467,7 +1467,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>IgniterX10</SubtypeId>
       </Id>
-      <DisplayName>Igniter x100</DisplayName>
+      <DisplayName>点火器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Igniter_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Electrum" />
@@ -1485,7 +1485,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Igniter</SubtypeId>
       </Id>
-      <DisplayName>Igniter x10</DisplayName>
+      <DisplayName>点火器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Igniter_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Electrum" />
@@ -1504,7 +1504,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ProjectorX100</SubtypeId>
       </Id>
-      <DisplayName>Projector x100</DisplayName>
+      <DisplayName>投影仪 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Projector_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Ingot" SubtypeId="Lanthanum" />
@@ -1522,7 +1522,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ProjectorX10</SubtypeId>
       </Id>
-      <DisplayName>Projector x10</DisplayName>
+      <DisplayName>投影仪 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Projector_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Ingot" SubtypeId="Lanthanum" />
@@ -1540,7 +1540,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Projector</SubtypeId>
       </Id>
-      <DisplayName>Projector</DisplayName>
+      <DisplayName>投影仪</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Projector_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3" TypeId="Ingot" SubtypeId="Lanthanum" />
@@ -1559,7 +1559,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BeamEmiterX100</SubtypeId>
       </Id>
-      <DisplayName>Beam Emiter x100</DisplayName>
+      <DisplayName>光束发射器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\BeamEmiter_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Thallium" />
@@ -1578,7 +1578,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BeamEmiterX10</SubtypeId>
       </Id>
-      <DisplayName>Beam Emiter x10</DisplayName>
+      <DisplayName>光束发射器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\BeamEmiter_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Thallium" />
@@ -1597,7 +1597,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BeamEmiter</SubtypeId>
       </Id>
-      <DisplayName>Beam Emiter</DisplayName>
+      <DisplayName>光束发射器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\BeamEmiter_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Thallium" />
@@ -1617,7 +1617,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>IonProjectorX100</SubtypeId>
       </Id>
-      <DisplayName>Ion Projector x100</DisplayName>
+      <DisplayName>离子投影仪 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\IonProjector_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="BeamEmiter" />
@@ -1635,7 +1635,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>IonProjectorX10</SubtypeId>
       </Id>
-      <DisplayName>Ion Projector x10</DisplayName>
+      <DisplayName>离子投影仪 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\IonProjector_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="BeamEmiter" />
@@ -1653,7 +1653,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>IonProjector</SubtypeId>
       </Id>
-      <DisplayName>Ion Projector</DisplayName>
+      <DisplayName>离子投影仪</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\IonProjector_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="BeamEmiter" />
@@ -1672,7 +1672,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>GravityGeneratorX100</SubtypeId>
       </Id>
-      <DisplayName>Gravity Generator x100</DisplayName>
+      <DisplayName>重力发生器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Solder" />
@@ -1690,7 +1690,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>GravityGeneratorX10</SubtypeId>
       </Id>
-      <DisplayName>Gravity Generator x10</DisplayName>
+      <DisplayName>重力发生器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Solder" />
@@ -1708,7 +1708,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>GravityGenerator</SubtypeId>
       </Id>
-      <DisplayName>Gravity Generator</DisplayName>
+      <DisplayName>重力发生器</DisplayName>
       <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Solder" />
@@ -1727,7 +1727,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ParticleAcceleratorX100</SubtypeId>
       </Id>
-      <DisplayName>Particle Accelerator x100</DisplayName>
+      <DisplayName>粒子加速器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ParticleAccelerator_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Osmium" />
@@ -1744,7 +1744,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ParticleAcceleratorX10</SubtypeId>
       </Id>
-      <DisplayName>Particle Accelerator x10</DisplayName>
+      <DisplayName>粒子加速器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ParticleAccelerator_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Osmium" />
@@ -1761,7 +1761,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ParticleAccelerator</SubtypeId>
       </Id>
-      <DisplayName>Particle Accelerator</DisplayName>
+      <DisplayName>粒子加速器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ParticleAccelerator_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Osmium" />
@@ -1779,7 +1779,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ShieldEmitterX100</SubtypeId>
       </Id>
-      <DisplayName>Shield Emitter x100</DisplayName>
+      <DisplayName>护盾发生器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ShieldEmitter_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Solder" />
@@ -1796,7 +1796,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ShieldEmitterX10</SubtypeId>
       </Id>
-      <DisplayName>Shield Emitter x10</DisplayName>
+      <DisplayName>护盾发生器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ShieldEmitter_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Solder" />
@@ -1813,7 +1813,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ShieldEmitter</SubtypeId>
       </Id>
-      <DisplayName>Shield Emitter</DisplayName>
+      <DisplayName>护盾发生器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\ShieldEmitter_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Solder" />
@@ -1831,7 +1831,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HeatingElementX100</SubtypeId>
       </Id>
-      <DisplayName>Heating Element x100</DisplayName>
+      <DisplayName>加热元件 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\HeatingElement_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Component" SubtypeId="InsulatedCopperWire" />
@@ -1848,7 +1848,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HeatingElementX10</SubtypeId>
       </Id>
-      <DisplayName>Heating Element x10</DisplayName>
+      <DisplayName>加热元件 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\HeatingElement_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Component" SubtypeId="InsulatedCopperWire" />
@@ -1865,7 +1865,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HeatingElement</SubtypeId>
       </Id>
-      <DisplayName>Heating Element</DisplayName>
+      <DisplayName>加热元件</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\HeatingElement_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3" TypeId="Component" SubtypeId="InsulatedCopperWire" />
@@ -1883,7 +1883,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CatalyticConvertorX100</SubtypeId>
       </Id>
-      <DisplayName>Catalytic Convertor x100</DisplayName>
+      <DisplayName>催化转换器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\CatalyticConvertor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Platinum" />
@@ -1903,7 +1903,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CatalyticConvertorX10</SubtypeId>
       </Id>
-      <DisplayName>Catalytic Convertor x10</DisplayName>
+      <DisplayName>催化转换器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\CatalyticConvertor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="5" TypeId="Ingot" SubtypeId="Platinum" />
@@ -1923,7 +1923,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CatalyticConvertor</SubtypeId>
       </Id>
-      <DisplayName>Catalytic Convertor</DisplayName>
+      <DisplayName>催化转换器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\CatalyticConvertor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.5" TypeId="Ingot" SubtypeId="Platinum" />
@@ -1944,7 +1944,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ReactorX100</SubtypeId>
       </Id>
-      <DisplayName>Reactor x100</DisplayName>
+      <DisplayName>反应堆 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Reactor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="CatalyticConvertor" />
@@ -1963,7 +1963,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ReactorX10</SubtypeId>
       </Id>
-      <DisplayName>Reactor x10</DisplayName>
+      <DisplayName>反应堆 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Reactor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="CatalyticConvertor" />
@@ -1982,7 +1982,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Reactor</SubtypeId>
       </Id>
-      <DisplayName>Reactor</DisplayName>
+      <DisplayName>反应堆</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Reactor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="CatalyticConvertor" />
@@ -2002,7 +2002,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FusionChamberX100</SubtypeId>
       </Id>
-      <DisplayName>Fusion Chamber x100</DisplayName>
+      <DisplayName>聚变室 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FusionChamber_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Reactor" />
@@ -2019,7 +2019,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FusionChamberX10</SubtypeId>
       </Id>
-      <DisplayName>Fusion Chamber x10</DisplayName>
+      <DisplayName>聚变室 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FusionChamber_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Reactor" />
@@ -2036,7 +2036,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FusionChamber</SubtypeId>
       </Id>
-      <DisplayName>Fusion Chamber</DisplayName>
+      <DisplayName>聚变室</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FusionChamber_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Reactor" />
@@ -2054,7 +2054,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LithiumPowerCellX100</SubtypeId>
       </Id>
-      <DisplayName>Lithium Power Cell x100</DisplayName>
+      <DisplayName>锂电池 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\LithiumPowerCell_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Transistor" />
@@ -2072,7 +2072,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LithiumPowerCellX10</SubtypeId>
       </Id>
-      <DisplayName>Lithium Power Cell x10</DisplayName>
+      <DisplayName>锂电池 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\LithiumPowerCell_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Transistor" />
@@ -2090,7 +2090,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LithiumPowerCell</SubtypeId>
       </Id>
-      <DisplayName>Lithium Power Cell</DisplayName>
+      <DisplayName>锂电池</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\LithiumPowerCell_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Transistor" />
@@ -2109,7 +2109,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LeadPowerCellX100</SubtypeId>
       </Id>
-      <DisplayName>Lead Power Cell x100</DisplayName>
+      <DisplayName>铅电池 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\LeadPowerCell_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Transistor" />
@@ -2127,7 +2127,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LeadPowerCellX10</SubtypeId>
       </Id>
-      <DisplayName>Lead Power Cell x10</DisplayName>
+      <DisplayName>铅电池 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\LeadPowerCell_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Transistor" />
@@ -2145,7 +2145,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LeadPowerCell</SubtypeId>
       </Id>
-      <DisplayName>Lead Power Cell</DisplayName>
+      <DisplayName>铅电池</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\LeadPowerCell_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Transistor" />
@@ -2164,7 +2164,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FluoridePowerCellX100</SubtypeId>
       </Id>
-      <DisplayName>Fluoride Power Cell x100</DisplayName>
+      <DisplayName>氟化物电池 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FluoridePowerCell_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Component" SubtypeId="Transistor" />
@@ -2182,7 +2182,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FluoridePowerCellX10</SubtypeId>
       </Id>
-      <DisplayName>Fluoride Power Cell x10</DisplayName>
+      <DisplayName>氟化物电池 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FluoridePowerCell_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Component" SubtypeId="Transistor" />
@@ -2200,7 +2200,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FluoridePowerCell</SubtypeId>
       </Id>
-      <DisplayName>Fluoride Power Cell</DisplayName>
+      <DisplayName>氟化物电池</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\FluoridePowerCell_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3" TypeId="Component" SubtypeId="Transistor" />

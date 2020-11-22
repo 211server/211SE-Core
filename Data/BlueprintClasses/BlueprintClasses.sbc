@@ -6,7 +6,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>GasolineToGas</SubtypeId>
       </Id>
-      <DisplayName>Gasoline</DisplayName>
+      <DisplayName>汽油</DisplayName>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
@@ -16,7 +16,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>JetFuelToGas</SubtypeId>
       </Id>
-      <DisplayName>Jet Fuel</DisplayName>
+      <DisplayName>航空煤油</DisplayName>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
@@ -26,7 +26,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>HydrogenToGas</SubtypeId>
       </Id>
-      <DisplayName>Hydrogen</DisplayName>
+      <DisplayName>氢</DisplayName>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
@@ -36,7 +36,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>OxygenToGas</SubtypeId>
       </Id>
-      <DisplayName>Oxygen</DisplayName>
+      <DisplayName>氧</DisplayName>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>

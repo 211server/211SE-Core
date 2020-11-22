@@ -7,7 +7,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Welder</SubtypeId>
       </Id>
-      <DisplayName>Welder</DisplayName>
+      <DisplayName>DisplayName_Item_Welder</DisplayName>
       <Icon>Textures\GUI\Icons\WeaponWelder.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="PolyCarbonatePlate" />
@@ -27,7 +27,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Welder2</SubtypeId>
       </Id>
-      <DisplayName>Basic Welder</DisplayName>
+      <DisplayName>DisplayName_Item_Welder2</DisplayName>
       <Icon>Textures\GUI\Icons\WeaponWelder_1.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="PolyCarbonatePlate" />
@@ -48,7 +48,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Welder3</SubtypeId>
       </Id>
-      <DisplayName>Advanced Welder</DisplayName>
+      <DisplayName>DisplayName_Item_Welder3</DisplayName>
       <Icon>Textures\GUI\Icons\WeaponWelder_2.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="PolyCarbonatePlate" />
@@ -70,7 +70,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Welder4</SubtypeId>
       </Id>
-      <DisplayName>Elite Welder</DisplayName>
+      <DisplayName>DisplayName_Item_Welder4</DisplayName>
       <Icon>Textures\GUI\Icons\WeaponWelder_3.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="PolyCarbonatePlate" />
@@ -94,7 +94,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AngleGrinder</SubtypeId>
       </Id>
-      <DisplayName>Angle Grinder</DisplayName>
+      <DisplayName>DisplayName_Item_AngleGrinder</DisplayName>
       <Icon>Textures\GUI\Icons\WeaponGrinder.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="SteelRod" />
@@ -115,7 +115,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AngleGrinder2</SubtypeId>
       </Id>
-      <DisplayName>Basic Angle Grinder</DisplayName>
+      <DisplayName>DisplayName_Item_AngleGrinder2</DisplayName>
       <Icon>Textures\GUI\Icons\WeaponGrinder_1.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="SteelRod" />
@@ -137,7 +137,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AngleGrinder3</SubtypeId>
       </Id>
-      <DisplayName>Advanced Angle Grinder</DisplayName>
+      <DisplayName>DisplayName_Item_AngleGrinder3</DisplayName>
       <Icon>Textures\GUI\Icons\WeaponGrinder_2.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="SteelRod" />
@@ -160,7 +160,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AngleGrinder4</SubtypeId>
       </Id>
-      <DisplayName>Elite Angle Grinder</DisplayName>
+      <DisplayName>DisplayName_Item_AngleGrinder4</DisplayName>
       <Icon>Textures\GUI\Icons\WeaponGrinder_3.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="SteelRod" />
@@ -184,7 +184,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HandDrill</SubtypeId>
       </Id>
-      <DisplayName>Hand Drill</DisplayName>
+      <DisplayName>DisplayName_Item_HandDrill</DisplayName>
       <Icon>Textures\GUI\Icons\WeaponDrill.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="SteelRod" />
@@ -205,7 +205,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HandDrill2</SubtypeId>
       </Id>
-      <DisplayName>Basic Hand Drill</DisplayName>
+      <DisplayName>DisplayName_Item_HandDrill2</DisplayName>
       <Icon>Textures\GUI\Icons\WeaponDrill_1.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="SteelRod" />
@@ -227,7 +227,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HandDrill3</SubtypeId>
       </Id>
-      <DisplayName>Advanced Hand Drill</DisplayName>
+      <DisplayName>DisplayName_Item_HandDrill3</DisplayName>
       <Icon>Textures\GUI\Icons\WeaponDrill_2.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="SteelRod" />
@@ -249,7 +249,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HandDrill4</SubtypeId>
       </Id>
-      <DisplayName>Elite Hand Drill</DisplayName>
+      <DisplayName>DisplayName_Item_HandDrill4</DisplayName>
       <Icon>Textures\GUI\Icons\WeaponDrill_3.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="SteelRod" />
@@ -267,86 +267,5 @@
       <BaseProductionTimeInSeconds>60</BaseProductionTimeInSeconds>
       <IsPrimary>true</IsPrimary>
     </Blueprint>
-
-    <Blueprint>  <!-- AutomaticRifle -->
-      <Id>
-        <TypeId>BlueprintDefinition</TypeId>
-        <SubtypeId>AutomaticRifle</SubtypeId>
-      </Id>
-      <DisplayName>Rifle</DisplayName>
-      <Icon>Textures\GUI\Icons\WeaponAutomaticRifle.dds</Icon>
-      <Prerequisites>
-        <Item Amount="1" TypeId="Component" SubtypeId="Receiver" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Barrel" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Barrel" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Magazine" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Rail" />
-      </Prerequisites>
-      <Result Amount="1" TypeId="PhysicalGunObject" SubtypeId="AutomaticRifleItem" />
-      <BaseProductionTimeInSeconds>15</BaseProductionTimeInSeconds>
-      <IsPrimary>true</IsPrimary>
-    </Blueprint>
-    <Blueprint>  <!-- RapidFireAutomaticRifle -->
-      <Id>
-        <TypeId>BlueprintDefinition</TypeId>
-        <SubtypeId>RapidFireAutomaticRifle</SubtypeId>
-      </Id>
-      <DisplayName>Basic Rifle</DisplayName>
-      <Icon>Textures\GUI\Icons\WeaponAutomaticRifle_RapidFire.dds</Icon>
-      <Prerequisites>
-        <Item Amount="1" TypeId="Component" SubtypeId="Receiver" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Barrel" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Barrel" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Magazine" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Rail" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Sensor" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Coil" />
-      </Prerequisites>
-      <Result Amount="1" TypeId="PhysicalGunObject" SubtypeId="RapidFireAutomaticRifleItem" />
-      <BaseProductionTimeInSeconds>30</BaseProductionTimeInSeconds>
-      <IsPrimary>true</IsPrimary>
-    </Blueprint>
-    <Blueprint>  <!-- PreciseAutomaticRifle -->
-      <Id>
-        <TypeId>BlueprintDefinition</TypeId>
-        <SubtypeId>PreciseAutomaticRifle</SubtypeId>
-      </Id>
-      <DisplayName>Advanced Rifle</DisplayName>
-      <Icon>Textures\GUI\Icons\WeaponAutomaticRifle_Precise.dds</Icon>
-      <Prerequisites>
-        <Item Amount="1" TypeId="Component" SubtypeId="Receiver" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Barrel" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Barrel" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Magazine" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Rail" />
-        <Item Amount="1" TypeId="Component" SubtypeId="MicroChip" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Coil" />
-      </Prerequisites>
-      <Result Amount="1" TypeId="PhysicalGunObject" SubtypeId="PreciseAutomaticRifleItem" />
-      <BaseProductionTimeInSeconds>45</BaseProductionTimeInSeconds>
-      <IsPrimary>true</IsPrimary>
-    </Blueprint>
-    <Blueprint>  <!-- UltimateAutomaticRifle -->
-      <Id>
-        <TypeId>BlueprintDefinition</TypeId>
-        <SubtypeId>UltimateAutomaticRifle</SubtypeId>
-      </Id>
-      <DisplayName>Elite Rifle</DisplayName>
-      <Icon>Textures\GUI\Icons\WeaponAutomaticRifle_Elite.dds</Icon>
-      <Prerequisites>
-        <Item Amount="1" TypeId="Component" SubtypeId="Receiver" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Barrel" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Barrel" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Magazine" />
-        <Item Amount="1" TypeId="Component" SubtypeId="Rail" />
-        <Item Amount="1" TypeId="Component" SubtypeId="MicroChip" />
-        <Item Amount="5" TypeId="Component" SubtypeId="Coil" />
-        <Item Amount="1" TypeId="Component" SubtypeId="FluoridePowerCell" />
-      </Prerequisites>
-      <Result Amount="1" TypeId="PhysicalGunObject" SubtypeId="UltimateAutomaticRifleItem" />
-      <BaseProductionTimeInSeconds>60</BaseProductionTimeInSeconds>
-      <IsPrimary>true</IsPrimary>
-    </Blueprint>
-
   </Blueprints>
 </Definitions>

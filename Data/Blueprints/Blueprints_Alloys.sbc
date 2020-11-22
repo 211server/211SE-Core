@@ -6,7 +6,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ChromiumSteelX100</SubtypeId>
       </Id>
-      <DisplayName>Chromium Steel x10000</DisplayName>
+      <DisplayName>铬钢 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\ChromiumSteel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="8200" TypeId="Ingot" SubtypeId="945Steel" />
@@ -22,7 +22,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ChromiumSteelX10</SubtypeId>
       </Id>
-      <DisplayName>Chromium Steel x1000</DisplayName>
+      <DisplayName>铬钢 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\ChromiumSteel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="820" TypeId="Ingot" SubtypeId="945Steel" />
@@ -38,7 +38,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ChromiumSteel</SubtypeId>
       </Id>
-      <DisplayName>Chromium Steel x100</DisplayName>
+      <DisplayName>铬钢 x100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\ChromiumSteel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="82" TypeId="Ingot" SubtypeId="945Steel" />
@@ -54,7 +54,7 @@
         <TypeId>BlueprintDefinition</TypeId>
       <Icon>Textures\GUI\Icons\ingot\Alloys\ChromiumSteel_Icon.dds</Icon>
       </Id>
-      <DisplayName>Chromium Steel</DisplayName>
+      <DisplayName>铬钢</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\iron_ingot.dds</Icon>
       <Prerequisites>
         <Item Amount="0.991" TypeId="Ingot" SubtypeId="945Steel" />
@@ -71,7 +71,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>945SteelX100</SubtypeId>
       </Id>
-      <DisplayName>Steel X10000</DisplayName>
+      <DisplayName>钢 X10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Steel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="9800" TypeId="Ingot" SubtypeId="Iron" />
@@ -85,7 +85,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>945SteelX10</SubtypeId>
       </Id>
-      <DisplayName>Steel X1000</DisplayName>
+      <DisplayName>钢 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Steel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="980" TypeId="Ingot" SubtypeId="Iron" />
@@ -99,7 +99,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>945Steel</SubtypeId>
       </Id>
-      <DisplayName>Steel X100</DisplayName>
+      <DisplayName>钢 X100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Steel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="98" TypeId="Ingot" SubtypeId="Iron" />
@@ -113,7 +113,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>945SteelDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Steel</DisplayName>
+      <DisplayName>钢</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Steel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.98" TypeId="Ingot" SubtypeId="Iron" />
@@ -128,7 +128,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>201SteelX100</SubtypeId>
       </Id>
-      <DisplayName>Stainless Steel X10000</DisplayName>
+      <DisplayName>不锈钢 X10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\StainlessSteel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="7850" TypeId="Ingot" SubtypeId="Iron" />
@@ -143,7 +143,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>201SteelX10</SubtypeId>
       </Id>
-      <DisplayName>Stainless Steel X1000</DisplayName>
+      <DisplayName>不锈钢 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\StainlessSteel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="785" TypeId="Ingot" SubtypeId="Iron" />
@@ -158,7 +158,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>201Steel</SubtypeId>
       </Id>
-      <DisplayName>Stainless Steel X100</DisplayName>
+      <DisplayName>不锈钢 X100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\StainlessSteel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="78.5" TypeId="Ingot" SubtypeId="Iron" />
@@ -173,7 +173,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>201SteelDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Stainless Steel</DisplayName>
+      <DisplayName>不锈钢</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\StainlessSteel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.785" TypeId="Ingot" SubtypeId="Iron" />
@@ -189,7 +189,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NitinolX100</SubtypeId>
       </Id>
-      <DisplayName>Nitinol X10000</DisplayName>
+      <DisplayName>镍钛合金 X10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Nitinol_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="4500" TypeId="Ingot" SubtypeId="Titanium" />
@@ -203,7 +203,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NitinolX10</SubtypeId>
       </Id>
-      <DisplayName>Nitinol X1000</DisplayName>
+      <DisplayName>镍钛合金 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Nitinol_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="450" TypeId="Ingot" SubtypeId="Titanium" />
@@ -217,7 +217,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Nitinol</SubtypeId>
       </Id>
-      <DisplayName>Nitinol X100</DisplayName>
+      <DisplayName>镍钛合金 X100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Nitinol_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="45" TypeId="Ingot" SubtypeId="Titanium" />
@@ -231,7 +231,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NitinolDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Nitinol</DisplayName>
+      <DisplayName>镍钛合金</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Nitinol_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.45" TypeId="Ingot" SubtypeId="Titanium" />
@@ -246,7 +246,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BrassX100</SubtypeId>
       </Id>
-      <DisplayName>Brass X1000</DisplayName>
+      <DisplayName>黄铜 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Brass_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="600" TypeId="Ingot" SubtypeId="Copper" />
@@ -260,7 +260,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BrassX10</SubtypeId>
       </Id>
-      <DisplayName>Brass X10000</DisplayName>
+      <DisplayName>黄铜 X10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Brass_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="6000" TypeId="Ingot" SubtypeId="Copper" />
@@ -274,7 +274,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Brass</SubtypeId>
       </Id>
-      <DisplayName>Brass X1000</DisplayName>
+      <DisplayName>黄铜 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Brass_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="600" TypeId="Ingot" SubtypeId="Copper" />
@@ -288,7 +288,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Brass</SubtypeId>
       </Id>
-      <DisplayName>Brass x100</DisplayName>
+      <DisplayName>黄铜 x100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Brass_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="60" TypeId="Ingot" SubtypeId="Copper" />
@@ -303,7 +303,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CupronickelX100</SubtypeId>
       </Id>
-      <DisplayName>Cupronickel x10000</DisplayName>
+      <DisplayName>白铜 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Cupronickel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="7000" TypeId="Ingot" SubtypeId="Copper" />
@@ -317,7 +317,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CupronickelX10</SubtypeId>
       </Id>
-      <DisplayName>Cupronickel x1000</DisplayName>
+      <DisplayName>白铜 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Cupronickel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="700" TypeId="Ingot" SubtypeId="Copper" />
@@ -331,7 +331,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Cupronickel</SubtypeId>
       </Id>
-      <DisplayName>Cupronickel x100</DisplayName>
+      <DisplayName>白铜 x100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Cupronickel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="70" TypeId="Ingot" SubtypeId="Copper" />
@@ -345,7 +345,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CupronickelDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Cupronickel</DisplayName>
+      <DisplayName>白铜</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Cupronickel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.7" TypeId="Ingot" SubtypeId="Copper" />
@@ -360,7 +360,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ElectrumX100</SubtypeId>
       </Id>
-      <DisplayName>Electrum X1000</DisplayName>
+      <DisplayName>琥珀金 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Electrum_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="450" TypeId="Ingot" SubtypeId="Gold" />
@@ -374,7 +374,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ElectrumX10</SubtypeId>
       </Id>
-      <DisplayName>Electrum x10000</DisplayName>
+      <DisplayName>琥珀金 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Electrum_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="4500" TypeId="Ingot" SubtypeId="Gold" />
@@ -388,7 +388,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Electrum</SubtypeId>
       </Id>
-      <DisplayName>Electrum x1000</DisplayName>
+      <DisplayName>琥珀金 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Electrum_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="450" TypeId="Ingot" SubtypeId="Gold" />
@@ -402,7 +402,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ElectrumDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Electrum x100</DisplayName>
+      <DisplayName>琥珀金 x100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Electrum_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="45" TypeId="Ingot" SubtypeId="Gold" />
@@ -417,7 +417,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>GumMetalX100</SubtypeId>
       </Id>
-      <DisplayName>Gum Metal X10000</DisplayName>
+      <DisplayName>口香糖金属 X10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\GumMetal_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="7330" TypeId="Ingot" SubtypeId="Titanium" />
@@ -434,7 +434,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>GumMetalX10</SubtypeId>
       </Id>
-      <DisplayName>Gum Metal x1000</DisplayName>
+      <DisplayName>口香糖金属 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\GumMetal_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="733" TypeId="Ingot" SubtypeId="Titanium" />
@@ -451,7 +451,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>GumMetal</SubtypeId>
       </Id>
-      <DisplayName>Gum Metal x100</DisplayName>
+      <DisplayName>口香糖金属 x100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\GumMetal_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="73.3" TypeId="Ingot" SubtypeId="Titanium" />
@@ -468,7 +468,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>GumMetalDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Gum Metal</DisplayName>
+      <DisplayName>口香糖金属</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\GumMetal_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.733" TypeId="Ingot" SubtypeId="Titanium" />
@@ -486,7 +486,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PolyCarbonateX100</SubtypeId>
       </Id>
-      <DisplayName>Poly Carbonate X10000</DisplayName>
+      <DisplayName>聚碳酸酯 X10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\PolyCarbonate_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="4100" TypeId="Ingot" SubtypeId="Carbon" />
@@ -501,7 +501,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PolyCarbonateX10</SubtypeId>
       </Id>
-      <DisplayName>Poly Carbonate X1000</DisplayName>
+      <DisplayName>聚碳酸酯 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\PolyCarbonate_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="410" TypeId="Ingot" SubtypeId="Carbon" />
@@ -516,7 +516,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PolyCarbonate</SubtypeId>
       </Id>
-      <DisplayName>Poly Carbonate X100</DisplayName>
+      <DisplayName>聚碳酸酯 X100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\PolyCarbonate_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="41" TypeId="Ingot" SubtypeId="Carbon" />
@@ -531,7 +531,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PolyCarbonateDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Poly Carbonate</DisplayName>
+      <DisplayName>聚碳酸酯</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\PolyCarbonate_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.41" TypeId="Ingot" SubtypeId="Carbon" />
@@ -547,7 +547,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>GlassX100</SubtypeId>
       </Id>
-      <DisplayName>Glass X10000</DisplayName>
+      <DisplayName>玻璃 X10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Glass_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="6600" TypeId="Ingot" SubtypeId="Silicon" />
@@ -561,7 +561,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>GlassX10</SubtypeId>
       </Id>
-      <DisplayName>Glass X1000</DisplayName>
+      <DisplayName>玻璃 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Glass_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="660" TypeId="Ingot" SubtypeId="Silicon" />
@@ -575,7 +575,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Glass</SubtypeId>
       </Id>
-      <DisplayName>Glass X100</DisplayName>
+      <DisplayName>玻璃 X100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Glass_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="66" TypeId="Ingot" SubtypeId="Silicon" />
@@ -589,7 +589,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>GlassDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Glass</DisplayName>
+      <DisplayName>玻璃</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Glass_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.66" TypeId="Ingot" SubtypeId="Silicon" />
@@ -604,7 +604,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RubberX100</SubtypeId>
       </Id>
-      <DisplayName>Rubber X10000</DisplayName>
+      <DisplayName>橡胶 X10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Rubber_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3800" TypeId="Ingot" SubtypeId="Carbon" />
@@ -618,7 +618,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RubberX10</SubtypeId>
       </Id>
-      <DisplayName>Rubber X1000</DisplayName>
+      <DisplayName>橡胶 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Rubber_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="380" TypeId="Ingot" SubtypeId="Carbon" />
@@ -632,7 +632,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Rubber</SubtypeId>
       </Id>
-      <DisplayName>Rubber X100</DisplayName>
+      <DisplayName>橡胶 X100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Rubber_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="38" TypeId="Ingot" SubtypeId="Carbon" />
@@ -646,7 +646,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RubberDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Rubber</DisplayName>
+      <DisplayName>橡胶</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Rubber_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.38" TypeId="Ingot" SubtypeId="Carbon" />
@@ -661,7 +661,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MagnetX100</SubtypeId>
       </Id>
-      <DisplayName>Magnet x10000</DisplayName>
+      <DisplayName>钕磁铁 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Magnet_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1200" TypeId="Ingot" SubtypeId="Neodymium" />
@@ -676,7 +676,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MagnetX10</SubtypeId>
       </Id>
-      <DisplayName>Magnet x1000</DisplayName>
+      <DisplayName>钕磁铁 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Magnet_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="120" TypeId="Ingot" SubtypeId="Neodymium" />
@@ -691,7 +691,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Magnet</SubtypeId>
       </Id>
-      <DisplayName>Magnet x100</DisplayName>
+      <DisplayName>钕磁铁 x100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Magnet_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="12" TypeId="Ingot" SubtypeId="Neodymium" />
@@ -706,7 +706,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MagnetDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Magnet</DisplayName>
+      <DisplayName>钕磁铁</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Magnet_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.12" TypeId="Ingot" SubtypeId="Neodymium" />
@@ -722,7 +722,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TungstenCarbideX100</SubtypeId>
       </Id>
-      <DisplayName>TungstenCarbide x10000</DisplayName>
+      <DisplayName>碳化钨 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Magnet_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="5000" TypeId="Ingot" SubtypeId="Tungsten" />
@@ -736,7 +736,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TungstenCarbideX10</SubtypeId>
       </Id>
-      <DisplayName>TungstenCarbide x1000</DisplayName>
+      <DisplayName>碳化钨 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Magnet_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ingot" SubtypeId="Tungsten" />
@@ -750,7 +750,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TungstenCarbide</SubtypeId>
       </Id>
-      <DisplayName>TungstenCarbide x100</DisplayName>
+      <DisplayName>碳化钨 x100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Magnet_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Tungsten" />
@@ -764,7 +764,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TungstenCarbideDisassembly</SubtypeId>
       </Id>
-      <DisplayName>TungstenCarbide</DisplayName>
+      <DisplayName>碳化钨</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Magnet_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.5" TypeId="Ingot" SubtypeId="Tungsten" />
@@ -779,7 +779,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CementX100</SubtypeId>
       </Id>
-      <DisplayName>Cement x10000</DisplayName>
+      <DisplayName>水泥 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Cement_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="30000" TypeId="Ingot" SubtypeId="Calcium" />
@@ -796,7 +796,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CementX10</SubtypeId>
       </Id>
-      <DisplayName>Cement x1000</DisplayName>
+      <DisplayName>水泥 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Cement_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3000" TypeId="Ingot" SubtypeId="Calcium" />
@@ -813,7 +813,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Cement</SubtypeId>
       </Id>
-      <DisplayName>Cement x100</DisplayName>
+      <DisplayName>水泥 x100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Cement_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Ingot" SubtypeId="Calcium" />
@@ -830,7 +830,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CementDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Cement</DisplayName>
+      <DisplayName>水泥</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Cement_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3" TypeId="Ingot" SubtypeId="Calcium" />

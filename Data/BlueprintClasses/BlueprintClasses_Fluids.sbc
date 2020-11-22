@@ -6,7 +6,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>Fluids</SubtypeId>
       </Id>
-      <DisplayName>Fluids</DisplayName>
+      <DisplayName>液体</DisplayName>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
@@ -16,7 +16,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>MassProdFluids</SubtypeId>
       </Id>
-      <DisplayName>Fluids Mass Production</DisplayName>
+      <DisplayName>液体批量生产</DisplayName>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>

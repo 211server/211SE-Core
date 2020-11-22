@@ -6,7 +6,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MineralSpiritsX100</SubtypeId>
       </Id>
-      <DisplayName>Mineral Spirits x10000</DisplayName>
+      <DisplayName>矿物油 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\MineralSpirits_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3500" TypeId="Ingot" SubtypeId="Carbon" />
@@ -22,7 +22,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MineralSpiritsX10</SubtypeId>
       </Id>
-      <DisplayName>Mineral Spirits x1000</DisplayName>
+      <DisplayName>矿物油 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\MineralSpirits_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="350" TypeId="Ingot" SubtypeId="Carbon" />
@@ -38,7 +38,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MineralSpirits</SubtypeId>
       </Id>
-      <DisplayName>Mineral Spirits x100</DisplayName>
+      <DisplayName>矿物油 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\MineralSpirits_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="35" TypeId="Ingot" SubtypeId="Carbon" />
@@ -54,7 +54,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MineralSpiritsDisassmebly</SubtypeId>
       </Id>
-      <DisplayName>Mineral Spirits</DisplayName>
+      <DisplayName>矿物油</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\MineralSpirits_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.35" TypeId="Ingot" SubtypeId="Carbon" />
@@ -71,7 +71,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>StearateX100</SubtypeId>
       </Id>
-      <DisplayName>Stearate x10000</DisplayName>
+      <DisplayName>硬脂酸盐 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Stearate_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1100" TypeId="Ingot" SubtypeId="Lithium" />
@@ -87,7 +87,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>StearateX10</SubtypeId>
       </Id>
-      <DisplayName>Stearate x1000</DisplayName>
+      <DisplayName>硬脂酸盐 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Stearate_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="110" TypeId="Ingot" SubtypeId="Lithium" />
@@ -103,7 +103,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Stearate</SubtypeId>
       </Id>
-      <DisplayName>Stearate x100</DisplayName>
+      <DisplayName>硬脂酸盐 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Stearate_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="11" TypeId="Ingot" SubtypeId="Lithium" />
@@ -120,7 +120,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>GreaseX100</SubtypeId>
       </Id>
-      <DisplayName>Grease x10000</DisplayName>
+      <DisplayName>润滑油 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Grease_Icon.dds</Icon>
       <Prerequisites>
       <Result Amount="4000" TypeId="Ingot" SubtypeId="MineralSpirits" />
@@ -136,7 +136,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>GreaseX10</SubtypeId>
       </Id>
-      <DisplayName>Grease x1000</DisplayName>
+      <DisplayName>润滑油 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Grease_Icon.dds</Icon>
       <Prerequisites>
       <Result Amount="400" TypeId="Ingot" SubtypeId="MineralSpirits" />
@@ -152,7 +152,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Grease</SubtypeId>
       </Id>
-      <DisplayName>Grease x10</DisplayName>
+      <DisplayName>润滑油 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Grease_Icon.dds</Icon>
       <Prerequisites>
       <Result Amount="40" TypeId="Ingot" SubtypeId="MineralSpirits" />
@@ -168,7 +168,7 @@
         <TypeId>BlueprintDefinition</TypeId>
       <Icon>Textures\GUI\Icons\component\Fluid\Grease_Icon.dds</Icon>
       </Id>
-      <DisplayName>Grease</DisplayName>
+      <DisplayName>润滑油</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\iron_ingot.dds</Icon>
       <Prerequisites>
       <Result Amount="0.4" TypeId="Ingot" SubtypeId="MineralSpirits" />
@@ -185,7 +185,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>OilX100</SubtypeId>
       </Id>
-      <DisplayName>Oil x10000</DisplayName>
+      <DisplayName>石油 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Oil_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="6000" TypeId="Ingot" SubtypeId="MineralSpirits" />
@@ -200,7 +200,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>OilX10</SubtypeId>
       </Id>
-      <DisplayName>Oil x1000</DisplayName>
+      <DisplayName>石油 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Oil_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="600" TypeId="Ingot" SubtypeId="MineralSpirits" />
@@ -215,7 +215,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Oil</SubtypeId>
       </Id>
-      <DisplayName>Oil x100</DisplayName>
+      <DisplayName>石油 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Oil_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="60" TypeId="Ingot" SubtypeId="MineralSpirits" />
@@ -230,7 +230,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>OilDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Oil</DisplayName>
+      <DisplayName>石油</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Oil_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="MineralSpirits" />
@@ -246,7 +246,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CoolantX100</SubtypeId>
       </Id>
-      <DisplayName>Coolant x10000</DisplayName>
+      <DisplayName>冷却液 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Coolant_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10000" TypeId="Ingot" SubtypeId="MineralSpirits" />
@@ -263,7 +263,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CoolantX10</SubtypeId>
       </Id>
-      <DisplayName>Coolant x1000</DisplayName>
+      <DisplayName>冷却液 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Coolant_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ingot" SubtypeId="MineralSpirits" />
@@ -280,7 +280,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Coolant</SubtypeId>
       </Id>
-      <DisplayName>Coolant x100</DisplayName>
+      <DisplayName>冷却液 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Coolant_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="MineralSpirits" />
@@ -297,7 +297,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CoolantDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Coolant</DisplayName>
+      <DisplayName>冷却液</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Coolant_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="MineralSpirits" />
@@ -315,7 +315,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ThermalPasteX100</SubtypeId>
       </Id>
-      <DisplayName>Thermal Paste x10000</DisplayName>
+      <DisplayName>导热膏 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\ThermalPaste_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3000" TypeId="Ingot" SubtypeId="Coolant" />
@@ -333,7 +333,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ThermalPasteX10</SubtypeId>
       </Id>
-      <DisplayName>Thermal Paste x1000</DisplayName>
+      <DisplayName>导热膏 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\ThermalPaste_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Ingot" SubtypeId="Coolant" />
@@ -351,7 +351,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ThermalPaste</SubtypeId>
       </Id>
-      <DisplayName>Thermal Paste x100</DisplayName>
+      <DisplayName>导热膏 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\ThermalPaste_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Ingot" SubtypeId="Coolant" />
@@ -369,7 +369,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ThermalPasteDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Thermal Paste</DisplayName>
+      <DisplayName>导热膏</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\ThermalPaste_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.3" TypeId="Ingot" SubtypeId="Coolant" />
@@ -388,7 +388,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LiquidGasolineX100</SubtypeId>
       </Id>
-      <DisplayName>Gasoline x10000</DisplayName>
+      <DisplayName>汽油 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Gasoline_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="7000" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -402,7 +402,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LiquidGasolineX10</SubtypeId>
       </Id>
-      <DisplayName>Gasoline x1000</DisplayName>
+      <DisplayName>汽油 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Gasoline_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="700" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -416,7 +416,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LiquidGasoline</SubtypeId>
       </Id>
-      <DisplayName>Gasoline x100</DisplayName>
+      <DisplayName>汽油 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Gasoline_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="70" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -430,7 +430,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LiquidGasolineDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Gasoline</DisplayName>
+      <DisplayName>汽油</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Gasoline_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.7" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -445,7 +445,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LiquidJetFuelX100</SubtypeId>
       </Id>
-      <DisplayName>Jet Fuel x10000</DisplayName>
+      <DisplayName>航空煤油 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\JetFuel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="6250" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -462,7 +462,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LiquidJetFuelX10</SubtypeId>
       </Id>
-      <DisplayName>Jet Fuel x1000</DisplayName>
+      <DisplayName>航空煤油 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\JetFuel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="625" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -479,7 +479,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LiquidJetFuel</SubtypeId>
       </Id>
-      <DisplayName>Jet Fuel x100</DisplayName>
+      <DisplayName>航空煤油 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\JetFuel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="62.5" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -496,7 +496,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LiquidJetFuelDisassambly</SubtypeId>
       </Id>
-      <DisplayName>Jet Fuel</DisplayName>
+      <DisplayName>航空煤油</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\JetFuel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.625" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -514,7 +514,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>IngotToWaterX100</SubtypeId>
       </Id>
-      <DisplayName>Water x10000</DisplayName>
+      <DisplayName>水 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Water_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="4350" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -528,7 +528,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>IngotToWaterX10</SubtypeId>
       </Id>
-      <DisplayName>Water x1000</DisplayName>
+      <DisplayName>水 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Water_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="435" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -542,7 +542,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>IngotToWater</SubtypeId>
       </Id>
-      <DisplayName>Water x100</DisplayName>
+      <DisplayName>水 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Water_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="43.5" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -556,7 +556,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>IngotToWaterDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Water</DisplayName>
+      <DisplayName>水</DisplayName>
       <Icon>Textures\GUI\Icons\component\Fluid\Water_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.435" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -572,7 +572,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>IngotToIceX100</SubtypeId>
       </Id>
-      <DisplayName>Ice x10000</DisplayName>
+      <DisplayName>冰 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
       <Prerequisites>
         <Item Amount="4350" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -586,7 +586,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>IngotToIceX10</SubtypeId>
       </Id>
-      <DisplayName>Ice x1000</DisplayName>
+      <DisplayName>冰 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
       <Prerequisites>
         <Item Amount="435" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -600,7 +600,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>IngotToIce</SubtypeId>
       </Id>
-      <DisplayName>Ice x100</DisplayName>
+      <DisplayName>冰 x100</DisplayName>
       <Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
       <Prerequisites>
         <Item Amount="43.5" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -614,7 +614,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>IngotToIceDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Ice</DisplayName>
+      <DisplayName>冰</DisplayName>
       <Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
       <Prerequisites>
         <Item Amount="0.435" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -629,7 +629,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>WaterToIceX100</SubtypeId>
       </Id>
-      <DisplayName>Ice x10000</DisplayName>
+      <DisplayName>冰 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
       <Prerequisites>
         <Item Amount="2170" TypeId="Ingot" SubtypeId="Water" />
@@ -642,7 +642,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>WaterToIceX10</SubtypeId>
       </Id>
-      <DisplayName>Ice x1000</DisplayName>
+      <DisplayName>冰 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
       <Prerequisites>
         <Item Amount="217" TypeId="Ingot" SubtypeId="Water" />
@@ -655,7 +655,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>WaterToIce</SubtypeId>
       </Id>
-      <DisplayName>Ice x100</DisplayName>
+      <DisplayName>冰 x100</DisplayName>
       <Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
       <Prerequisites>
         <Item Amount="21.7" TypeId="Ingot" SubtypeId="Water" />
@@ -668,7 +668,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>WaterToIceDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Ice</DisplayName>
+      <DisplayName>冰</DisplayName>
       <Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
       <Prerequisites>
         <Item Amount="0.217" TypeId="Ingot" SubtypeId="Water" />
@@ -695,7 +695,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HydrogentoGas</SubtypeId>
       </Id>
-      <DisplayName>Hydrogen</DisplayName>
+      <DisplayName>氢</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\gravel_ingot.dds</Icon>
       <Prerequisites>
         <Item Amount="0.33" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -708,7 +708,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>GasolinetoGas</SubtypeId>
       </Id>
-      <DisplayName>Gasoline</DisplayName>
+      <DisplayName>汽油</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\gravel_ingot.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="LiquidGasoline" />
@@ -721,7 +721,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>JetFueltoGas</SubtypeId>
       </Id>
-      <DisplayName>Jet Fuel</DisplayName>
+      <DisplayName>航空煤油</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\gravel_ingot.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="LiquidJetFuel" />

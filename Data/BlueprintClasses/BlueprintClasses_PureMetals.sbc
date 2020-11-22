@@ -7,7 +7,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>BscPureMetals</SubtypeId>
       </Id>
-      <DisplayName>Pure Metals Ingots</DisplayName>
+      <DisplayName>纯金属锭</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\ingot_class.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\large_block_focus.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</InputConstraintIcon>
@@ -18,7 +18,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>AdvPureMetals</SubtypeId>
       </Id>
-      <DisplayName>Pure Metals Ingots</DisplayName>
+      <DisplayName>纯金属锭</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\ingot_class.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\large_block_focus.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</InputConstraintIcon>
@@ -29,7 +29,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>EliPureMetals</SubtypeId>
       </Id>
-      <DisplayName>Pure Metals Ingots</DisplayName>
+      <DisplayName>纯金属锭</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\ingot_class.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\large_block_focus.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</InputConstraintIcon>
@@ -41,7 +41,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>BscRefining</SubtypeId>
       </Id>
-      <DisplayName>Basic Refining</DisplayName>
+      <DisplayName>基础精炼</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\ingot_class.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\large_block_focus.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</InputConstraintIcon>
@@ -52,7 +52,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>AdvRefining</SubtypeId>
       </Id>
-      <DisplayName>Advanced Refining</DisplayName>
+      <DisplayName>高级精炼</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\ingot_class.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\large_block_focus.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</InputConstraintIcon>
@@ -63,7 +63,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>EliRefining</SubtypeId>
       </Id>
-      <DisplayName>Elite Refining</DisplayName>
+      <DisplayName>精英精炼</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\ingot_class.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\large_block_focus.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</InputConstraintIcon>

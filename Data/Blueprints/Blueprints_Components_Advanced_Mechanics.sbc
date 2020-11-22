@@ -6,7 +6,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PneumaticMotorX100</SubtypeId>
       </Id>
-      <DisplayName>Pneumatic Motor x100</DisplayName>
+      <DisplayName>气动马达 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PneumaticMotor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="BallValve" />
@@ -22,7 +22,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PneumaticMotorX10</SubtypeId>
       </Id>
-      <DisplayName>Pneumatic Motor x10</DisplayName>
+      <DisplayName>气动马达 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PneumaticMotor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="BallValve" />
@@ -38,7 +38,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PneumaticMotor</SubtypeId>
       </Id>
-      <DisplayName>Pneumatic Motor</DisplayName>
+      <DisplayName>气动马达</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PneumaticMotor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="BallValve" />
@@ -55,7 +55,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PneumaticPumpX100</SubtypeId>
       </Id>
-      <DisplayName>Pneumatic Pump x100</DisplayName>
+      <DisplayName>气动泵 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PneumaticPump_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="200" TypeId="Component" SubtypeId="BallValve" />
@@ -71,7 +71,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PneumaticPumpX10</SubtypeId>
       </Id>
-      <DisplayName>Pneumatic Pump x10</DisplayName>
+      <DisplayName>气动泵 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PneumaticPump_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="20" TypeId="Component" SubtypeId="BallValve" />
@@ -87,7 +87,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PneumaticPump</SubtypeId>
       </Id>
-      <DisplayName>Pneumatic Pump</DisplayName>
+      <DisplayName>气动泵</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PneumaticPump_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="Component" SubtypeId="BallValve" />
@@ -104,7 +104,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PressureRegulatorX100</SubtypeId>
       </Id>
-      <DisplayName>Pressure Regulator x100</DisplayName>
+      <DisplayName>加压调节器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PressureRegulator_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Component" SubtypeId="SmallTube" />
@@ -121,7 +121,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PressureRegulatorX10</SubtypeId>
       </Id>
-      <DisplayName>Pressure Regulator x10</DisplayName>
+      <DisplayName>加压调节器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PressureRegulator_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Component" SubtypeId="SmallTube" />
@@ -138,7 +138,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PressureRegulator</SubtypeId>
       </Id>
-      <DisplayName>Pressure Regulator</DisplayName>
+      <DisplayName>加压调节器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PressureRegulator_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3" TypeId="Component" SubtypeId="SmallTube" />
@@ -156,7 +156,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PressurizedTubingX100</SubtypeId>
       </Id>
-      <DisplayName>Pressurized Tubing x100</DisplayName>
+      <DisplayName>加压管 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PressurizedTubing_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="CarbonTube" />
@@ -172,7 +172,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PressurizedTubingX10</SubtypeId>
       </Id>
-      <DisplayName>Pressurized Tubing x10</DisplayName>
+      <DisplayName>加压管 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PressurizedTubing_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="CarbonTube" />
@@ -188,7 +188,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PressurizedTubing</SubtypeId>
       </Id>
-      <DisplayName>Pressurized Tubing</DisplayName>
+      <DisplayName>加压管</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PressurizedTubing_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="CarbonTube" />
@@ -205,7 +205,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RadiatorX100</SubtypeId>
       </Id>
-      <DisplayName>Radiator x100</DisplayName>
+      <DisplayName>散热器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Radiator_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1600" TypeId="Component" SubtypeId="SmallCopperTube" />
@@ -221,7 +221,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RadiatorX10</SubtypeId>
       </Id>
-      <DisplayName>Radiator x10</DisplayName>
+      <DisplayName>散热器 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Radiator_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="160" TypeId="Component" SubtypeId="SmallCopperTube" />
@@ -237,7 +237,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Radiator</SubtypeId>
       </Id>
-      <DisplayName>Radiator</DisplayName>
+      <DisplayName>散热器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Radiator_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="16" TypeId="Component" SubtypeId="SmallCopperTube" />
@@ -254,7 +254,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MotorX100</SubtypeId>
       </Id>
-      <DisplayName>Motor x100</DisplayName>
+      <DisplayName>马达 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\motor_component.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Armature" />
@@ -270,7 +270,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MotorX10</SubtypeId>
       </Id>
-      <DisplayName>Motor x10</DisplayName>
+      <DisplayName>马达 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\motor_component.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Armature" />
@@ -286,7 +286,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Motor</SubtypeId>
       </Id>
-      <DisplayName>Motor</DisplayName>
+      <DisplayName>马达</DisplayName>
       <Icon>Textures\GUI\Icons\component\motor_component.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Armature" />
@@ -303,7 +303,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ArmatureX100</SubtypeId>
       </Id>
-      <DisplayName>Armature x100</DisplayName>
+      <DisplayName>电枢 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Armature_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="SteelRod" />
@@ -319,7 +319,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ArmatureX10</SubtypeId>
       </Id>
-      <DisplayName>Armature x10</DisplayName>
+      <DisplayName>电枢 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Armature_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="SteelRod" />
@@ -335,7 +335,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Armature</SubtypeId>
       </Id>
-      <DisplayName>Armature</DisplayName>
+      <DisplayName>电枢</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Armature_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="SteelRod" />
@@ -352,7 +352,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CompressorX100</SubtypeId>
       </Id>
-      <DisplayName>Compressor x100</DisplayName>
+      <DisplayName>压缩机 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Compressor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Motor" />
@@ -368,7 +368,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CompressorX10</SubtypeId>
       </Id>
-      <DisplayName>Compressor x10</DisplayName>
+      <DisplayName>压缩机 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Compressor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Motor" />
@@ -384,7 +384,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Compressor</SubtypeId>
       </Id>
-      <DisplayName>Compressor</DisplayName>
+      <DisplayName>压缩机</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Compressor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Motor" />
@@ -401,7 +401,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TurbineX100</SubtypeId>
       </Id>
-      <DisplayName>Turbine x100</DisplayName>
+      <DisplayName>涡轮 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Turbine_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Motor" />
@@ -418,7 +418,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TurbineX10</SubtypeId>
       </Id>
-      <DisplayName>Turbine x10</DisplayName>
+      <DisplayName>涡轮 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Turbine_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Motor" />
@@ -435,7 +435,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Turbine</SubtypeId>
       </Id>
-      <DisplayName>Turbine</DisplayName>
+      <DisplayName>涡轮</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\Turbine_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Motor" />
@@ -453,7 +453,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ThrustX100</SubtypeId>
       </Id>
-      <DisplayName>Thruster Components x100</DisplayName>
+      <DisplayName>推进器组件 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\thrust_components_component.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Igniter" />
@@ -469,7 +469,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ThrustX10</SubtypeId>
       </Id>
-      <DisplayName>Thruster Components x10</DisplayName>
+      <DisplayName>推进器组件 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\thrust_components_component.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Igniter" />
@@ -485,7 +485,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Thrust</SubtypeId>
       </Id>
-      <DisplayName>Thruster Components</DisplayName>
+      <DisplayName>推进器组件</DisplayName>
       <Icon>Textures\GUI\Icons\component\thrust_components_component.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Igniter" />
@@ -502,7 +502,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MedicalComponentX100</SubtypeId>
       </Id>
-      <DisplayName>Medical Components x100</DisplayName>
+      <DisplayName>医疗零件 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\medical_components_component.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ingot" SubtypeId="Silver" />
@@ -519,7 +519,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MedicalComponentX10</SubtypeId>
       </Id>
-      <DisplayName>Medical Components x10</DisplayName>
+      <DisplayName>医疗零件 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\medical_components_component.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Silver" />
@@ -536,7 +536,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MedicalComponent</SubtypeId>
       </Id>
-      <DisplayName>Medical Component</DisplayName>
+      <DisplayName>医疗零件</DisplayName>
       <Icon>Textures\GUI\Icons\component\medical_components_component.dds</Icon>
       <Prerequisites>
         <Item Amount="5" TypeId="Ingot" SubtypeId="Silver" />
@@ -554,7 +554,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MotorBlockX100</SubtypeId>
       </Id>
-      <DisplayName>Motor Block x100</DisplayName>
+      <DisplayName>曲轴箱 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\MotorBlock_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3000" TypeId="Ingot" SubtypeId="Aluminum" />
@@ -574,7 +574,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MotorBlockX10</SubtypeId>
       </Id>
-      <DisplayName>Motor Block x10</DisplayName>
+      <DisplayName>曲轴箱 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\MotorBlock_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Ingot" SubtypeId="Aluminum" />
@@ -594,7 +594,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MotorBlock</SubtypeId>
       </Id>
-      <DisplayName>Motor Block</DisplayName>
+      <DisplayName>曲轴箱</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\MotorBlock_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Ingot" SubtypeId="Aluminum" />
@@ -615,7 +615,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AluminumPistonAssemblyX100</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Piston Assembly x100</DisplayName>
+      <DisplayName>铝活塞组件 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PistonAssembly_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="AluminumPiston" />
@@ -634,7 +634,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AluminumPistonAssemblyX10</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Piston Assembly x10</DisplayName>
+      <DisplayName>铝活塞组件 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PistonAssembly_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="AluminumPiston" />
@@ -653,7 +653,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AluminumPistonAssembly</SubtypeId>
       </Id>
-      <DisplayName>Aluminum Piston Assembly</DisplayName>
+      <DisplayName>铝活塞组件</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PistonAssembly_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="AluminumPiston" />
@@ -673,7 +673,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TitaniumPistonAssemblyX100</SubtypeId>
       </Id>
-      <DisplayName>Titanium Piston Assembly x100</DisplayName>
+      <DisplayName>钛活塞组件 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PistonAssembly_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="TitaniumPiston" />
@@ -692,7 +692,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TitaniumPistonAssemblyX10</SubtypeId>
       </Id>
-      <DisplayName>Titanium Piston Assembly x10</DisplayName>
+      <DisplayName>钛活塞组件 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PistonAssembly_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="TitaniumPiston" />
@@ -711,7 +711,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TitaniumPistonAssembly</SubtypeId>
       </Id>
-      <DisplayName>Titanium Piston Assembly</DisplayName>
+      <DisplayName>钛活塞组件</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\PistonAssembly_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="TitaniumPiston" />
@@ -731,7 +731,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelValveAssemblyX100</SubtypeId>
       </Id>
-      <DisplayName>Steel Valve Assembly x100</DisplayName>
+      <DisplayName>钢阀门组件 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelValveAssembly_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="SteelRod" />
@@ -750,7 +750,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelValveAssemblyX10</SubtypeId>
       </Id>
-      <DisplayName>Steel Valve Assembly x10</DisplayName>
+      <DisplayName>钢阀门组件 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelValveAssembly_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="SteelRod" />
@@ -769,7 +769,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SteelValveAssembly</SubtypeId>
       </Id>
-      <DisplayName>Steel Valve Assembly</DisplayName>
+      <DisplayName>钢阀门组件</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelValveAssembly_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="SteelRod" />
@@ -789,7 +789,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NitinolValveAssemblyX100</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Valve Assembly x100</DisplayName>
+      <DisplayName>镍钛合金阀门组件 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelValveAssembly_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="TitaniumRod" />
@@ -808,7 +808,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NitinolValveAssemblyX10</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Valve Assembly x10</DisplayName>
+      <DisplayName>镍钛合金阀门组件 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelValveAssembly_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="TitaniumRod" />
@@ -827,7 +827,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NitinolValveAssembly</SubtypeId>
       </Id>
-      <DisplayName>Nitinol Valve Assembly</DisplayName>
+      <DisplayName>镍钛合金阀门组件</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\SteelValveAssembly_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="TitaniumRod" />
@@ -847,7 +847,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CoolingUnitX100</SubtypeId>
       </Id>
-      <DisplayName>Cooling Unit x100</DisplayName>
+      <DisplayName>冷却单元 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\CoolingUnit_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Radiator" />
@@ -866,7 +866,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CoolingUnitX10</SubtypeId>
       </Id>
-      <DisplayName>Cooling Unit x10</DisplayName>
+      <DisplayName>冷却单元 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\CoolingUnit_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Radiator" />
@@ -885,7 +885,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CoolingUnit</SubtypeId>
       </Id>
-      <DisplayName>Cooling Unit</DisplayName>
+      <DisplayName>冷却单元</DisplayName>
       <Icon>Textures\GUI\Icons\component\Mechanical\CoolingUnit_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Radiator" />

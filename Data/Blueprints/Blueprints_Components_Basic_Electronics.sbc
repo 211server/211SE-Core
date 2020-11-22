@@ -6,7 +6,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FuseX100</SubtypeId>
       </Id>
-      <DisplayName>Fuses X10000</DisplayName>
+      <DisplayName>保险丝 X10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Fuse_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Copper" />
@@ -22,7 +22,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FuseX10</SubtypeId>
       </Id>
-      <DisplayName>Fuses x1000</DisplayName>
+      <DisplayName>保险丝 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Fuse_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Copper" />
@@ -38,7 +38,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Fuse</SubtypeId>
       </Id>
-      <DisplayName>Fuses x100</DisplayName>
+      <DisplayName>保险丝 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Fuse_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Copper" />
@@ -54,7 +54,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FuseDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Fuse</DisplayName>
+      <DisplayName>保险丝</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Fuse_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.01" TypeId="Ingot" SubtypeId="Copper" />
@@ -71,7 +71,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ResistorX100</SubtypeId>
       </Id>
-      <DisplayName>Resistors x10000</DisplayName>
+      <DisplayName>电阻器 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Resistor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Insulation" />
@@ -86,7 +86,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ResistorX10</SubtypeId>
       </Id>
-      <DisplayName>Resistors x1000</DisplayName>
+      <DisplayName>电阻器 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Resistor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Insulation" />
@@ -101,7 +101,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Resistor</SubtypeId>
       </Id>
-      <DisplayName>Resistors x100</DisplayName>
+      <DisplayName>电阻器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Resistor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Insulation" />
@@ -116,7 +116,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ResistorDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Resistor</DisplayName>
+      <DisplayName>电阻器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Resistor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.01" TypeId="Component" SubtypeId="Insulation" />
@@ -132,7 +132,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DiodeX100</SubtypeId>
       </Id>
-      <DisplayName>Diodes x10000</DisplayName>
+      <DisplayName>二极管 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Diode_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Insulation" />
@@ -147,7 +147,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DiodeX10</SubtypeId>
       </Id>
-      <DisplayName>Diodes x1000</DisplayName>
+      <DisplayName>二极管 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Diode_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Insulation" />
@@ -162,7 +162,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Diode</SubtypeId>
       </Id>
-      <DisplayName>Diodes x100</DisplayName>
+      <DisplayName>二极管 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Diode_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Insulation" />
@@ -177,7 +177,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DiodeDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Diode</DisplayName>
+      <DisplayName>二极管</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Diode_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.01" TypeId="Component" SubtypeId="Insulation" />
@@ -193,7 +193,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>POTX100</SubtypeId>
       </Id>
-      <DisplayName>POTs X1000</DisplayName>
+      <DisplayName>电位器 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\POT_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="PolyCarbonate" />
@@ -209,7 +209,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>POTX10</SubtypeId>
       </Id>
-      <DisplayName>POTs X100</DisplayName>
+      <DisplayName>电位器 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\POT_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="PolyCarbonate" />
@@ -225,7 +225,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>POT</SubtypeId>
       </Id>
-      <DisplayName>POTs X10</DisplayName>
+      <DisplayName>电位器 X10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\POT_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="PolyCarbonate" />
@@ -241,7 +241,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>POTDisassembly</SubtypeId>
       </Id>
-      <DisplayName>POT</DisplayName>
+      <DisplayName>电位器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\POT_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.1" TypeId="Ingot" SubtypeId="PolyCarbonate" />
@@ -258,7 +258,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PowerCellX100</SubtypeId>
       </Id>
-      <DisplayName>Capacitors X10000</DisplayName>
+      <DisplayName>电容器 X10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Capacitor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="Insulation" />
@@ -275,7 +275,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PowerCellX10</SubtypeId>
       </Id>
-      <DisplayName>Capacitors x1000</DisplayName>
+      <DisplayName>电容器 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Capacitor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="Insulation" />
@@ -292,7 +292,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PowerCell</SubtypeId>
       </Id>
-      <DisplayName>Capacitors x100</DisplayName>
+      <DisplayName>电容器 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Capacitor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="Insulation" />
@@ -309,7 +309,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PowerCellDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Capacitor</DisplayName>
+      <DisplayName>电容器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Capacitor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.01" TypeId="Component" SubtypeId="Insulation" />
@@ -327,7 +327,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TransistorX100</SubtypeId>
       </Id>
-      <DisplayName>Transistors x10000</DisplayName>
+      <DisplayName>晶体管 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Transistor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ingot" SubtypeId="Germanium" />
@@ -345,7 +345,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TransistorX10</SubtypeId>
       </Id>
-      <DisplayName>Transistors x1000</DisplayName>
+      <DisplayName>晶体管 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Transistor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Germanium" />
@@ -363,7 +363,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Transistor</SubtypeId>
       </Id>
-      <DisplayName>Transistors x100</DisplayName>
+      <DisplayName>晶体管 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Transistor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Germanium" />
@@ -381,7 +381,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>TransistorDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Transistor</DisplayName>
+      <DisplayName>晶体管</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Transistor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.1" TypeId="Ingot" SubtypeId="Germanium" />
@@ -400,7 +400,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CoilX100</SubtypeId>
       </Id>
-      <DisplayName>Coils x1000</DisplayName>
+      <DisplayName>线圈 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Coil_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Component" SubtypeId="BareCopperWire" />
@@ -415,7 +415,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>CoilX10</SubtypeId>
       </Id>
-      <DisplayName>Coils x100</DisplayName>
+      <DisplayName>线圈 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Coil_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="BareCopperWire" />
@@ -430,7 +430,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Coil</SubtypeId>
       </Id>
-      <DisplayName>Coil x10</DisplayName>
+      <DisplayName>线圈 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Coil_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="BareCopperWire" />
@@ -446,7 +446,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LEDX100</SubtypeId>
       </Id>
-      <DisplayName>LEDs X1000</DisplayName>
+      <DisplayName>发光二极管 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\LED_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Glass" />
@@ -465,7 +465,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LEDX10</SubtypeId>
       </Id>
-      <DisplayName>LEDs X100</DisplayName>
+      <DisplayName>发光二极管 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\LED_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Glass" />
@@ -484,7 +484,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LED</SubtypeId>
       </Id>
-      <DisplayName>LEDs X10</DisplayName>
+      <DisplayName>发光二极管 X10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\LED_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Glass" />
@@ -503,7 +503,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>LEDDisassembly</SubtypeId>
       </Id>
-      <DisplayName>LED</DisplayName>
+      <DisplayName>发光二极管</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\LED_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.1" TypeId="Ingot" SubtypeId="Glass" />
@@ -523,7 +523,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BulbX100</SubtypeId>
       </Id>
-      <DisplayName>Bulbs X100</DisplayName>
+      <DisplayName>灯泡 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Bulb_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="200" TypeId="Ingot" SubtypeId="Glass" />
@@ -538,7 +538,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>BulbX10</SubtypeId>
       </Id>
-      <DisplayName>Bulbs X10</DisplayName>
+      <DisplayName>灯泡 X10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Bulb_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="20" TypeId="Ingot" SubtypeId="Glass" />
@@ -553,7 +553,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bulb</SubtypeId>
       </Id>
-      <DisplayName>Bulb</DisplayName>
+      <DisplayName>灯泡</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Bulb_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="2" TypeId="Ingot" SubtypeId="Glass" />
@@ -569,7 +569,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SensorX100</SubtypeId>
       </Id>
-      <DisplayName>Sensors X100</DisplayName>
+      <DisplayName>传感器 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Sensor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ingot" SubtypeId="Arsenic" />
@@ -583,7 +583,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SensorX10</SubtypeId>
       </Id>
-      <DisplayName>Sensors X10</DisplayName>
+      <DisplayName>传感器 X10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Sensor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Arsenic" />
@@ -597,7 +597,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Sensor</SubtypeId>
       </Id>
-      <DisplayName>Sensor</DisplayName>
+      <DisplayName>传感器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Sensor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="5" TypeId="Ingot" SubtypeId="Arsenic" />
@@ -612,7 +612,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HeatSinkX100</SubtypeId>
       </Id>
-      <DisplayName>Heat Sinks X1000</DisplayName>
+      <DisplayName>散热鳍片 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\HeatSink_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="600" TypeId="Ingot" SubtypeId="Aluminum" />
@@ -627,7 +627,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HeatSinkX10</SubtypeId>
       </Id>
-      <DisplayName>Heat Sinks X100</DisplayName>
+      <DisplayName>散热鳍片 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\HeatSink_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="60" TypeId="Ingot" SubtypeId="Aluminum" />
@@ -642,7 +642,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HeatSink</SubtypeId>
       </Id>
-      <DisplayName>Heat Sinks X10</DisplayName>
+      <DisplayName>散热鳍片 X10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\HeatSink_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="6" TypeId="Ingot" SubtypeId="Aluminum" />
@@ -657,7 +657,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HeatSinkDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Heat Sink</DisplayName>
+      <DisplayName>散热鳍片</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\HeatSink_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.6" TypeId="Ingot" SubtypeId="Aluminum" />
@@ -673,7 +673,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RadioCommunicationX100</SubtypeId>
       </Id>
-      <DisplayName>Antennas X100</DisplayName>
+      <DisplayName>天线 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Antenna_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="SmallTube" />
@@ -689,7 +689,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RadioCommunicationX10</SubtypeId>
       </Id>
-      <DisplayName>Antennas X10</DisplayName>
+      <DisplayName>天线 X10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Antenna_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="SmallTube" />
@@ -705,7 +705,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>RadioCommunication</SubtypeId>
       </Id>
-      <DisplayName>Antenna</DisplayName>
+      <DisplayName>天线</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Antenna_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="SmallTube" />
@@ -722,7 +722,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SolarCellX100</SubtypeId>
       </Id>
-      <DisplayName>Solar Cells X100</DisplayName>
+      <DisplayName>太阳能电池 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\SolarCellComponent.dds</Icon>
       <Prerequisites>
         <Item Amount="1400" TypeId="Ingot" SubtypeId="Silicon" />
@@ -738,7 +738,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SolarCellX10</SubtypeId>
       </Id>
-      <DisplayName>Solar Cells X10</DisplayName>
+      <DisplayName>太阳能电池 X10</DisplayName>
       <Icon>Textures\GUI\Icons\component\SolarCellComponent.dds</Icon>
       <Prerequisites>
         <Item Amount="140" TypeId="Ingot" SubtypeId="Silicon" />
@@ -754,7 +754,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SolarCell</SubtypeId>
       </Id>
-      <DisplayName>Solar Cell</DisplayName>
+      <DisplayName>太阳能电池</DisplayName>
       <Icon>Textures\GUI\Icons\component\SolarCellComponent.dds</Icon>
       <Prerequisites>
         <Item Amount="14" TypeId="Ingot" SubtypeId="Silicon" />
@@ -771,7 +771,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ProcessorX100</SubtypeId>
       </Id>
-      <DisplayName>Processors X100</DisplayName>
+      <DisplayName>处理器 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Processor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Arsenic" />
@@ -786,7 +786,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ProcessorX10</SubtypeId>
       </Id>
-      <DisplayName>Processors X10</DisplayName>
+      <DisplayName>处理器 X10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Processor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Arsenic" />
@@ -801,7 +801,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Processor</SubtypeId>
       </Id>
-      <DisplayName>Processor</DisplayName>
+      <DisplayName>处理器</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Processor_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="Arsenic" />
@@ -817,7 +817,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PCBX100</SubtypeId>
       </Id>
-      <DisplayName>PCBs X1000</DisplayName>
+      <DisplayName>印刷电路板 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\PCB_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="300" TypeId="Component" SubtypeId="Insulation" />
@@ -832,7 +832,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PCBX10</SubtypeId>
       </Id>
-      <DisplayName>PCBs X100</DisplayName>
+      <DisplayName>印刷电路板 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\PCB_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="30" TypeId="Component" SubtypeId="Insulation" />
@@ -847,7 +847,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PCB</SubtypeId>
       </Id>
-      <DisplayName>PCBs X10</DisplayName>
+      <DisplayName>印刷电路板 X10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\PCB_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3" TypeId="Component" SubtypeId="Insulation" />
@@ -862,7 +862,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PCBDisassembly</SubtypeId>
       </Id>
-      <DisplayName>PCB</DisplayName>
+      <DisplayName>印刷电路板</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\PCB_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.3" TypeId="Component" SubtypeId="Insulation" />
@@ -878,7 +878,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>InsulatedCopperWireX100</SubtypeId>
       </Id>
-      <DisplayName>Insulated Copper Wires X10000</DisplayName>
+      <DisplayName>漆包线 X10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\InsulatedCopperWire_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ingot" SubtypeId="Rubber" />
@@ -892,7 +892,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>InsulatedCopperWireX10</SubtypeId>
       </Id>
-      <DisplayName>Insulated Copper Wires X1000</DisplayName>
+      <DisplayName>漆包线 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\InsulatedCopperWire_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Rubber" />
@@ -906,7 +906,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>InsulatedCopperWire</SubtypeId>
       </Id>
-      <DisplayName>Insulated Copper Wire x100</DisplayName>
+      <DisplayName>漆包线 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\InsulatedCopperWire_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Rubber" />
@@ -921,7 +921,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DataCableX100</SubtypeId>
       </Id>
-      <DisplayName>Data Cable x1000</DisplayName>
+      <DisplayName>数据电缆 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\DataCable_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="PolyCarbonate" />
@@ -936,7 +936,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DataCableX10</SubtypeId>
       </Id>
-      <DisplayName>Data Cable x100</DisplayName>
+      <DisplayName>数据电缆 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\DataCable_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="PolyCarbonate" />
@@ -951,7 +951,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DataCable</SubtypeId>
       </Id>
-      <DisplayName>Data Cable x10</DisplayName>
+      <DisplayName>数据电缆 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\DataCable_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Ingot" SubtypeId="PolyCarbonate" />
@@ -967,7 +967,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FiberOpticWireX100</SubtypeId>
       </Id>
-      <DisplayName>Fiber Optic Wires x1000</DisplayName>
+      <DisplayName>光纤线 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Fiber_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ingot" SubtypeId="Glass" />
@@ -980,7 +980,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FiberOpticWireX10</SubtypeId>
       </Id>
-      <DisplayName>Fiber Optic Wires x100</DisplayName>
+      <DisplayName>光纤线 x100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Fiber_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Glass" />
@@ -993,7 +993,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FiberOpticWire</SubtypeId>
       </Id>
-      <DisplayName>Fiber Optic Wire x10</DisplayName>
+      <DisplayName>光纤线 x10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Fiber_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="5" TypeId="Ingot" SubtypeId="Glass" />
@@ -1007,7 +1007,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SwitchX100</SubtypeId>
       </Id>
-      <DisplayName>Switchs X100</DisplayName>
+      <DisplayName>开关 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Switch_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Component" SubtypeId="InsulatedCopperWire" />
@@ -1024,7 +1024,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SwitchX10</SubtypeId>
       </Id>
-      <DisplayName>Switchs X10</DisplayName>
+      <DisplayName>开关 X10</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Switch_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Component" SubtypeId="InsulatedCopperWire" />
@@ -1041,7 +1041,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Switch</SubtypeId>
       </Id>
-      <DisplayName>Switch</DisplayName>
+      <DisplayName>开关</DisplayName>
       <Icon>Textures\GUI\Icons\component\Electronic\Switch_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1" TypeId="Component" SubtypeId="InsulatedCopperWire" />
@@ -1059,7 +1059,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ComputerX100</SubtypeId>
       </Id>
-      <DisplayName>Solder x10000</DisplayName>
+      <DisplayName>焊锡 x10000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Solder_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="3300" TypeId="Ingot" SubtypeId="Copper" />
@@ -1074,7 +1074,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ComputerX10</SubtypeId>
       </Id>
-      <DisplayName>Solder x1000</DisplayName>
+      <DisplayName>焊锡 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Solder_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="330" TypeId="Ingot" SubtypeId="Copper" />
@@ -1089,7 +1089,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Computer</SubtypeId>
       </Id>
-      <DisplayName>Solder x100</DisplayName>
+      <DisplayName>焊锡 x100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Solder_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="33" TypeId="Ingot" SubtypeId="Copper" />
@@ -1104,7 +1104,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ComputerDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Solder</DisplayName>
+      <DisplayName>焊锡</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Solder_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.3" TypeId="Ingot" SubtypeId="Copper" />

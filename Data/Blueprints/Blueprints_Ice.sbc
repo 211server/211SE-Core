@@ -114,7 +114,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Ice_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Ice</DisplayName>
+      <DisplayName>冰</DisplayName>
       <Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ore" SubtypeId="Ice" />
@@ -131,7 +131,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_AmberIce_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Amber Ice</DisplayName>
+      <DisplayName>琥珀冰</DisplayName>
       <Icon>Textures\GUI\Icons\Amber_Ice_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="850" TypeId="Ore" SubtypeId="AmberIce" />
@@ -148,7 +148,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_BlueIce_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Blue Ice</DisplayName>
+      <DisplayName>蓝冰</DisplayName>
       <Icon>Textures\GUI\Icons\Blue_Ice_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="850" TypeId="Ore" SubtypeId="BlueIce" />
@@ -165,7 +165,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_GreenIce_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Green Ice</DisplayName>
+      <DisplayName>绿冰</DisplayName>
       <Icon>Textures\GUI\Icons\Green_Ice_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="850" TypeId="Ore" SubtypeId="GreenIce" />
@@ -182,7 +182,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_PinkIce_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Pink Ice</DisplayName>
+      <DisplayName>粉冰</DisplayName>
       <Icon>Textures\GUI\Icons\Pink_Ice_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="875" TypeId="Ore" SubtypeId="PinkIce" />
@@ -199,7 +199,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_PurpleIce_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Purple Ice</DisplayName>
+      <DisplayName>紫冰</DisplayName>
       <Icon>Textures\GUI\Icons\Purple_Ice_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="900" TypeId="Ore" SubtypeId="PurpleIce" />
@@ -217,7 +217,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_EuropaIce_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Europa Ice</DisplayName>
+      <DisplayName>欧罗巴冰</DisplayName>
       <Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
       <Prerequisites>
         <Item Amount="850" TypeId="Ore" SubtypeId="EuropaIce" />
@@ -234,7 +234,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_AlienIce_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Alien Ice</DisplayName>
+      <DisplayName>异星冰</DisplayName>
       <Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
       <Prerequisites>
         <Item Amount="932" TypeId="Ore" SubtypeId="AlienIce" />
@@ -253,7 +253,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Brine_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Brine</DisplayName>
+      <DisplayName>盐冰</DisplayName>
       <Icon>Textures\GUI\Icons\ore_brine_ice.dds</Icon>
       <Prerequisites>
         <Item Amount="650" TypeId="Ore" SubtypeId="Brine" />
@@ -273,7 +273,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_MineralIce_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Mineral Ice</DisplayName>
+      <DisplayName>矿冰</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Mineral_Ice.dds</Icon>
       <Prerequisites>
         <Item Amount="525" TypeId="Ore" SubtypeId="MineralIce" />
@@ -293,7 +293,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_AmmoniumHydroxide_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Ammonium Hydroxide</DisplayName>
+      <DisplayName>氢氧化铵</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ammonium_Hydroxide.dds</Icon>
       <Prerequisites>
         <Item Amount="900" TypeId="Ore" SubtypeId="AmmoniumHydroxide" />
@@ -329,7 +329,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_MethaneHydrate_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Methane Hydrate</DisplayName>
+      <DisplayName>可燃冰</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Methane_Hydrate.dds</Icon>
       <Prerequisites>
         <Item Amount="825" TypeId="Ore" SubtypeId="MethaneHydrate" />

@@ -6,7 +6,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>MedLab</SubtypeId>
       </Id>
-      <DisplayName>Medical Lab</DisplayName>
+      <DisplayName>医学实验室</DisplayName>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>

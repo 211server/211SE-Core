@@ -6,7 +6,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ThoriumFuelRodX100</SubtypeId>
       </Id>
-      <DisplayName>Thorium Fuel Rods X1000</DisplayName>
+      <DisplayName>钍燃料棒 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\ThoriumFuelRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ingot" SubtypeId="Thorium" />
@@ -23,7 +23,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ThoriumFuelRodX10</SubtypeId>
       </Id>
-      <DisplayName>Thorium Fuel Rods X100</DisplayName>
+      <DisplayName>钍燃料棒 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\ThoriumFuelRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Thorium" />
@@ -40,7 +40,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ThoriumFuelRod</SubtypeId>
       </Id>
-      <DisplayName>Thorium Fuel Rod X10</DisplayName>
+      <DisplayName>钍燃料棒 X10</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\ThoriumFuelRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="5" TypeId="Ingot" SubtypeId="Thorium" />
@@ -57,7 +57,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>ThoriumFuelRodDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Thorium Fuel Rod</DisplayName>
+      <DisplayName>钍燃料棒</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\ThoriumFuelRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.5" TypeId="Ingot" SubtypeId="Thorium" />
@@ -75,7 +75,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>UraniumFuelRodConversion</SubtypeId>
       </Id>
-      <DisplayName>Uranium Fuel Rods Conversion</DisplayName>
+      <DisplayName>铀燃料棒转换</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\UraniumFuelRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ingot" SubtypeId="UraniumFuelRod" />
@@ -89,7 +89,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>UraniumFuelRodX100</SubtypeId>
       </Id>
-      <DisplayName>Uranium Fuel Rods X1000</DisplayName>
+      <DisplayName>铀燃料棒 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\UraniumFuelRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ingot" SubtypeId="Refined_Uranium" />
@@ -106,7 +106,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>UraniumFuelRodX10</SubtypeId>
       </Id>
-      <DisplayName>Uranium Fuel Rods X100</DisplayName>
+      <DisplayName>铀燃料棒 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\UraniumFuelRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Refined_Uranium" />
@@ -123,7 +123,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>UraniumFuelRod</SubtypeId>
       </Id>
-      <DisplayName>Uranium Fuel Rods X10</DisplayName>
+      <DisplayName>铀燃料棒 X10</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\UraniumFuelRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="5" TypeId="Ingot" SubtypeId="Refined_Uranium" />
@@ -140,7 +140,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>UraniumFuelRodDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Uranium Fuel Rod</DisplayName>
+      <DisplayName>铀燃料棒</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\UraniumFuelRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.5" TypeId="Ingot" SubtypeId="Refined_Uranium" />
@@ -158,7 +158,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PlutoniumFuelRodX100</SubtypeId>
       </Id>
-      <DisplayName>Plutonium Fuel Rods X1000</DisplayName>
+      <DisplayName>钚燃料棒 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\PlutoniumFuelRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ingot" SubtypeId="Plutonium" />
@@ -175,7 +175,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PlutoniumFuelRodX10</SubtypeId>
       </Id>
-      <DisplayName>Plutonium Fuel Rods X100</DisplayName>
+      <DisplayName>钚燃料棒 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\PlutoniumFuelRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Plutonium" />
@@ -192,7 +192,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PlutoniumFuelRod</SubtypeId>
       </Id>
-      <DisplayName>Plutonium Fuel Rods X10</DisplayName>
+      <DisplayName>钚燃料棒 X10</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\PlutoniumFuelRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="5" TypeId="Ingot" SubtypeId="Plutonium" />
@@ -209,7 +209,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PlutoniumFuelRodDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Plutonium Fuel Rod</DisplayName>
+      <DisplayName>钚燃料棒</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\PlutoniumFuelRod_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.5" TypeId="Ingot" SubtypeId="Plutonium" />
@@ -227,7 +227,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HydrogenFuelCellX100</SubtypeId>
       </Id>
-      <DisplayName>Hydrogen Fuel Cells X1000</DisplayName>
+      <DisplayName>氚燃料棒 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\HydrogenFuelCell_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -244,7 +244,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HydrogenFuelCellX10</SubtypeId>
       </Id>
-      <DisplayName>Hydrogen Fuel Cells X100</DisplayName>
+      <DisplayName>氚燃料棒 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\HydrogenFuelCell_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="50" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -261,7 +261,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HydrogenFuelCell</SubtypeId>
       </Id>
-      <DisplayName>Hydrogen Fuel Cells X10</DisplayName>
+      <DisplayName>氚燃料棒 X10</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\HydrogenFuelCell_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="5" TypeId="Ingot" SubtypeId="Hydrogen" />
@@ -278,7 +278,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HydrogenFuelCellDisassembly</SubtypeId>
       </Id>
-      <DisplayName>Hydrogen Fuel Cell</DisplayName>
+      <DisplayName>氚燃料棒</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\HydrogenFuelCell_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="0.5" TypeId="Ingot" SubtypeId="Hydrogen" />

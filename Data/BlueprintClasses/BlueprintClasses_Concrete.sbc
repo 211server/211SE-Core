@@ -7,7 +7,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>StoneCrusher</SubtypeId>
       </Id>
-      <DisplayName>Stone Crusher</DisplayName>
+      <DisplayName>碎石机</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\ingot_class.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\large_block_focus.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</InputConstraintIcon>

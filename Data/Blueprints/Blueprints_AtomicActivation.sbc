@@ -6,7 +6,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DepletedUraniumX100</SubtypeId>
       </Id>
-      <DisplayName>Depleted Uranium X10000</DisplayName>
+      <DisplayName>贫铀 X10000</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\DepletedUranium_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="10000" TypeId="Ingot" SubtypeId="Uranium" />
@@ -22,7 +22,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DepletedUraniumX10</SubtypeId>
       </Id>
-      <DisplayName>Depleted Uranium X1000</DisplayName>
+      <DisplayName>贫铀 X1000</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\DepletedUranium_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ingot" SubtypeId="Uranium" />
@@ -38,7 +38,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DepletedUranium</SubtypeId>
       </Id>
-      <DisplayName>Depleted Uranium X100</DisplayName>
+      <DisplayName>贫铀 X100</DisplayName>
       <Icon>Textures\GUI\Icons\component\FuelRods\DepletedUranium_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Uranium" />
@@ -55,7 +55,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PoloniumX100</SubtypeId>
       </Id>
-      <DisplayName>Polonium x1000</DisplayName>
+      <DisplayName>钋 x1000</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Polonium_ingot.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ingot" SubtypeId="Bismuth" />
@@ -70,7 +70,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>PoloniumX10</SubtypeId>
       </Id>
-      <DisplayName>Polonium x100</DisplayName>
+      <DisplayName>钋 x100</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Polonium_ingot.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="Bismuth" />
@@ -85,7 +85,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Polonium</SubtypeId>
       </Id>
-      <DisplayName>Polonium x10</DisplayName>
+      <DisplayName>钋 x10</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Polonium_ingot.dds</Icon>
       <Prerequisites>
         <Item Amount="10" TypeId="Ingot" SubtypeId="Bismuth" />

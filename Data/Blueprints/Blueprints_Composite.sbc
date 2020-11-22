@@ -6,7 +6,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Arsenolite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Arsenolite</DisplayName>
+      <DisplayName>砒石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Arsenolite.dds</Icon>
       <Prerequisites>
         <Item Amount="725" TypeId="Ore" SubtypeId="Arsenolite" />
@@ -22,7 +22,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Arsenolite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Arsenolite</DisplayName>
+      <DisplayName>砒石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Arsenolite.dds</Icon>
       <Prerequisites>
         <Item Amount="18125" TypeId="Ore" SubtypeId="Arsenolite" />
@@ -38,7 +38,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Arsenolite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Arsenolite</DisplayName>
+      <DisplayName>砒石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Arsenolite.dds</Icon>
       <Prerequisites>
         <Item Amount="36250" TypeId="Ore" SubtypeId="Arsenolite" />
@@ -55,7 +55,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Beryl_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Beryl</DisplayName>
+      <DisplayName>绿柱石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Beryl.dds</Icon>
       <Prerequisites>
         <Item Amount="1750" TypeId="Ore" SubtypeId="Beryl" />
@@ -78,7 +78,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Beryl_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Beryl</DisplayName>
+      <DisplayName>绿柱石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Beryl.dds</Icon>
       <Prerequisites>
         <Item Amount="43750" TypeId="Ore" SubtypeId="Beryl" />
@@ -101,7 +101,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Beryl_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Beryl</DisplayName>
+      <DisplayName>绿柱石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Beryl.dds</Icon>
       <Prerequisites>
         <Item Amount="87500" TypeId="Ore" SubtypeId="Beryl" />
@@ -125,7 +125,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Bismutotantalite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Bismutotantalite</DisplayName>
+      <DisplayName>钽铋矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Bismutotantalite.dds</Icon>
       <Prerequisites>
         <Item Amount="550" TypeId="Ore" SubtypeId="Bismutotantalite" />
@@ -147,7 +147,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Bismutotantalite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Bismutotantalite</DisplayName>
+      <DisplayName>钽铋矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Bismutotantalite.dds</Icon>
       <Prerequisites>
         <Item Amount="13750" TypeId="Ore" SubtypeId="Bismutotantalite" />
@@ -169,7 +169,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Bismutotantalite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Bismutotantalite</DisplayName>
+      <DisplayName>钽铋矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Bismutotantalite.dds</Icon>
       <Prerequisites>
         <Item Amount="27500" TypeId="Ore" SubtypeId="Bismutotantalite" />
@@ -192,7 +192,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Boracite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Boracite</DisplayName>
+      <DisplayName>方硼石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Boracite.dds</Icon>
       <Prerequisites>
         <Item Amount="825" TypeId="Ore" SubtypeId="Boracite" />
@@ -211,7 +211,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Boracite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Boracite</DisplayName>
+      <DisplayName>方硼石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Boracite.dds</Icon>
       <Prerequisites>
         <Item Amount="20625" TypeId="Ore" SubtypeId="Boracite" />
@@ -230,7 +230,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Boracite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Boracite</DisplayName>
+      <DisplayName>方硼石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Boracite.dds</Icon>
       <Prerequisites>
         <Item Amount="41250" TypeId="Ore" SubtypeId="Boracite" />
@@ -250,7 +250,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Borcarite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Borcarite</DisplayName>
+      <DisplayName>碳硼镁钙石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Borcarite.dds</Icon>
       <Prerequisites>
         <Item Amount="700" TypeId="Ore" SubtypeId="Borcarite" />
@@ -270,7 +270,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Borcarite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Borcarite</DisplayName>
+      <DisplayName>碳硼镁钙石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Borcarite.dds</Icon>
       <Prerequisites>
         <Item Amount="17500" TypeId="Ore" SubtypeId="Borcarite" />
@@ -290,7 +290,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Borcarite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Borcarite</DisplayName>
+      <DisplayName>碳硼镁钙石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Borcarite.dds</Icon>
       <Prerequisites>
         <Item Amount="35000" TypeId="Ore" SubtypeId="Borcarite" />
@@ -311,7 +311,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Cadmoindite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cadmoindite</DisplayName>
+      <DisplayName>镉铟矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cadmoindite.dds</Icon>
       <Prerequisites>
         <Item Amount="475" TypeId="Ore" SubtypeId="Cadmoindite" />
@@ -328,7 +328,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Cadmoindite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cadmoindite</DisplayName>
+      <DisplayName>镉铟矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cadmoindite.dds</Icon>
       <Prerequisites>
         <Item Amount="11875" TypeId="Ore" SubtypeId="Cadmoindite" />
@@ -345,7 +345,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Cadmoindite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cadmoindite</DisplayName>
+      <DisplayName>镉铟矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cadmoindite.dds</Icon>
       <Prerequisites>
         <Item Amount="23750" TypeId="Ore" SubtypeId="Cadmoindite" />
@@ -363,7 +363,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Cadmoselite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cadmoselite</DisplayName>
+      <DisplayName>硒化镉矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cadmoselite.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ore" SubtypeId="Cadmoselite" />
@@ -379,7 +379,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Cadmoselite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cadmoselite</DisplayName>
+      <DisplayName>硒化镉矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cadmoselite.dds</Icon>
       <Prerequisites>
         <Item Amount="12500" TypeId="Ore" SubtypeId="Cadmoselite" />
@@ -395,7 +395,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Cadmoselite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cadmoselite</DisplayName>
+      <DisplayName>硒化镉矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cadmoselite.dds</Icon>
       <Prerequisites>
         <Item Amount="25000" TypeId="Ore" SubtypeId="Cadmoselite" />
@@ -412,7 +412,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Calaverite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Calaverite</DisplayName>
+      <DisplayName>碲金矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Calaverite.dds</Icon>
       <Prerequisites>
         <Item Amount="450" TypeId="Ore" SubtypeId="Calaverite" />
@@ -428,7 +428,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Calaverite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Calaverite</DisplayName>
+      <DisplayName>碲金矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Calaverite.dds</Icon>
       <Prerequisites>
         <Item Amount="11250" TypeId="Ore" SubtypeId="Calaverite" />
@@ -444,7 +444,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Calaverite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Calaverite</DisplayName>
+      <DisplayName>碲金矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Calaverite.dds</Icon>
       <Prerequisites>
         <Item Amount="22500" TypeId="Ore" SubtypeId="Calaverite" />
@@ -461,7 +461,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Cassiterite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cassiterite</DisplayName>
+      <DisplayName>锡石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cassiterite.dds</Icon>
       <Prerequisites>
         <Item Amount="750" TypeId="Ore" SubtypeId="Cassiterite" />
@@ -479,7 +479,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Cassiterite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cassiterite</DisplayName>
+      <DisplayName>锡石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cassiterite.dds</Icon>
       <Prerequisites>
         <Item Amount="18750" TypeId="Ore" SubtypeId="Cassiterite" />
@@ -497,7 +497,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Cassiterite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cassiterite</DisplayName>
+      <DisplayName>锡石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cassiterite.dds</Icon>
       <Prerequisites>
         <Item Amount="37500" TypeId="Ore" SubtypeId="Cassiterite" />
@@ -516,7 +516,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Cerite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cerite</DisplayName>
+      <DisplayName>铈硅石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cerite.dds</Icon>
       <Prerequisites>
         <Item Amount="2500" TypeId="Ore" SubtypeId="Cerite" />
@@ -539,7 +539,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Cerite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cerite</DisplayName>
+      <DisplayName>铈硅石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cerite.dds</Icon>
       <Prerequisites>
         <Item Amount="62500" TypeId="Ore" SubtypeId="Cerite" />
@@ -562,7 +562,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Cerite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cerite</DisplayName>
+      <DisplayName>铈硅石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cerite.dds</Icon>
       <Prerequisites>
         <Item Amount="125000" TypeId="Ore" SubtypeId="Cerite" />
@@ -586,7 +586,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Chalcopyrite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chalcopyrite</DisplayName>
+      <DisplayName>黄铜矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chalcopyrite.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ore" SubtypeId="Chalcopyrite" />
@@ -609,7 +609,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Chalcopyrite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chalcopyrite</DisplayName>
+      <DisplayName>黄铜矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chalcopyrite.dds</Icon>
       <Prerequisites>
         <Item Amount="25000" TypeId="Ore" SubtypeId="Chalcopyrite" />
@@ -632,7 +632,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Chalcopyrite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chalcopyrite</DisplayName>
+      <DisplayName>黄铜矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chalcopyrite.dds</Icon>
       <Prerequisites>
         <Item Amount="50000" TypeId="Ore" SubtypeId="Chalcopyrite" />
@@ -656,7 +656,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Chamosite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chamosite</DisplayName>
+      <DisplayName>鲕绿泥石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chamosite.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ore" SubtypeId="Chamosite" />
@@ -676,7 +676,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Chamosite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chamosite</DisplayName>
+      <DisplayName>鲕绿泥石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chamosite.dds</Icon>
       <Prerequisites>
         <Item Amount="25000" TypeId="Ore" SubtypeId="Chamosite" />
@@ -696,7 +696,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Chamosite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chamosite</DisplayName>
+      <DisplayName>鲕绿泥石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chamosite.dds</Icon>
       <Prerequisites>
         <Item Amount="50000" TypeId="Ore" SubtypeId="Chamosite" />
@@ -717,7 +717,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Chaoite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chaoite</DisplayName>
+      <DisplayName>蜡石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chaoite.dds</Icon>
       <Prerequisites>
         <Item Amount="850" TypeId="Ore" SubtypeId="Chaoite" />
@@ -734,7 +734,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Chaoite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chaoite</DisplayName>
+      <DisplayName>蜡石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chaoite.dds</Icon>
       <Prerequisites>
         <Item Amount="21250" TypeId="Ore" SubtypeId="Chaoite" />
@@ -751,7 +751,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Chaoite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chaoite</DisplayName>
+      <DisplayName>蜡石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chaoite.dds</Icon>
       <Prerequisites>
         <Item Amount="42500" TypeId="Ore" SubtypeId="Chaoite" />
@@ -769,7 +769,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Chromferide_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chromferide</DisplayName>
+      <DisplayName>铁铬矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chromferide.dds</Icon>
       <Prerequisites>
         <Item Amount="700" TypeId="Ore" SubtypeId="Chromferide" />
@@ -785,7 +785,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Chromferide_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chromferide</DisplayName>
+      <DisplayName>铁铬矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chromferide.dds</Icon>
       <Prerequisites>
         <Item Amount="17500" TypeId="Ore" SubtypeId="Chromferide" />
@@ -801,7 +801,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Chromferide_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chromferide</DisplayName>
+      <DisplayName>铁铬矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chromferide.dds</Icon>
       <Prerequisites>
         <Item Amount="35000" TypeId="Ore" SubtypeId="Chromferide" />
@@ -818,7 +818,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Chromite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chromite</DisplayName>
+      <DisplayName>铬铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chromite.dds</Icon>
       <Prerequisites>
         <Item Amount="600" TypeId="Ore" SubtypeId="Chromite" />
@@ -836,7 +836,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Chromite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chromite</DisplayName>
+      <DisplayName>铬铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chromite.dds</Icon>
       <Prerequisites>
         <Item Amount="15000" TypeId="Ore" SubtypeId="Chromite" />
@@ -854,7 +854,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Chromite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Chromite</DisplayName>
+      <DisplayName>铬铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Chromite.dds</Icon>
       <Prerequisites>
         <Item Amount="30000" TypeId="Ore" SubtypeId="Chromite" />
@@ -873,7 +873,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Cinnabar_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cinnabar</DisplayName>
+      <DisplayName>朱砂矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cinnabar.dds</Icon>
       <Prerequisites>
         <Item Amount="400" TypeId="Ore" SubtypeId="Cinnabar" />
@@ -889,7 +889,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Cinnabar_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cinnabar</DisplayName>
+      <DisplayName>朱砂矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cinnabar.dds</Icon>
       <Prerequisites>
         <Item Amount="10000" TypeId="Ore" SubtypeId="Cinnabar" />
@@ -905,7 +905,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Cinnabar_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cinnabar</DisplayName>
+      <DisplayName>朱砂矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cinnabar.dds</Icon>
       <Prerequisites>
         <Item Amount="20000" TypeId="Ore" SubtypeId="Cinnabar" />
@@ -922,7 +922,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Coal_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Coal</DisplayName>
+      <DisplayName>煤矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Coal.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ore" SubtypeId="Coal" />
@@ -940,7 +940,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Coal_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Coal</DisplayName>
+      <DisplayName>煤矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Coal.dds</Icon>
       <Prerequisites>
         <Item Amount="25000" TypeId="Ore" SubtypeId="Coal" />
@@ -958,7 +958,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Coal_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Coal</DisplayName>
+      <DisplayName>煤矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Coal.dds</Icon>
       <Prerequisites>
         <Item Amount="50000" TypeId="Ore" SubtypeId="Coal" />
@@ -977,7 +977,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Cobaltite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cobaltite</DisplayName>
+      <DisplayName>辉砷钴矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cobaltite.dds</Icon>
       <Prerequisites>
         <Item Amount="1750" TypeId="Ore" SubtypeId="Cobaltite" />
@@ -999,7 +999,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Cobaltite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cobaltite</DisplayName>
+      <DisplayName>辉砷钴矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cobaltite.dds</Icon>
       <Prerequisites>
         <Item Amount="43750" TypeId="Ore" SubtypeId="Cobaltite" />
@@ -1021,7 +1021,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Cobaltite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Cobaltite</DisplayName>
+      <DisplayName>辉砷钴矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Cobaltite.dds</Icon>
       <Prerequisites>
         <Item Amount="87500" TypeId="Ore" SubtypeId="Cobaltite" />
@@ -1044,7 +1044,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Columbite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Columbite</DisplayName>
+      <DisplayName>铌铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Columbite.dds</Icon>
       <Prerequisites>
         <Item Amount="650" TypeId="Ore" SubtypeId="Columbite" />
@@ -1063,7 +1063,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Columbite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Columbite</DisplayName>
+      <DisplayName>铌铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Columbite.dds</Icon>
       <Prerequisites>
         <Item Amount="16250" TypeId="Ore" SubtypeId="Columbite" />
@@ -1082,7 +1082,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Columbite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Columbite</DisplayName>
+      <DisplayName>铌铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Columbite.dds</Icon>
       <Prerequisites>
         <Item Amount="32500" TypeId="Ore" SubtypeId="Columbite" />
@@ -1102,7 +1102,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Ferchromide_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Ferchromide</DisplayName>
+      <DisplayName>方铁铬矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ferchromide.dds</Icon>
       <Prerequisites>
         <Item Amount="650" TypeId="Ore" SubtypeId="Ferchromide" />
@@ -1118,7 +1118,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Ferchromide_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Ferchromide</DisplayName>
+      <DisplayName>方铁铬矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ferchromide.dds</Icon>
       <Prerequisites>
         <Item Amount="16250" TypeId="Ore" SubtypeId="Ferchromide" />
@@ -1134,7 +1134,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Ferchromide_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Ferchromide</DisplayName>
+      <DisplayName>方铁铬矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ferchromide.dds</Icon>
       <Prerequisites>
         <Item Amount="32500" TypeId="Ore" SubtypeId="Ferchromide" />
@@ -1151,7 +1151,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Fluorapatite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Fluorapatite</DisplayName>
+      <DisplayName>氟磷灰石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fluorapatite.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ore" SubtypeId="Fluorapatite" />
@@ -1172,7 +1172,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Fluorapatite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Fluorapatite</DisplayName>
+      <DisplayName>氟磷灰石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fluorapatite.dds</Icon>
       <Prerequisites>
         <Item Amount="25000" TypeId="Ore" SubtypeId="Fluorapatite" />
@@ -1193,7 +1193,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Fluorapatite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Fluorapatite</DisplayName>
+      <DisplayName>氟磷灰石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fluorapatite.dds</Icon>
       <Prerequisites>
         <Item Amount="50000" TypeId="Ore" SubtypeId="Fluorapatite" />
@@ -1215,7 +1215,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Fontarnauite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Fontarnauite</DisplayName>
+      <DisplayName>枫丹石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fontarnauite.dds</Icon>
       <Prerequisites>
         <Item Amount="950" TypeId="Ore" SubtypeId="Fontarnauite" />
@@ -1237,7 +1237,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Fontarnauite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Fontarnauite</DisplayName>
+      <DisplayName>枫丹石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fontarnauite.dds</Icon>
       <Prerequisites>
         <Item Amount="23750" TypeId="Ore" SubtypeId="Fontarnauite" />
@@ -1259,7 +1259,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Fontarnauite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Fontarnauite</DisplayName>
+      <DisplayName>枫丹石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fontarnauite.dds</Icon>
       <Prerequisites>
         <Item Amount="47500" TypeId="Ore" SubtypeId="Fontarnauite" />
@@ -1282,7 +1282,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Germanite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Germanite</DisplayName>
+      <DisplayName>锗石矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Germanite.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ore" SubtypeId="Germanite" />
@@ -1305,7 +1305,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Germanite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Germanite</DisplayName>
+      <DisplayName>锗石矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Germanite.dds</Icon>
       <Prerequisites>
         <Item Amount="25000" TypeId="Ore" SubtypeId="Germanite" />
@@ -1328,7 +1328,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Germanite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Germanite</DisplayName>
+      <DisplayName>锗石矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Germanite.dds</Icon>
       <Prerequisites>
         <Item Amount="50000" TypeId="Ore" SubtypeId="Germanite" />
@@ -1352,7 +1352,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Graphite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Graphite</DisplayName>
+      <DisplayName>石墨矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Graphite.dds</Icon>
       <Prerequisites>
         <Item Amount="1000" TypeId="Ore" SubtypeId="Graphite" />
@@ -1367,7 +1367,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Graphite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Graphite</DisplayName>
+      <DisplayName>石墨矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Graphite.dds</Icon>
       <Prerequisites>
         <Item Amount="25000" TypeId="Ore" SubtypeId="Graphite" />
@@ -1382,7 +1382,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Graphite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Graphite</DisplayName>
+      <DisplayName>石墨矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Graphite.dds</Icon>
       <Prerequisites>
         <Item Amount="50000" TypeId="Ore" SubtypeId="Graphite" />
@@ -1398,7 +1398,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Halite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Halite</DisplayName>
+      <DisplayName>岩盐矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Halite.dds</Icon>
       <Prerequisites>
         <Item Amount="450" TypeId="Ore" SubtypeId="Halite" />
@@ -1416,7 +1416,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Halite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Halite</DisplayName>
+      <DisplayName>岩盐矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Halite.dds</Icon>
       <Prerequisites>
         <Item Amount="11250" TypeId="Ore" SubtypeId="Halite" />
@@ -1434,7 +1434,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Halite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Halite</DisplayName>
+      <DisplayName>岩盐矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Halite.dds</Icon>
       <Prerequisites>
         <Item Amount="22500" TypeId="Ore" SubtypeId="Halite" />
@@ -1453,7 +1453,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Hematite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Hematite</DisplayName>
+      <DisplayName>赤铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
       <Prerequisites>
         <Item Amount="1250" TypeId="Ore" SubtypeId="Hematite" />
@@ -1471,7 +1471,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Hematite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Hematite</DisplayName>
+      <DisplayName>赤铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
       <Prerequisites>
         <Item Amount="31250" TypeId="Ore" SubtypeId="Hematite" />
@@ -1489,7 +1489,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Hematite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Hematite</DisplayName>
+      <DisplayName>赤铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
       <Prerequisites>
         <Item Amount="62500" TypeId="Ore" SubtypeId="Hematite" />
@@ -1508,7 +1508,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Ilmenite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Ilmenite</DisplayName>
+      <DisplayName>钛铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
       <Prerequisites>
         <Item Amount="650" TypeId="Ore" SubtypeId="Ilmenite" />
@@ -1528,7 +1528,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Ilmenite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Ilmenite</DisplayName>
+      <DisplayName>钛铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
       <Prerequisites>
         <Item Amount="16250" TypeId="Ore" SubtypeId="Ilmenite" />
@@ -1548,7 +1548,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Ilmenite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Ilmenite</DisplayName>
+      <DisplayName>钛铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
       <Prerequisites>
         <Item Amount="32500" TypeId="Ore" SubtypeId="Ilmenite" />
@@ -1569,7 +1569,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Indite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Indite</DisplayName>
+      <DisplayName>硫铟铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Indite.dds</Icon>
       <Prerequisites>
         <Item Amount="550" TypeId="Ore" SubtypeId="Indite" />
@@ -1586,7 +1586,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Indite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Indite</DisplayName>
+      <DisplayName>硫铟铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Indite.dds</Icon>
       <Prerequisites>
         <Item Amount="13750" TypeId="Ore" SubtypeId="Indite" />
@@ -1603,7 +1603,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Indite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Indite</DisplayName>
+      <DisplayName>硫铟铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Indite.dds</Icon>
       <Prerequisites>
         <Item Amount="27500" TypeId="Ore" SubtypeId="Indite" />
@@ -1621,7 +1621,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Iodargyrite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Iodargyrite</DisplayName>
+      <DisplayName>碘化银矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
       <Prerequisites>
         <Item Amount="325" TypeId="Ore" SubtypeId="Iodargyrite" />
@@ -1638,7 +1638,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Iodargyrite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Iodargyrite</DisplayName>
+      <DisplayName>碘化银矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
       <Prerequisites>
         <Item Amount="8125" TypeId="Ore" SubtypeId="Iodargyrite" />
@@ -1655,7 +1655,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Iodargyrite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Iodargyrite</DisplayName>
+      <DisplayName>碘化银矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
       <Prerequisites>
         <Item Amount="16250" TypeId="Ore" SubtypeId="Iodargyrite" />
@@ -1673,7 +1673,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Kentbrooksite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Kentbrooksite</DisplayName>
+      <DisplayName>肯异性石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Kentbrooksite.dds</Icon>
       <Prerequisites>
         <Item Amount="350" TypeId="Ore" SubtypeId="Kentbrooksite" />
@@ -1701,7 +1701,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Kentbrooksite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Kentbrooksite</DisplayName>
+      <DisplayName>肯异性石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Kentbrooksite.dds</Icon>
       <Prerequisites>
         <Item Amount="8750" TypeId="Ore" SubtypeId="Kentbrooksite" />
@@ -1729,7 +1729,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Kentbrooksite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Kentbrooksite</DisplayName>
+      <DisplayName>肯异性石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Kentbrooksite.dds</Icon>
       <Prerequisites>
         <Item Amount="17500" TypeId="Ore" SubtypeId="Kentbrooksite" />
@@ -1758,7 +1758,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Lepidolite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Lepidolite</DisplayName>
+      <DisplayName>锂云母矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Lepidolite.dds</Icon>
       <Prerequisites>
         <Item Amount="650" TypeId="Ore" SubtypeId="Lepidolite" />
@@ -1779,7 +1779,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Lepidolite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Lepidolite</DisplayName>
+      <DisplayName>锂云母矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Lepidolite.dds</Icon>
       <Prerequisites>
         <Item Amount="16250" TypeId="Ore" SubtypeId="Lepidolite" />
@@ -1800,7 +1800,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Lepidolite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Lepidolite</DisplayName>
+      <DisplayName>锂云母矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Lepidolite.dds</Icon>
       <Prerequisites>
         <Item Amount="32500" TypeId="Ore" SubtypeId="Lepidolite" />
@@ -1822,7 +1822,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Orpiment_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Orpiment</DisplayName>
+      <DisplayName>雌黄矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Orpiment.dds</Icon>
       <Prerequisites>
         <Item Amount="625" TypeId="Ore" SubtypeId="Orpiment" />
@@ -1841,7 +1841,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Orpiment_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Orpiment</DisplayName>
+      <DisplayName>雌黄矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Orpiment.dds</Icon>
       <Prerequisites>
         <Item Amount="15625" TypeId="Ore" SubtypeId="Orpiment" />
@@ -1860,7 +1860,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Orpiment_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Orpiment</DisplayName>
+      <DisplayName>雌黄矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Orpiment.dds</Icon>
       <Prerequisites>
         <Item Amount="31250" TypeId="Ore" SubtypeId="Orpiment" />
@@ -1880,7 +1880,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Palladseite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Palladseite</DisplayName>
+      <DisplayName>硒钯矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Palladseite.dds</Icon>
       <Prerequisites>
         <Item Amount="525" TypeId="Ore" SubtypeId="Palladseite" />
@@ -1898,7 +1898,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Palladseite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Palladseite</DisplayName>
+      <DisplayName>硒钯矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Palladseite.dds</Icon>
       <Prerequisites>
         <Item Amount="13125" TypeId="Ore" SubtypeId="Palladseite" />
@@ -1916,7 +1916,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Palladseite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Palladseite</DisplayName>
+      <DisplayName>硒钯矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Palladseite.dds</Icon>
       <Prerequisites>
         <Item Amount="26250" TypeId="Ore" SubtypeId="Palladseite" />
@@ -1935,7 +1935,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Pyrite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Pyrite</DisplayName>
+      <DisplayName>黄铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Pyrite.dds</Icon>
       <Prerequisites>
         <Item Amount="875" TypeId="Ore" SubtypeId="Pyrite" />
@@ -1961,7 +1961,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Pyrite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Pyrite</DisplayName>
+      <DisplayName>黄铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Pyrite.dds</Icon>
       <Prerequisites>
         <Item Amount="21875" TypeId="Ore" SubtypeId="Pyrite" />
@@ -1987,7 +1987,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Pyrite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Pyrite</DisplayName>
+      <DisplayName>黄铁矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Pyrite.dds</Icon>
       <Prerequisites>
         <Item Amount="43750" TypeId="Ore" SubtypeId="Pyrite" />
@@ -2014,7 +2014,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Quartz_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Quartz</DisplayName>
+      <DisplayName>石英矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Quartz.dds</Icon>
       <Prerequisites>
         <Item Amount="875" TypeId="Ore" SubtypeId="Quartz" />
@@ -2038,7 +2038,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Quartz_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Quartz</DisplayName>
+      <DisplayName>石英矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Quartz.dds</Icon>
       <Prerequisites>
         <Item Amount="21875" TypeId="Ore" SubtypeId="Quartz" />
@@ -2062,7 +2062,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Quartz_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Quartz</DisplayName>
+      <DisplayName>石英矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Quartz.dds</Icon>
       <Prerequisites>
         <Item Amount="43750" TypeId="Ore" SubtypeId="Quartz" />
@@ -2087,7 +2087,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Realgar_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Realgar</DisplayName>
+      <DisplayName>雄黄矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Realgar.dds</Icon>
       <Prerequisites>
         <Item Amount="675" TypeId="Ore" SubtypeId="Realgar" />
@@ -2103,7 +2103,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Realgar_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Realgar</DisplayName>
+      <DisplayName>雄黄矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Realgar.dds</Icon>
       <Prerequisites>
         <Item Amount="16875" TypeId="Ore" SubtypeId="Realgar" />
@@ -2119,7 +2119,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Realgar_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Realgar</DisplayName>
+      <DisplayName>雄黄矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Realgar.dds</Icon>
       <Prerequisites>
         <Item Amount="33750" TypeId="Ore" SubtypeId="Realgar" />
@@ -2136,7 +2136,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Rhodochrosite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Rhodochrosite</DisplayName>
+      <DisplayName>菱锰矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Rhodochrosite.dds</Icon>
       <Prerequisites>
         <Item Amount="750" TypeId="Ore" SubtypeId="Rhodochrosite" />
@@ -2159,7 +2159,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Rhodochrosite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Rhodochrosite</DisplayName>
+      <DisplayName>菱锰矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Rhodochrosite.dds</Icon>
       <Prerequisites>
         <Item Amount="18750" TypeId="Ore" SubtypeId="Rhodochrosite" />
@@ -2182,7 +2182,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Rhodochrosite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Rhodochrosite</DisplayName>
+      <DisplayName>菱锰矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Rhodochrosite.dds</Icon>
       <Prerequisites>
         <Item Amount="37500" TypeId="Ore" SubtypeId="Rhodochrosite" />
@@ -2206,7 +2206,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Ruthenarsenite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Ruthenarsenite</DisplayName>
+      <DisplayName>砷钌矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ruthenarsenite.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ore" SubtypeId="Ruthenarsenite" />
@@ -2228,7 +2228,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Ruthenarsenite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Ruthenarsenite</DisplayName>
+      <DisplayName>砷钌矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ruthenarsenite.dds</Icon>
       <Prerequisites>
         <Item Amount="12500" TypeId="Ore" SubtypeId="Ruthenarsenite" />
@@ -2250,7 +2250,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Ruthenarsenite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Ruthenarsenite</DisplayName>
+      <DisplayName>砷钌矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ruthenarsenite.dds</Icon>
       <Prerequisites>
         <Item Amount="25000" TypeId="Ore" SubtypeId="Ruthenarsenite" />
@@ -2273,7 +2273,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Rutheniridosmine_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Rutheniridosmine</DisplayName>
+      <DisplayName>钌铱锇矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Rutheniridosmine.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ore" SubtypeId="Rutheniridosmine" />
@@ -2293,7 +2293,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Rutheniridosmine_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Rutheniridosmine</DisplayName>
+      <DisplayName>钌铱锇矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Rutheniridosmine.dds</Icon>
       <Prerequisites>
         <Item Amount="12500" TypeId="Ore" SubtypeId="Rutheniridosmine" />
@@ -2313,7 +2313,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Rutheniridosmine_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Rutheniridosmine</DisplayName>
+      <DisplayName>钌铱锇矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Rutheniridosmine.dds</Icon>
       <Prerequisites>
         <Item Amount="25000" TypeId="Ore" SubtypeId="Rutheniridosmine" />
@@ -2334,7 +2334,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Sphalerite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Sphalerite</DisplayName>
+      <DisplayName>闪锌矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sphalerite.dds</Icon>
       <Prerequisites>
         <Item Amount="575" TypeId="Ore" SubtypeId="Sphalerite" />
@@ -2362,7 +2362,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Sphalerite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Sphalerite</DisplayName>
+      <DisplayName>闪锌矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sphalerite.dds</Icon>
       <Prerequisites>
         <Item Amount="14375" TypeId="Ore" SubtypeId="Sphalerite" />
@@ -2390,7 +2390,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Sphalerite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Sphalerite</DisplayName>
+      <DisplayName>闪锌矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sphalerite.dds</Icon>
       <Prerequisites>
         <Item Amount="28750" TypeId="Ore" SubtypeId="Sphalerite" />
@@ -2419,7 +2419,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Spodumene_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Spodumene</DisplayName>
+      <DisplayName>锂辉石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Spodumene.dds</Icon>
       <Prerequisites>
         <Item Amount="975" TypeId="Ore" SubtypeId="Spodumene" />
@@ -2443,7 +2443,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Spodumene_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Spodumene</DisplayName>
+      <DisplayName>锂辉石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Spodumene.dds</Icon>
       <Prerequisites>
         <Item Amount="24375" TypeId="Ore" SubtypeId="Spodumene" />
@@ -2467,7 +2467,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Spodumene_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Spodumene</DisplayName>
+      <DisplayName>锂辉石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Spodumene.dds</Icon>
       <Prerequisites>
         <Item Amount="48750" TypeId="Ore" SubtypeId="Spodumene" />
@@ -2492,7 +2492,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Stibiotantalite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Stibiotantalite</DisplayName>
+      <DisplayName>钽锑矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Stibiotantalite.dds</Icon>
       <Prerequisites>
         <Item Amount="650" TypeId="Ore" SubtypeId="Stibiotantalite" />
@@ -2509,7 +2509,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Stibiotantalite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Stibiotantalite</DisplayName>
+      <DisplayName>钽锑矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Stibiotantalite.dds</Icon>
       <Prerequisites>
         <Item Amount="16250" TypeId="Ore" SubtypeId="Stibiotantalite" />
@@ -2526,7 +2526,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Stibiotantalite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Stibiotantalite</DisplayName>
+      <DisplayName>钽锑矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Stibiotantalite.dds</Icon>
       <Prerequisites>
         <Item Amount="32500" TypeId="Ore" SubtypeId="Stibiotantalite" />
@@ -2544,7 +2544,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Strontiofluorite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Strontiofluorite</DisplayName>
+      <DisplayName>氟锶矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Strontiofluorite.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ore" SubtypeId="Strontiofluorite" />
@@ -2560,7 +2560,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Strontiofluorite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Strontiofluorite</DisplayName>
+      <DisplayName>氟锶矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Strontiofluorite.dds</Icon>
       <Prerequisites>
         <Item Amount="12500" TypeId="Ore" SubtypeId="Strontiofluorite" />
@@ -2576,7 +2576,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Strontiofluorite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Strontiofluorite</DisplayName>
+      <DisplayName>氟锶矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Strontiofluorite.dds</Icon>
       <Prerequisites>
         <Item Amount="25000" TypeId="Ore" SubtypeId="Strontiofluorite" />
@@ -2593,7 +2593,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Sulfur_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Sulfur</DisplayName>
+      <DisplayName>硫矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sulfur.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ore" SubtypeId="Sulfur" />
@@ -2608,7 +2608,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Sulfur_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Sulfur</DisplayName>
+      <DisplayName>硫矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sulfur.dds</Icon>
       <Prerequisites>
         <Item Amount="2500" TypeId="Ore" SubtypeId="Sulfur" />
@@ -2623,7 +2623,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Sulfur_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Sulfur</DisplayName>
+      <DisplayName>硫矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sulfur.dds</Icon>
       <Prerequisites>
         <Item Amount="5000" TypeId="Ore" SubtypeId="Sulfur" />
@@ -2639,7 +2639,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Sylvite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Sylvite</DisplayName>
+      <DisplayName>钾石盐矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sylvite.dds</Icon>
       <Prerequisites>
         <Item Amount="625" TypeId="Ore" SubtypeId="Sylvite" />
@@ -2658,7 +2658,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Sylvite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Sylvite</DisplayName>
+      <DisplayName>钾石盐矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sylvite.dds</Icon>
       <Prerequisites>
         <Item Amount="15625" TypeId="Ore" SubtypeId="Sylvite" />
@@ -2677,7 +2677,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Sylvite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Sylvite</DisplayName>
+      <DisplayName>钾石盐矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Sylvite.dds</Icon>
       <Prerequisites>
         <Item Amount="31250" TypeId="Ore" SubtypeId="Sylvite" />
@@ -2697,7 +2697,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Telluropalladinite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Telluropalladinite</DisplayName>
+      <DisplayName>斜碲钯矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Telluropalladinite.dds</Icon>
       <Prerequisites>
         <Item Amount="350" TypeId="Ore" SubtypeId="Telluropalladinite" />
@@ -2717,7 +2717,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Telluropalladinite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Telluropalladinite</DisplayName>
+      <DisplayName>斜碲钯矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Telluropalladinite.dds</Icon>
       <Prerequisites>
         <Item Amount="8750" TypeId="Ore" SubtypeId="Telluropalladinite" />
@@ -2737,7 +2737,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Telluropalladinite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Telluropalladinite</DisplayName>
+      <DisplayName>斜碲钯矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Telluropalladinite.dds</Icon>
       <Prerequisites>
         <Item Amount="17500" TypeId="Ore" SubtypeId="Telluropalladinite" />
@@ -2758,7 +2758,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Titanite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Titanite</DisplayName>
+      <DisplayName>榍石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Titanite.dds</Icon>
       <Prerequisites>
         <Item Amount="600" TypeId="Ore" SubtypeId="Titanite" />
@@ -2788,7 +2788,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Titanite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Titanite</DisplayName>
+      <DisplayName>榍石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Titanite.dds</Icon>
       <Prerequisites>
         <Item Amount="15000" TypeId="Ore" SubtypeId="Titanite" />
@@ -2818,7 +2818,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Titanite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Titanite</DisplayName>
+      <DisplayName>榍石</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Titanite.dds</Icon>
       <Prerequisites>
         <Item Amount="30000" TypeId="Ore" SubtypeId="Titanite" />
@@ -2849,7 +2849,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Bsc_Wulfenite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Wulfenite</DisplayName>
+      <DisplayName>钼铅矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Wulfenite.dds</Icon>
       <Prerequisites>
         <Item Amount="725" TypeId="Ore" SubtypeId="Wulfenite" />
@@ -2872,7 +2872,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Adv_Wulfenite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Wulfenite</DisplayName>
+      <DisplayName>钼铅矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Wulfenite.dds</Icon>
       <Prerequisites>
         <Item Amount="18125" TypeId="Ore" SubtypeId="Wulfenite" />
@@ -2895,7 +2895,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>Eli_Wulfenite_OreToIngot</SubtypeId>
       </Id>
-      <DisplayName>Wulfenite</DisplayName>
+      <DisplayName>钼铅矿</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Wulfenite.dds</Icon>
       <Prerequisites>
         <Item Amount="36250" TypeId="Ore" SubtypeId="Wulfenite" />

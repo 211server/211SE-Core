@@ -6,7 +6,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>FuelRods</SubtypeId>
       </Id>
-      <DisplayName>FuelRods</DisplayName>
+      <DisplayName>燃料棒</DisplayName>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
@@ -16,7 +16,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>MassProdFuelRods</SubtypeId>
       </Id>
-      <DisplayName>FuelRod Mass Production</DisplayName>
+      <DisplayName>燃料棒批量生产</DisplayName>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
@@ -26,7 +26,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>NuetronActivation</SubtypeId>
       </Id>
-      <DisplayName>Polonium</DisplayName>
+      <DisplayName>钋</DisplayName>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
@@ -36,7 +36,7 @@
         <TypeId>BlueprintClassDefinition</TypeId>
         <SubtypeId>MassNuetronActivation</SubtypeId>
       </Id>
-      <DisplayName>Nuetron Activation</DisplayName>
+      <DisplayName>中子活化</DisplayName>
       <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
       <HighlightIcon>Textures\GUI\Icons\buttons\component_highlight.dds</HighlightIcon>
       <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>

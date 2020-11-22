@@ -6,7 +6,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DemolishedConcreteToIngot</SubtypeId>
       </Id>
-      <DisplayName>Demolished Concrete</DisplayName>
+      <DisplayName>废弃混凝土</DisplayName>
       <Icon>Textures\GUI\Icons\DemolishedConcrete_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ore" SubtypeId="DemolishedConcrete" />
@@ -25,7 +25,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DemolishedConcreteToGravel</SubtypeId>
       </Id>
-      <DisplayName>Concrete</DisplayName>
+      <DisplayName>混凝土</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Gravel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ore" SubtypeId="DemolishedConcrete" />
@@ -43,7 +43,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>FineSandToIngot</SubtypeId>
       </Id>
-      <DisplayName>Sand</DisplayName>
+      <DisplayName>沙子</DisplayName>
 		<Icon>Textures\GUI\Icons\ore_sand.dds</Icon>
       <Prerequisites>
         <Item Amount="100" TypeId="Ingot" SubtypeId="FineSand" />
@@ -61,7 +61,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>StonetoGravel</SubtypeId>
       </Id>
-      <DisplayName>Gravel</DisplayName>
+      <DisplayName>碎石</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Gravel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ore" SubtypeId="Stone" />
@@ -79,7 +79,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>DesertRocktoGravel</SubtypeId>
       </Id>
-      <DisplayName>Gravel</DisplayName>
+      <DisplayName>碎石</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Gravel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ore" SubtypeId="DesertRock" />
@@ -97,7 +97,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AnorthitetoGravel</SubtypeId>
       </Id>
-      <DisplayName>Gravel</DisplayName>
+      <DisplayName>碎石</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Gravel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ore" SubtypeId="Anorthite" />
@@ -115,7 +115,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>MarsRockstoGravel</SubtypeId>
       </Id>
-      <DisplayName>Gravel</DisplayName>
+      <DisplayName>碎石</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Gravel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ore" SubtypeId="MarsRocks" />
@@ -133,7 +133,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AlienRock_01toGravel</SubtypeId>
       </Id>
-      <DisplayName>Gravel</DisplayName>
+      <DisplayName>碎石</DisplayName>
       <Icon>Textures\GUI\Icons\ingot\Alloys\Gravel_Icon.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ore" SubtypeId="AlienRock_01" />
@@ -151,7 +151,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>SandtoFineSand</SubtypeId>
       </Id>
-      <DisplayName>Fine Sand</DisplayName>
+      <DisplayName>细沙</DisplayName>
 		<Icon>Textures\GUI\Icons\ore_sand.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ore" SubtypeId="Sand_02" />
@@ -165,7 +165,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>AlienSandtoFineSand</SubtypeId>
       </Id>
-      <DisplayName>Fine Sand</DisplayName>
+      <DisplayName>细沙</DisplayName>
 		<Icon>Textures\GUI\Icons\ore_sand.dds</Icon>
       <Prerequisites>
         <Item Amount="500" TypeId="Ore" SubtypeId="AlienSand" />
