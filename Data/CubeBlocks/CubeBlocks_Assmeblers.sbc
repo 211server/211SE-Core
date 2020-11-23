@@ -395,7 +395,7 @@
       <BlockVariants />
       <BuildTimeSeconds>240</BuildTimeSeconds>
       <ResourceSinkGroup>Factory</ResourceSinkGroup>
-      <InventoryMaxVolume>15</InventoryMaxVolume>
+      <InventoryMaxVolume>30</InventoryMaxVolume>
       <InventorySize>
         <X>2</X>
         <Y>4</Y>
@@ -467,7 +467,7 @@
       <BlockVariants />
       <BuildTimeSeconds>240</BuildTimeSeconds>
       <ResourceSinkGroup>Factory</ResourceSinkGroup>
-      <InventoryMaxVolume>15</InventoryMaxVolume>
+      <InventoryMaxVolume>30</InventoryMaxVolume>
       <InventorySize>
         <X>2</X>
         <Y>4</Y>
@@ -560,7 +560,7 @@
       <BlockVariants />
       <BuildTimeSeconds>240</BuildTimeSeconds>
       <ResourceSinkGroup>Factory</ResourceSinkGroup>
-      <InventoryMaxVolume>15</InventoryMaxVolume>
+      <InventoryMaxVolume>30</InventoryMaxVolume>
       <InventorySize>
         <X>2</X>
         <Y>4</Y>
@@ -695,7 +695,7 @@
       <BlockVariants />
       <BuildTimeSeconds>240</BuildTimeSeconds>
       <ResourceSinkGroup>Factory</ResourceSinkGroup>
-      <InventoryMaxVolume>15</InventoryMaxVolume>
+      <InventoryMaxVolume>30</InventoryMaxVolume>
       <InventorySize>
         <X>2</X>
         <Y>4</Y>
